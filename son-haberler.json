@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-10-31T11:40:32.284Z",
+ "guncelleme": "2026-10-31T12:17:09.974Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2046,
+   "metin": "📊 S&P 500 endeksindeki hisselerin yüzde 60'ı şu anda yüzde 20 veya daha fazla düşüşte.",
+   "tarih": "2026-10-31T12:04:58.137Z"
+  },
   {
    "id": 2045,
    "metin": "Strategy, 2026 üçüncü çeyrekte 19,53 milyar dolar net kâr açıkladı; kârın büyük kısmı Bitcoin (BTC) varlıklarından gelen 20,91 milyar dolarlık değer artışından kaynaklandı.\n\n- 25 Ekim itibarıyla 848.517 bitcoin tutan şirketin kurucusu Michael Saylor, \"bir sonraki boğa piyasasının başındayız\" dedi.\n- Mali işler şefi Andrew Kang 5 Kasım'da ayrılıyor; yerine Reza Virasteh geçecek.",
@@ -96,11 +101,6 @@
    "id": 2027,
    "metin": "158 milyon dolarlık altcoin satışı: Binance saldırganı çaldığı UNI, PEPE, LINK ve AAVE gibi tokenları 70.480 ETH'ye çevirdi.\n\nAraştırmacılar, saldırganın dokuz ayrı blok zincirinden imzalı transferlerle para çıkardığını belirterek borsanın \"özel anahtar sızıntısı yok\" açıklamasını sorguluyor. Binance, zararları kullanıcı koruma fonundan ve şirket kaynaklarından karşılayacağını açıkladı.",
    "tarih": "2026-10-30T10:47:29.670Z"
-  },
-  {
-   "id": 2026,
-   "metin": "İran, Hürmüz Boğazı'nda deniz mayınlarının dört tankeri vurduğunu açıkladı; ABD kuvvetleri bir gün önce bölgedeki geçiş koridorlarının açık olduğunu duyurmuştu.\n\nAçıklamanın ardından petrol fiyatı bir aylık zirveye çıktı; Brent bir ay öncesine göre yaklaşık yüzde 9,4 arttı.",
-   "tarih": "2026-10-30T10:28:25.169Z"
   }
  ]
 }
