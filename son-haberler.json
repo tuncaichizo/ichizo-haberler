@@ -1,7 +1,27 @@
 {
- "guncelleme": "2026-10-31T12:17:09.974Z",
+ "guncelleme": "2026-10-31T17:20:46.259Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2050,
+   "metin": "Trump, ailesinin kripto parasını \"biraz tehlikeli\" diye nitelendirdi; açıklanan beyanına göre 2025'te 1,4 milyar doları aşan kripto geliri var.\n\n- Başkan Trump, dijital paranın riskli olduğunu söyledi.\n- Buna karşın yıl içindeki kripto kaynaklı kazancı 1,4 milyar doları geçti.",
+   "tarih": "2026-10-31T17:05:59.137Z"
+  },
+  {
+   "id": 2049,
+   "metin": "30 Ekim Cuma günü ABD spot Bitcoin (BTC) ETF'lerinden 643 milyon dolar net çıkış oldu; bu, dört günlük girişi silerek haftayı 202,4 milyon dolar net çıkışa çevirdi.\n\n- Pazartesi-perşembe arasında 440,8 milyon dolar giriş vardı.\n- 12 fonun 5'inde çıkış görüldü, 7'sinde hareket sıfır; girişle dengeleyen fon olmadı. En büyük pay IBIT ve FBTC'de.",
+   "tarih": "2026-10-31T15:50:24.936Z"
+  },
+  {
+   "id": 2048,
+   "metin": "Threshold'un tBTC basımını ve geri ödemeleri durdurmasının ardından Aave (AAVE), 136,5 milyon dolarlık tBTC rezervini dondurdu.\n\nEthereum (ETH) ana pazarındaki tBTC (Bitcoin'i (BTC) temsil eden token) mevduatları donmuş durumda.\n\nKullanıcılar borç geri ödemesi, çekim ve tasfiye işlemlerine devam edebiliyor.",
+   "tarih": "2026-10-31T13:45:19.935Z"
+  },
+  {
+   "id": 2047,
+   "metin": "Maple'ın kredi ürünlerinde 280 milyon dolarlık XRP teminatı toplandı. Merkeziyetsiz finans protokolü, syrupUSDC ve syrupUSDT ürünlerinde yaklaşık 225 milyon XRP tutuyor.\n\n- Krediler Ethereum (ETH) havuzlarından açılıyor, teminatlar ise XRP Ledger'da saklanıyor.\n- Aralık ve ocak vadeli krediler yenilenmezse, teminatların satılması gündeme gelebilir.",
+   "tarih": "2026-10-31T12:44:50.936Z"
+  },
   {
    "id": 2046,
    "metin": "📊 S&P 500 endeksindeki hisselerin yüzde 60'ı şu anda yüzde 20 veya daha fazla düşüşte.",
@@ -81,26 +101,6 @@
    "id": 2031,
    "metin": "Binance, hack sonrası çekimleri pazar günü yeniden başlatmayı hedefliyor: 6,34 milyar dolardan fazla şirket fonu ayırdı.\n\nOrtak CEO Teng, pazartesiye kadar tam rezerv kanıtı raporunu yayımlayacaklarını söyledi.",
    "tarih": "2026-10-30T14:45:06.771Z"
-  },
-  {
-   "id": 2030,
-   "metin": "XRP Ledger'da yalnızca belirli kişilerin tutabildiği izinli tokenlar için kurallar sıkılaştırılıyor.\n\nXRP Ledger Vakfı, yapılan düzenlemelerin mevcut kullanıcıların varlıklarını etkilemediğini açıkladı. Değişiklikler, bu tokenları kimin elinde bulundurabileceğini denetleyen kontrolleri daha sıkı hale getiriyor.",
-   "tarih": "2026-10-30T13:25:56.971Z"
-  },
-  {
-   "id": 2029,
-   "metin": "TCMB brüt rezervleri 11 Eylül'den bu yana 9,6 milyar dolar azalarak 169,1 milyar dolara geriledi.\n\nAynı dönemde TL mevduat faizleri 102 baz puan düşüşle yüzde 42,9'a indi. Banka, KOBİ kredilerinde sekiz haftalık büyüme sınırını yüzde 4,5'ten yüzde 5'e yükseltti.",
-   "tarih": "2026-10-30T13:05:37.972Z"
-  },
-  {
-   "id": 2028,
-   "metin": "Tether'in USDT arzı son 24 saatte 1,9 milyar dolar azalarak 181,8 milyar dolardan 179,9 milyar dolara geriledi.\n\nBu daralma genellikle coin yakımı ya da geri ödeme taleplerine işaret ediyor.",
-   "tarih": "2026-10-30T11:02:33.071Z"
-  },
-  {
-   "id": 2027,
-   "metin": "158 milyon dolarlık altcoin satışı: Binance saldırganı çaldığı UNI, PEPE, LINK ve AAVE gibi tokenları 70.480 ETH'ye çevirdi.\n\nAraştırmacılar, saldırganın dokuz ayrı blok zincirinden imzalı transferlerle para çıkardığını belirterek borsanın \"özel anahtar sızıntısı yok\" açıklamasını sorguluyor. Binance, zararları kullanıcı koruma fonundan ve şirket kaynaklarından karşılayacağını açıkladı.",
-   "tarih": "2026-10-30T10:47:29.670Z"
   }
  ]
 }
