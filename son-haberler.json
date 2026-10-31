@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-10-31T17:20:46.259Z",
+ "guncelleme": "2026-10-31T20:39:08.461Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2053,
+   "metin": "Neredeyse sıfıra inen çekilebilir nakit, Solana (SOL) ekosistemindeki Jupiter'in kredi ürünü Jupiter Lend'de 29 milyon USDC'ye çıktı.\n\n30 Ekim'de yalnızca 88,89 USDC çekilebiliyordu; mevduat sahiplerine borçlu olunan tutar ise 416 milyon USDC'ydi. Toplam varlığı 443 milyon USDC olan üründe çekilebilir kısım bunun yüzde 6,6'sına denk geliyor.",
+   "tarih": "2026-10-31T19:25:02.237Z"
+  },
+  {
+   "id": 2052,
+   "metin": "Uber, blokzincir üzerinden para piyasası fonu işlemi yaparak 1,5 gün ekstra getiri elde etti.\n\nFon pazartesi alınıp pazar günü satıldı; geleneksel piyasada satış cuma günü yapılmak zorunda olduğu için bu ek süre kazanç sağladı. Teste Franklin Templeton'ın yanı sıra HSBC, Fireblocks ve Tradeweb katıldı, işlem Canton Network altyapısında yürütüldü.",
+   "tarih": "2026-10-31T18:08:31.635Z"
+  },
+  {
+   "id": 2051,
+   "metin": "97 milyon CORE'un çekildiğini açıklayan Bitcoin stake protokolü b14g, kontratlarını durdurdu.\n\nBorsalar yaklaşık 9 milyon CORE'u dondurdu. Protokol, stake edilen BTC'nin bu olaydan etkilenmediğini bildirdi.",
+   "tarih": "2026-10-31T17:23:21.636Z"
+  },
   {
    "id": 2050,
    "metin": "Trump, ailesinin kripto parasını \"biraz tehlikeli\" diye nitelendirdi; açıklanan beyanına göre 2025'te 1,4 milyar doları aşan kripto geliri var.\n\n- Başkan Trump, dijital paranın riskli olduğunu söyledi.\n- Buna karşın yıl içindeki kripto kaynaklı kazancı 1,4 milyar doları geçti.",
@@ -86,21 +101,6 @@
    "id": 2034,
    "metin": "📊 Richmond Fed Başkanı Barkin, ABD merkez bankasının yönünün net olduğunu, asıl sorunun hız olduğunu söyledi.",
    "tarih": "2026-10-30T15:43:30.870Z"
-  },
-  {
-   "id": 2033,
-   "metin": "Bir saatlik kesinti Kraken'de spot ve vadeli işlemleri aksattı.\n\nKraken, bağlantı ve emir iletiminde yaşanan sorunun güvenlik ihlali ya da müşteri fonu kaybı anlamına gelmediğini duyurdu. Borsa ayrıca geleneksel hisselerin tokenleştirilmiş versiyonlarını sunduğu xStocks ürününü 1.000'den fazla listeye çıkardı.",
-   "tarih": "2026-10-30T15:25:59.872Z"
-  },
-  {
-   "id": 2032,
-   "metin": "21 milyon işlem iddiası: Celestia (TIA), yapay zeka ödemeleri için Voyager adlı yeni sistemini tanıttı.\n\n- Sistem üretim öncesi aşamada ve Celestia Labs böylece ağın kapsamını işlemleri çalıştırmaya doğru genişletiyor.\n- Ölçüm tek bir düğümde yapıldı; canlı ağın gerçek kapasitesini yansıtmıyor.",
-   "tarih": "2026-10-30T15:04:47.070Z"
-  },
-  {
-   "id": 2031,
-   "metin": "Binance, hack sonrası çekimleri pazar günü yeniden başlatmayı hedefliyor: 6,34 milyar dolardan fazla şirket fonu ayırdı.\n\nOrtak CEO Teng, pazartesiye kadar tam rezerv kanıtı raporunu yayımlayacaklarını söyledi.",
-   "tarih": "2026-10-30T14:45:06.771Z"
   }
  ]
 }
