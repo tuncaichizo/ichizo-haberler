@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-10-31T20:39:08.461Z",
+ "guncelleme": "2026-11-01T05:48:40.098Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2054,
+   "metin": "Standard Chartered liderliğindeki Anchorpoint konsorsiyumu, Hong Kong dolarına sabitlenmiş HKDAP stablecoin'ini Solana (SOL) ağına taşıyor.\n\nSolana Foundation ile yapılan iş birliğiyle HKDAP, Solana üzerinde doğrudan basılıp geri ödenebilecek ve neredeyse anında takas hızı sunacak. Konsorsiyum, stablecoin'i yalnızca perakende ödemelerde değil, tokenlaştırılmış finans ürünlerinde de kullanmayı hedefliyor.",
+   "tarih": "2026-11-01T05:04:12.437Z"
+  },
   {
    "id": 2053,
    "metin": "Neredeyse sıfıra inen çekilebilir nakit, Solana (SOL) ekosistemindeki Jupiter'in kredi ürünü Jupiter Lend'de 29 milyon USDC'ye çıktı.\n\n30 Ekim'de yalnızca 88,89 USDC çekilebiliyordu; mevduat sahiplerine borçlu olunan tutar ise 416 milyon USDC'ydi. Toplam varlığı 443 milyon USDC olan üründe çekilebilir kısım bunun yüzde 6,6'sına denk geliyor.",
@@ -96,11 +101,6 @@
    "id": 2035,
    "metin": "Aave (AAVE), piyasaları yeniden açtı ancak dokuz varlığı teminatta sıfır değerle sınırladı.\n\nBu varlıklar listelendiği her yerde teminat olarak kullanılamayacak. Eski ve yeni sürümlerdeki mevcut pozisyonlar için farklı kurallar geçerli olacak.",
    "tarih": "2026-10-30T16:03:53.572Z"
-  },
-  {
-   "id": 2034,
-   "metin": "📊 Richmond Fed Başkanı Barkin, ABD merkez bankasının yönünün net olduğunu, asıl sorunun hız olduğunu söyledi.",
-   "tarih": "2026-10-30T15:43:30.870Z"
   }
  ]
 }
