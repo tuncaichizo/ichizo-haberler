@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-01T05:48:40.098Z",
+ "guncelleme": "2026-11-01T18:30:52.600Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2055,
+   "metin": "Çin Komünist Partisi, yolsuzluk soruşturmalarında kripto para rüşvetlerinin ve yurt dışına kaçırılan paranın peşine düşülmesi talimatını verdi.\n\nParti ayrıca teknoloji şirketleri üzerindeki denetimi sıkılaştırdı.",
+   "tarih": "2026-11-01T15:07:11.637Z"
+  },
   {
    "id": 2054,
    "metin": "Standard Chartered liderliğindeki Anchorpoint konsorsiyumu, Hong Kong dolarına sabitlenmiş HKDAP stablecoin'ini Solana (SOL) ağına taşıyor.\n\nSolana Foundation ile yapılan iş birliğiyle HKDAP, Solana üzerinde doğrudan basılıp geri ödenebilecek ve neredeyse anında takas hızı sunacak. Konsorsiyum, stablecoin'i yalnızca perakende ödemelerde değil, tokenlaştırılmış finans ürünlerinde de kullanmayı hedefliyor.",
@@ -96,11 +101,6 @@
    "id": 2036,
    "metin": "Doomberg'e göre, ABD'nin müttefiklerini Hazine tahvili tutmaya zorlaması, altın ve Bitcoin (BTC) için uzun vadede güçlü bir yükseliş zemini yaratıyor.\n\nKriz anında merkez bankalarının \"istediğini değil, satabildiğini sattığını\" belirten Doomberg, bunun altının 28 Şubat'tan bu yana süren kısa vadeli zayıflığını açıkladığını söylüyor.",
    "tarih": "2026-10-30T16:27:19.170Z"
-  },
-  {
-   "id": 2035,
-   "metin": "Aave (AAVE), piyasaları yeniden açtı ancak dokuz varlığı teminatta sıfır değerle sınırladı.\n\nBu varlıklar listelendiği her yerde teminat olarak kullanılamayacak. Eski ve yeni sürümlerdeki mevcut pozisyonlar için farklı kurallar geçerli olacak.",
-   "tarih": "2026-10-30T16:03:53.572Z"
   }
  ]
 }
