@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-11-01T22:17:06.837Z",
+ "guncelleme": "2026-11-02T09:18:57.199Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2065,
+   "metin": "16,6 milyar dolarlık varlık çıkışı: Binance'in rezerv kanıtı bir gün gecikmeyle salıya ertelendi.\n\nBorsanın 29 Ekim'deki saldırıdan bu yana izlenen varlıkları 144,9 milyar dolardan 128,3 milyar dolara geriledi. Binance, eksiksiz rezerv kanıtının üretiminin 40-50 saat sürdüğünü belirterek belgeyi 3 Kasım'a öteledi.",
+   "tarih": "2026-11-02T09:08:07.735Z"
+  },
+  {
+   "id": 2064,
+   "metin": "Çalınan 292 milyon dolarlık XRP, altı ayrı cüzdana bölündü.\n\nBu cüzdanlardan henüz çıkış işlemi yapılmadı. XRP, Ripple tarafından dondurulamadığı için paranın durdurulabileceği tek nokta olarak borsalar öne çıkıyor.",
+   "tarih": "2026-11-02T08:10:35.135Z"
+  },
+  {
+   "id": 2063,
+   "metin": "Binance saldırganı, çalınan 293 milyon dolarlık XRP'nin tamamını altı yeni cüzdana aktardı.\n\n233,46 milyon XRP, yaklaşık 80 saat dokunulmadan bekledikten sonra parçalara bölünerek gönderildi; uzmanlar bunu izleri karıştırmaya dönük bir aklama adımı olarak değerlendiriyor.",
+   "tarih": "2026-11-02T07:46:13.935Z"
+  },
+  {
+   "id": 2062,
+   "metin": "Linux'ta tespit edilen kritik bir güvenlik açığı, Cardano'da stake edilmiş (coin kilitleyip getiri sağlanan) 21,5 milyar ADA'yı tutan havuzları alarma geçirdi.\n\nUyarı Cardano tarafından yapıldı; açığın bu havuzları işleten sistemleri ilgilendirdiği belirtiliyor.",
+   "tarih": "2026-11-02T06:22:53.836Z"
+  },
+  {
+   "id": 2061,
+   "metin": "📊 Çin'de fabrika büyümesi ekimde yavaşladı; özel PMI verisi ihracat siparişlerinin gevşediğini gösterdi.",
+   "tarih": "2026-11-02T06:05:07.338Z"
+  },
+  {
+   "id": 2060,
+   "metin": "📊 Japonya Merkez Bankası (BOJ) aralık ayında faiz artırımına gideceğini teyit etti, ancak nötr faiz oranına ilişkin belirsizlik görünümü bulanıklaştırıyor.",
+   "tarih": "2026-11-02T06:03:27.135Z"
+  },
+  {
+   "id": 2059,
+   "metin": "📊 Çin'in yeni politika faizine geçişi, daha kolay fonlama koşullarına işaret ediyor.",
+   "tarih": "2026-11-02T05:44:23.534Z"
+  },
+  {
+   "id": 2058,
+   "metin": "Ekimde 1,61 milyar dolar çıkış: ABD spot Ethereum (ETH) ETF'leri, Temmuz 2024'teki lansmanından bu yana en kötü ayını kaydetti.\n\nBu, üç aylık giriş serisini sonlandırdı ve arka arkaya beş hafta çıkış yaşandı.",
+   "tarih": "2026-11-02T05:06:44.634Z"
+  },
   {
    "id": 2057,
    "metin": "Tek bir Ethereum bloğunun yeniden düzenlenmesi 10 ETH'lik muhasebe hatası yarattı; Thorchain (RUNE) acil duruşa geçerek 13 ağdan 12'sinde zincirler arası takası durdurdu.\n\nChainalysis'e göre bu aksaklık, Binance'ten çalınan 6,4 milyar doların aklanmasını istemeden geciktirdi. FBI, Thorchain düğüm işletmecilerinden Kuzey Koreli hacker işlemlerini engellemelerini istedi.",
@@ -61,46 +101,6 @@
    "id": 2046,
    "metin": "📊 S&P 500 endeksindeki hisselerin yüzde 60'ı şu anda yüzde 20 veya daha fazla düşüşte.",
    "tarih": "2026-10-31T12:04:58.137Z"
-  },
-  {
-   "id": 2045,
-   "metin": "Strategy, 2026 üçüncü çeyrekte 19,53 milyar dolar net kâr açıkladı; kârın büyük kısmı Bitcoin (BTC) varlıklarından gelen 20,91 milyar dolarlık değer artışından kaynaklandı.\n\n- 25 Ekim itibarıyla 848.517 bitcoin tutan şirketin kurucusu Michael Saylor, \"bir sonraki boğa piyasasının başındayız\" dedi.\n- Mali işler şefi Andrew Kang 5 Kasım'da ayrılıyor; yerine Reza Virasteh geçecek.",
-   "tarih": "2026-10-31T11:27:23.370Z"
-  },
-  {
-   "id": 2044,
-   "metin": "MetaMask, 29 Ekim'de Stellar ağını varsayılan ağ olarak ekleyerek kullanıcılara cüzdan içinden stablecoin ödeme imkânı sundu.\n\n- Köprüyle başka ağdan token göndermek isteyenlerin, alıcı hesapta ilgili tokenı önceden elle etkinleştirmesi gerekiyor; aksi halde aktarılan fonlar kaybolabilir.",
-   "tarih": "2026-10-31T08:22:30.072Z"
-  },
-  {
-   "id": 2043,
-   "metin": "📊 Çin, altın, nikel ve stratejik minerallerde keskin bir artış bildirdi.",
-   "tarih": "2026-10-31T08:05:43.172Z"
-  },
-  {
-   "id": 2042,
-   "metin": "Uniswap'in (UNI) ücret dönüştürücü aracı TJAR, 29 Ekim'de diğer uygulamalara açıldı; ücretlerin stablecoin olarak toplanmasını sağlıyor.\n\n- Yatırım uygulaması Robinhood, Uniswap üzerinden topladığı ücretleri bu sistemle USDC ve USDG olarak alıyor.\n- Searcher denilen trader'lar havuzdaki ücret tokenlerini sabit ödemeyle alıp kâr arıyor; havuz varlıkları fiyatlandırmadığı için kazanç garanti değil.",
-   "tarih": "2026-10-31T06:41:51.971Z"
-  },
-  {
-   "id": 2041,
-   "metin": "Tether üçüncü çeyrekte 1,5 milyar dolar faaliyet kârı elde etti; rezerv tamponu 7,95 milyar dolara ulaştı.\n\nKazançta Hazine bonoları ve ters repo işlemleri belirleyici oldu. Bağımsız denetim şirketi BDO'nun raporu, çeyrek boyunca süren faaliyeti değil, eylül sonu itibarıyla mali durumu kapsıyor.",
-   "tarih": "2026-10-31T05:42:18.671Z"
-  },
-  {
-   "id": 2040,
-   "metin": "📊 Çin'in fabrika aktivitesi ekimde son üç ayın en hızlı daralmasını gösterdi.",
-   "tarih": "2026-10-31T05:05:12.272Z"
-  },
-  {
-   "id": 2039,
-   "metin": "🗣️ Fed yetkilileri, süregelen enflasyon endişeleri ortamında faiz artırımı için gerekçelerini ortaya koydu.",
-   "tarih": "2026-10-30T20:24:26.371Z"
-  },
-  {
-   "id": 2038,
-   "metin": "Hyperliquid'de (HYPE) vadeli işlem hacmi 29 Ekim'de 17,44 milyar dolarla ikiye katlanırken platformun işlem ücretleri 30 günün en yüksek seviyesine çıktı.\n\n- Aynı gün tasfiye edilen pozisyon tutarı yaklaşık 252 milyon dolar oldu.\n- Açık pozisyonlar ise azaldı.",
-   "tarih": "2026-10-30T18:44:25.768Z"
   }
  ]
 }
