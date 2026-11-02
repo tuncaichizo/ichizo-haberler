@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-11-02T09:18:57.199Z",
+ "guncelleme": "2026-11-02T19:43:46.719Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2075,
+   "metin": "Injective (INJ), kurum yatırımcılar için öncelikli işlem hattını sınırlı üretimde başlattı.\n\nHizmet, işlemlerin erken uygulama geri bildirimini sunarken takas sürecini tam doğrulayıcı ağına bırakıyor.",
+   "tarih": "2026-11-02T18:03:10.735Z"
+  },
+  {
+   "id": 2074,
+   "metin": "HSBC'nin Hong Kong doları stablecoin'i Redcoin, lansmanından bir hafta sonra 50 bin kullanıcıya ulaştı.\n\nHSBC Üst Yöneticisi Georges Elhedery, Hong Kong Fintech Week'te yaptığı açıklamada hedefin milyonlarca kullanıcı olduğunu belirtti. Redcoin ilk aşamada HSBC'nin ödeme uygulaması Payme üzerinden 3,3 milyon kullanıcıya ve yaklaşık 100 bin satıcıya erişiyor.",
+   "tarih": "2026-11-02T17:09:22.137Z"
+  },
+  {
+   "id": 2073,
+   "metin": "Tether'in USDT arzı 24 saatte 1,6 milyar dolar büyüdü. DeFiLlama verilerine göre dolaşımdaki USDT miktarı 179,6 milyar dolardan 181,2 milyar dolara çıktı.\n\nBu artış genellikle Tether'in yeni USDT bastığını gösteriyor. Doları takip eden kripto para (stablecoin) arzındaki genişleme, piyasaya yeni likidite girişine işaret ediyor.",
+   "tarih": "2026-11-02T16:26:10.235Z"
+  },
+  {
+   "id": 2072,
+   "metin": "40 milyon dolarlık saldırı şüphesi: Brezilya'nın en büyük kripto borsası Mercado Bitcoin (BTC) saldırıya uğradı.\n\nBorsa olayı doğrulayarak para yatırma ve çekme işlemlerini geçici olarak durdurdu. Blokzincir güvenlik şirketi Hypernative kayıpları 40 milyon dolar olarak tahmin ediyor.",
+   "tarih": "2026-11-02T15:28:24.836Z"
+  },
+  {
+   "id": 2071,
+   "metin": "Bitmine geçen hafta 8.573 ETH alarak elindeki varlığı 6,06 milyon ETH'ye çıkardı.\n\nŞirketin arkasındaki Tom Lee, Binance saldırısına piyasanın verdiği tepkinin zayıf kaldığını belirtti.",
+   "tarih": "2026-11-02T15:04:50.136Z"
+  },
+  {
+   "id": 2070,
+   "metin": "Michael Saylor’ın Strategy şirketi, “Daha da fazla turuncuya yer bulduk” diyerek 65,5 milyon dolara 811 bitcoin (BTC) daha aldı.",
+   "tarih": "2026-11-02T14:05:07.637Z"
+  },
+  {
+   "id": 2069,
+   "metin": "XRP Ledger'da stablecoin ortaklarının yeni token basmasına yol açabilecek bir hata çarşamba günü kapatılacak.\n\nDüzeltmenin devreye girmesi için gereken iki haftalık onay süreci, ağı yöneten doğrulayıcıların desteği kısa süre düşüp yeniden toparlanınca baştan işlemeye başladı. Açık, XRP'yi etkilemiyor.",
+   "tarih": "2026-11-02T12:46:57.436Z"
+  },
+  {
+   "id": 2068,
+   "metin": "Polygon (POL), Solana'nın (SOL) 15 milyar dolarlık stablecoin pazarına ABD bankacılık erişimini taşıdı.\n\n- Yurt dışı şirketler ABD'de şirket kurmadan kendi adlarına ABD bankacılık sistemine erişebilecek.\n- Hizmet, banka havalesi, kart, nakit veya kripto ile ödeme kabul edip stablecoin'e çevirmeyi ve aynı kanallardan ödeme yapmayı sağlıyor.",
+   "tarih": "2026-11-02T10:26:57.838Z"
+  },
+  {
+   "id": 2067,
+   "metin": "İran, Hürmüz Boğazı'nın 48 saat içinde yeniden açılması için ABD'nin koşullarını kabul etmesi şartıyla Katar arabuluculuğuyla görüşmelerin sürdüğünü açıkladı.\n\nİran Dışişleri Bakanı Abbas Erakçi'nin belirttiği koşullar arasında ABD yaptırımlarının kaldırılması, bölgedeki ABD askeri varlığının azaltılması ve dondurulmuş İran fonlarının serbest bırakılması yer alıyor.",
+   "tarih": "2026-11-02T09:48:38.036Z"
+  },
+  {
+   "id": 2066,
+   "metin": "⚠️ Kripto para borsası Binance, 6,3 milyar dolarlık rekor soygunun ardından güveni yeniden tesis etmeye çalışıyor.",
+   "tarih": "2026-11-02T09:29:04.333Z"
+  },
   {
    "id": 2065,
    "metin": "16,6 milyar dolarlık varlık çıkışı: Binance'in rezerv kanıtı bir gün gecikmeyle salıya ertelendi.\n\nBorsanın 29 Ekim'deki saldırıdan bu yana izlenen varlıkları 144,9 milyar dolardan 128,3 milyar dolara geriledi. Binance, eksiksiz rezerv kanıtının üretiminin 40-50 saat sürdüğünü belirterek belgeyi 3 Kasım'a öteledi.",
@@ -51,56 +101,6 @@
    "id": 2056,
    "metin": "Solana (SOL) Mobile, sahte \"SKR Claim\" uygulamasının mağaza vitrinine kadar çıkmasına yol açan güvenlik hatasını kapattığını duyurdu.\n\nHata, henüz tam yayınlanmamış uygulamalara bağlantı verilmesine izin veriyordu. Şirket, kötü niyetli uygulamayı etkilenen cihazlardan kaldırıyor.",
    "tarih": "2026-11-01T19:24:43.536Z"
-  },
-  {
-   "id": 2055,
-   "metin": "Çin Komünist Partisi, yolsuzluk soruşturmalarında kripto para rüşvetlerinin ve yurt dışına kaçırılan paranın peşine düşülmesi talimatını verdi.\n\nParti ayrıca teknoloji şirketleri üzerindeki denetimi sıkılaştırdı.",
-   "tarih": "2026-11-01T15:07:11.637Z"
-  },
-  {
-   "id": 2054,
-   "metin": "Standard Chartered liderliğindeki Anchorpoint konsorsiyumu, Hong Kong dolarına sabitlenmiş HKDAP stablecoin'ini Solana (SOL) ağına taşıyor.\n\nSolana Foundation ile yapılan iş birliğiyle HKDAP, Solana üzerinde doğrudan basılıp geri ödenebilecek ve neredeyse anında takas hızı sunacak. Konsorsiyum, stablecoin'i yalnızca perakende ödemelerde değil, tokenlaştırılmış finans ürünlerinde de kullanmayı hedefliyor.",
-   "tarih": "2026-11-01T05:04:12.437Z"
-  },
-  {
-   "id": 2053,
-   "metin": "Neredeyse sıfıra inen çekilebilir nakit, Solana (SOL) ekosistemindeki Jupiter'in kredi ürünü Jupiter Lend'de 29 milyon USDC'ye çıktı.\n\n30 Ekim'de yalnızca 88,89 USDC çekilebiliyordu; mevduat sahiplerine borçlu olunan tutar ise 416 milyon USDC'ydi. Toplam varlığı 443 milyon USDC olan üründe çekilebilir kısım bunun yüzde 6,6'sına denk geliyor.",
-   "tarih": "2026-10-31T19:25:02.237Z"
-  },
-  {
-   "id": 2052,
-   "metin": "Uber, blokzincir üzerinden para piyasası fonu işlemi yaparak 1,5 gün ekstra getiri elde etti.\n\nFon pazartesi alınıp pazar günü satıldı; geleneksel piyasada satış cuma günü yapılmak zorunda olduğu için bu ek süre kazanç sağladı. Teste Franklin Templeton'ın yanı sıra HSBC, Fireblocks ve Tradeweb katıldı, işlem Canton Network altyapısında yürütüldü.",
-   "tarih": "2026-10-31T18:08:31.635Z"
-  },
-  {
-   "id": 2051,
-   "metin": "97 milyon CORE'un çekildiğini açıklayan Bitcoin stake protokolü b14g, kontratlarını durdurdu.\n\nBorsalar yaklaşık 9 milyon CORE'u dondurdu. Protokol, stake edilen BTC'nin bu olaydan etkilenmediğini bildirdi.",
-   "tarih": "2026-10-31T17:23:21.636Z"
-  },
-  {
-   "id": 2050,
-   "metin": "Trump, ailesinin kripto parasını \"biraz tehlikeli\" diye nitelendirdi; açıklanan beyanına göre 2025'te 1,4 milyar doları aşan kripto geliri var.\n\n- Başkan Trump, dijital paranın riskli olduğunu söyledi.\n- Buna karşın yıl içindeki kripto kaynaklı kazancı 1,4 milyar doları geçti.",
-   "tarih": "2026-10-31T17:05:59.137Z"
-  },
-  {
-   "id": 2049,
-   "metin": "30 Ekim Cuma günü ABD spot Bitcoin (BTC) ETF'lerinden 643 milyon dolar net çıkış oldu; bu, dört günlük girişi silerek haftayı 202,4 milyon dolar net çıkışa çevirdi.\n\n- Pazartesi-perşembe arasında 440,8 milyon dolar giriş vardı.\n- 12 fonun 5'inde çıkış görüldü, 7'sinde hareket sıfır; girişle dengeleyen fon olmadı. En büyük pay IBIT ve FBTC'de.",
-   "tarih": "2026-10-31T15:50:24.936Z"
-  },
-  {
-   "id": 2048,
-   "metin": "Threshold'un tBTC basımını ve geri ödemeleri durdurmasının ardından Aave (AAVE), 136,5 milyon dolarlık tBTC rezervini dondurdu.\n\nEthereum (ETH) ana pazarındaki tBTC (Bitcoin'i (BTC) temsil eden token) mevduatları donmuş durumda.\n\nKullanıcılar borç geri ödemesi, çekim ve tasfiye işlemlerine devam edebiliyor.",
-   "tarih": "2026-10-31T13:45:19.935Z"
-  },
-  {
-   "id": 2047,
-   "metin": "Maple'ın kredi ürünlerinde 280 milyon dolarlık XRP teminatı toplandı. Merkeziyetsiz finans protokolü, syrupUSDC ve syrupUSDT ürünlerinde yaklaşık 225 milyon XRP tutuyor.\n\n- Krediler Ethereum (ETH) havuzlarından açılıyor, teminatlar ise XRP Ledger'da saklanıyor.\n- Aralık ve ocak vadeli krediler yenilenmezse, teminatların satılması gündeme gelebilir.",
-   "tarih": "2026-10-31T12:44:50.936Z"
-  },
-  {
-   "id": 2046,
-   "metin": "📊 S&P 500 endeksindeki hisselerin yüzde 60'ı şu anda yüzde 20 veya daha fazla düşüşte.",
-   "tarih": "2026-10-31T12:04:58.137Z"
   }
  ]
 }
