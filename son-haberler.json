@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-03T17:41:26.050Z",
+ "guncelleme": "2026-11-03T23:12:16.569Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2096,
+   "metin": "Binance, dahili yapay zeka aracının ele geçirilmesiyle mühendislerinin bilgisayarlarından 6,34 milyar dolar değerinde kripto paranın çalındığını açıkladı; FBI saldırıyı Kuzey Kore'ye bağladı.\n\nSaldırganlar 20 Ekim'de dahili bir yapay zeka aracıyla iki mühendisin cihazına sızdı, 29 Ekim'de cüzdan imzalama sistemine girip yetkisiz işlemler başlattı.",
+   "tarih": "2026-11-03T22:42:54.717Z"
+  },
+  {
+   "id": 2095,
+   "metin": "Stellar'ın (XLM) Bell yükseltmesi, ana ağ oylaması öncesinde test ağında devreye girdi.\n\nCüzdanlar ve veri takip servislerinin yazılımlarını güncellemesi gerekiyor. Akıllı sözleşmelere ise isteğe bağlı kuantum sonrası imza doğrulaması ekleniyor.",
+   "tarih": "2026-11-03T20:03:47.918Z"
+  },
+  {
+   "id": 2094,
+   "metin": "ABD'li kredi bankası Cross River, kredilerin blockchain üzerinde dijitalleştirilmesi için Offchain Labs ile anlaştı.\n\nKrediler oluşturuldukları andan itibaren Arbitrum (ARB) One ağında finanse edilip el değiştirebilecek; sistemin 2027 başında devreye girmesi bekleniyor.",
+   "tarih": "2026-11-03T18:44:24.827Z"
+  },
   {
    "id": 2093,
    "metin": "45 milyon dolarlık dava: Justin Sun, World Liberty Financial'a yaptırım uygulanmasını talep ediyor.\n\nSun, Trump ailesiyle bağlantılı şirketin BAE vatandaşlığını federal mahkemeden kaçmak için gizlediğini öne sürüyor. Dava dosyasını Kaliforniya eyalet mahkemesinde yeniden açmayı planlıyor.",
@@ -86,21 +101,6 @@
    "id": 2077,
    "metin": "⚠️ WSJ'nin haberine göre ABD, İran'ın Kaşm Adası'nı vurdu.",
    "tarih": "2026-11-03T02:23:56.637Z"
-  },
-  {
-   "id": 2076,
-   "metin": "Securitize, Solana (SOL) üzerindeki tokenlaştırılmış hisse listesini 13 yeni şirketle 25'e çıkardı. Yeni eklenenler arasında ExxonMobil, GameStop, Disney, Johnson & Johnson ve Uber var; her token saklamada tutulan bir hisseyle destekleniyor.\n\n- İlk 12 hisse (Apple, Nvidia, Tesla, Amazon gibi) 8 Ekim'de listelenmişti, işlemler USDC ile yapılıyor.\n- Şirket, ABD borsa saatleri dışına taşan işlemleri 24 saate çıkarmayı planlıyor ancak başlangıç tarihi açıklamadı.",
-   "tarih": "2026-11-02T20:46:43.136Z"
-  },
-  {
-   "id": 2075,
-   "metin": "Injective (INJ), kurum yatırımcılar için öncelikli işlem hattını sınırlı üretimde başlattı.\n\nHizmet, işlemlerin erken uygulama geri bildirimini sunarken takas sürecini tam doğrulayıcı ağına bırakıyor.",
-   "tarih": "2026-11-02T18:03:10.735Z"
-  },
-  {
-   "id": 2074,
-   "metin": "HSBC'nin Hong Kong doları stablecoin'i Redcoin, lansmanından bir hafta sonra 50 bin kullanıcıya ulaştı.\n\nHSBC Üst Yöneticisi Georges Elhedery, Hong Kong Fintech Week'te yaptığı açıklamada hedefin milyonlarca kullanıcı olduğunu belirtti. Redcoin ilk aşamada HSBC'nin ödeme uygulaması Payme üzerinden 3,3 milyon kullanıcıya ve yaklaşık 100 bin satıcıya erişiyor.",
-   "tarih": "2026-11-02T17:09:22.137Z"
   }
  ]
 }
