@@ -1,7 +1,42 @@
 {
- "guncelleme": "2026-11-03T02:11:03.571Z",
+ "guncelleme": "2026-11-03T09:57:52.179Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2083,
+   "metin": "FBI, THORChain'den Kuzey Koreli hacker grubu TraderTraitor'a ait adreslerle yapılan işlemleri engellemesini istedi.\n\nKurucu ortak Chad Barraford, operatörlerin zaten kamuya açık bilgiye erişebildiğini savunarak talebe karşı çıktı. Tartışmanın odağında, Bybit borsasından çalınan paranın yaklaşık 1,2 milyar dolarlık kısmının THORChain (RUNE) üzerinden Bitcoin'e (BTC) dönüştürüldüğü iddiası var.",
+   "tarih": "2026-11-03T08:45:24.736Z"
+  },
+  {
+   "id": 2082,
+   "metin": "BNB Chain, Jenner güncellemesiyle test ağında ödeme hattını devreye aldı; uygun ödemeler için işlem ücretlerinin yüzde 5'i ayrılacak.\n\nToken listelemeleri ve yeni token standardının etkinleştirilmesi ise ayrı yönetişim adımlarıyla ele alınacak.",
+   "tarih": "2026-11-03T07:25:13.339Z"
+  },
+  {
+   "id": 2081,
+   "metin": "📰 Çin, yuanın değer kazanma hızını yavaşlatmak için döviz risk rezerv oranını yükselteceğini duyurdu.",
+   "tarih": "2026-11-03T06:45:13.037Z"
+  },
+  {
+   "id": 2080,
+   "metin": "Trump, Güney Afrika'yı Afrika Büyüme ve Fırsat Yasası (AGOA) ticaret programından çıkardı.\n\n- Beyaz yönetim, ülkeyi beyazlara ayrımcılık yapmakla suçluyor.\n- Karar, Güney Afrika'ya karşı alınan son önlem oldu.",
+   "tarih": "2026-11-03T06:05:42.738Z"
+  },
+  {
+   "id": 2079,
+   "metin": "Arbitrum (ARB) komitesi, 30 milyon dolarlık Binance hack fonunu hacker'ın anahtarı olmadan taşıdı.\n\n12 kişilik komite, ağın temel akıllı sözleşmesini geçici olarak değiştirip anahtarı elinde olmayan bir adresten harcama yaptı, ardından kodu eski haline getirdi. Bu, yıl içinde ikinci kez yaşandı.",
+   "tarih": "2026-11-03T05:43:12.436Z"
+  },
+  {
+   "id": 2078,
+   "metin": "Avustralya Merkez Bankası politika faizini 25 baz puan artırarak yüzde 4,85'e çıkardı.\n\nYıl içindeki beşinci artışla banka, enflasyonu hedefine döndürmeyi amaçlıyor. Başkan Michele Bullock yönetimindeki kurul kararı 6-3 oyla aldı; yıl başından bu yana toplam artış 125 baz puan oldu.",
+   "tarih": "2026-11-03T05:26:37.436Z"
+  },
+  {
+   "id": 2077,
+   "metin": "⚠️ WSJ'nin haberine göre ABD, İran'ın Kaşm Adası'nı vurdu.",
+   "tarih": "2026-11-03T02:23:56.637Z"
+  },
   {
    "id": 2076,
    "metin": "Securitize, Solana (SOL) üzerindeki tokenlaştırılmış hisse listesini 13 yeni şirketle 25'e çıkardı. Yeni eklenenler arasında ExxonMobil, GameStop, Disney, Johnson & Johnson ve Uber var; her token saklamada tutulan bir hisseyle destekleniyor.\n\n- İlk 12 hisse (Apple, Nvidia, Tesla, Amazon gibi) 8 Ekim'de listelenmişti, işlemler USDC ile yapılıyor.\n- Şirket, ABD borsa saatleri dışına taşan işlemleri 24 saate çıkarmayı planlıyor ancak başlangıç tarihi açıklamadı.",
@@ -66,41 +101,6 @@
    "id": 2064,
    "metin": "Çalınan 292 milyon dolarlık XRP, altı ayrı cüzdana bölündü.\n\nBu cüzdanlardan henüz çıkış işlemi yapılmadı. XRP, Ripple tarafından dondurulamadığı için paranın durdurulabileceği tek nokta olarak borsalar öne çıkıyor.",
    "tarih": "2026-11-02T08:10:35.135Z"
-  },
-  {
-   "id": 2063,
-   "metin": "Binance saldırganı, çalınan 293 milyon dolarlık XRP'nin tamamını altı yeni cüzdana aktardı.\n\n233,46 milyon XRP, yaklaşık 80 saat dokunulmadan bekledikten sonra parçalara bölünerek gönderildi; uzmanlar bunu izleri karıştırmaya dönük bir aklama adımı olarak değerlendiriyor.",
-   "tarih": "2026-11-02T07:46:13.935Z"
-  },
-  {
-   "id": 2062,
-   "metin": "Linux'ta tespit edilen kritik bir güvenlik açığı, Cardano'da stake edilmiş (coin kilitleyip getiri sağlanan) 21,5 milyar ADA'yı tutan havuzları alarma geçirdi.\n\nUyarı Cardano tarafından yapıldı; açığın bu havuzları işleten sistemleri ilgilendirdiği belirtiliyor.",
-   "tarih": "2026-11-02T06:22:53.836Z"
-  },
-  {
-   "id": 2061,
-   "metin": "📊 Çin'de fabrika büyümesi ekimde yavaşladı; özel PMI verisi ihracat siparişlerinin gevşediğini gösterdi.",
-   "tarih": "2026-11-02T06:05:07.338Z"
-  },
-  {
-   "id": 2060,
-   "metin": "📊 Japonya Merkez Bankası (BOJ) aralık ayında faiz artırımına gideceğini teyit etti, ancak nötr faiz oranına ilişkin belirsizlik görünümü bulanıklaştırıyor.",
-   "tarih": "2026-11-02T06:03:27.135Z"
-  },
-  {
-   "id": 2059,
-   "metin": "📊 Çin'in yeni politika faizine geçişi, daha kolay fonlama koşullarına işaret ediyor.",
-   "tarih": "2026-11-02T05:44:23.534Z"
-  },
-  {
-   "id": 2058,
-   "metin": "Ekimde 1,61 milyar dolar çıkış: ABD spot Ethereum (ETH) ETF'leri, Temmuz 2024'teki lansmanından bu yana en kötü ayını kaydetti.\n\nBu, üç aylık giriş serisini sonlandırdı ve arka arkaya beş hafta çıkış yaşandı.",
-   "tarih": "2026-11-02T05:06:44.634Z"
-  },
-  {
-   "id": 2057,
-   "metin": "Tek bir Ethereum bloğunun yeniden düzenlenmesi 10 ETH'lik muhasebe hatası yarattı; Thorchain (RUNE) acil duruşa geçerek 13 ağdan 12'sinde zincirler arası takası durdurdu.\n\nChainalysis'e göre bu aksaklık, Binance'ten çalınan 6,4 milyar doların aklanmasını istemeden geciktirdi. FBI, Thorchain düğüm işletmecilerinden Kuzey Koreli hacker işlemlerini engellemelerini istedi.",
-   "tarih": "2026-11-01T20:44:35.436Z"
   }
  ]
 }
