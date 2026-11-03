@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-02T19:43:46.719Z",
+ "guncelleme": "2026-11-03T02:11:03.571Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2076,
+   "metin": "Securitize, Solana (SOL) üzerindeki tokenlaştırılmış hisse listesini 13 yeni şirketle 25'e çıkardı. Yeni eklenenler arasında ExxonMobil, GameStop, Disney, Johnson & Johnson ve Uber var; her token saklamada tutulan bir hisseyle destekleniyor.\n\n- İlk 12 hisse (Apple, Nvidia, Tesla, Amazon gibi) 8 Ekim'de listelenmişti, işlemler USDC ile yapılıyor.\n- Şirket, ABD borsa saatleri dışına taşan işlemleri 24 saate çıkarmayı planlıyor ancak başlangıç tarihi açıklamadı.",
+   "tarih": "2026-11-02T20:46:43.136Z"
+  },
   {
    "id": 2075,
    "metin": "Injective (INJ), kurum yatırımcılar için öncelikli işlem hattını sınırlı üretimde başlattı.\n\nHizmet, işlemlerin erken uygulama geri bildirimini sunarken takas sürecini tam doğrulayıcı ağına bırakıyor.",
@@ -96,11 +101,6 @@
    "id": 2057,
    "metin": "Tek bir Ethereum bloğunun yeniden düzenlenmesi 10 ETH'lik muhasebe hatası yarattı; Thorchain (RUNE) acil duruşa geçerek 13 ağdan 12'sinde zincirler arası takası durdurdu.\n\nChainalysis'e göre bu aksaklık, Binance'ten çalınan 6,4 milyar doların aklanmasını istemeden geciktirdi. FBI, Thorchain düğüm işletmecilerinden Kuzey Koreli hacker işlemlerini engellemelerini istedi.",
    "tarih": "2026-11-01T20:44:35.436Z"
-  },
-  {
-   "id": 2056,
-   "metin": "Solana (SOL) Mobile, sahte \"SKR Claim\" uygulamasının mağaza vitrinine kadar çıkmasına yol açan güvenlik hatasını kapattığını duyurdu.\n\nHata, henüz tam yayınlanmamış uygulamalara bağlantı verilmesine izin veriyordu. Şirket, kötü niyetli uygulamayı etkilenen cihazlardan kaldırıyor.",
-   "tarih": "2026-11-01T19:24:43.536Z"
   }
  ]
 }
