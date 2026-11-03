@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-11-03T09:57:52.179Z",
+ "guncelleme": "2026-11-03T17:41:26.050Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2093,
+   "metin": "45 milyon dolarlık dava: Justin Sun, World Liberty Financial'a yaptırım uygulanmasını talep ediyor.\n\nSun, Trump ailesiyle bağlantılı şirketin BAE vatandaşlığını federal mahkemeden kaçmak için gizlediğini öne sürüyor. Dava dosyasını Kaliforniya eyalet mahkemesinde yeniden açmayı planlıyor.",
+   "tarih": "2026-11-03T17:25:57.727Z"
+  },
+  {
+   "id": 2092,
+   "metin": "Kripto yatırım şirketi Paradigm, 224 milyon dolar değerinde 2,55 milyon HYPE'ı stake etmeyi bıraktı.\n\nBu, şirketin toplam stake pozisyonunun yüzde 17,85'ine denk geliyor. Stake çözümü otomatik satış anlamına gelmiyor, ancak Hyperliquid'in kasımda Circle'dan beklediği 15 milyon doları aşkın gelir ve ekimde topladığı 87 milyon dolar geri alım programını besleyebilir.",
+   "tarih": "2026-11-03T16:47:39.729Z"
+  },
+  {
+   "id": 2091,
+   "metin": "XRP Ledger'da, onaylı iş ortaklarının stablecoin ihraççılarının izni olmadan token basmasına yol açan güvenlik açığı kapatılıyor.\n\n2 Kasım itibarıyla 35 güvenilir doğrulayıcıdan 33'ü önerilen değişikliği destekliyor. Ağ kurallarına göre yürürlüğe girmesi için yüzde 80'den fazla desteğin 14 gün boyunca kesintisiz sürmesi gerekiyor; bu nedenle en erken tarih 4 Kasım.",
+   "tarih": "2026-11-03T14:43:45.528Z"
+  },
+  {
+   "id": 2090,
+   "metin": "⚠️ İsrail Başbakanı Binyamin Netanyahu, AP'ye göre, ABD'yi ara seçimlerin ardından İran'a yönelik saldırıları yeniden başlatmaya çağırdı.",
+   "tarih": "2026-11-03T14:27:35.027Z"
+  },
+  {
+   "id": 2089,
+   "metin": "🗣️ ABD Başkanı Donald Trump, ABD'nin yıl sonundan itibaren İsrail'e ödeme yapmayı durduracağını açıkladı.",
+   "tarih": "2026-11-03T14:09:52.027Z"
+  },
+  {
+   "id": 2088,
+   "metin": "Peter Brandt'a göre gümüş kıtlığı anlatısı çürüdü: nakit gümüş, Comex vadeli gümüş kontratlarının altında işlem görüyor.\n\n- Emtia piyasalarında tanınan trader Peter Brandt, kıtlık iddialarının dayanağı olan \"kağıt gümüş\" tezinin bu fiyat ilişkisiyle geçersiz kaldığını belirtti.",
+   "tarih": "2026-11-03T13:27:30.628Z"
+  },
+  {
+   "id": 2087,
+   "metin": "BTCPay Server, saldırganların yaklaşık 1,6 milyon dolar değerinde Bitcoin ve Litecoin çalmasının ardından satıcıları eski ödeme sunucularını ve cüzdanlarını yenilemeye çağırdı.\n\nBitquery verilerine göre 30 Ekim-2 Kasım arasında 682 cüzdandan 18,38 BTC ve 3.405 LTC çekildi; bunun yüzde 87'si 1 Kasım'daki sekiz saatlik zaman diliminde gerçekleşti.",
+   "tarih": "2026-11-03T12:47:10.727Z"
+  },
+  {
+   "id": 2086,
+   "metin": "133 milyon doları aşan şüpheli kripto hırsızlığında Kraken, ilgili hesapları kısıtladı.\n\nZincir üstü araştırmacı ZachXBT, kayıp tutarın 106 milyon dolardan 133 milyon dolara çıktığını, fonların Kraken, Crypto-com ve OKX hesaplarından çekildiğini bildirdi. Kraken olayın kendi platformunda başlamadığını duyurdu; Crypto-com ilgili fonları bloke etti, Tether ise 1,1 milyon dolar USDT dondurdu.",
+   "tarih": "2026-11-03T12:25:47.628Z"
+  },
+  {
+   "id": 2085,
+   "metin": "Binance'te XRP ve RLUSD çekimleri yeniden açıldı; aynı saatlerde Ripple tek işlemde 110,57 milyon RLUSD bastı.\n\n- Ripple'ın dolar destekli tokenı RLUSD'nin toplam değeri 2,56 milyar dolara yaklaşıyor, arzın yaklaşık üçte biri XRP Ledger'da duruyor.\n- Çekimler aşamalı açılıyor; ilk grupta BTC, ETH, XRP ve SOL yer aldı.",
+   "tarih": "2026-11-03T10:47:47.135Z"
+  },
+  {
+   "id": 2084,
+   "metin": "Hafta sonu borsalar kapalıyken hisse teminatı artık fiyatsız kalmayacak: Aave'in (AAVE) kurumsal kredi platformu Horizon, Chainlink'in (LINK) yeni fiyatlama servisini kullanmaya başladı.\n\nChainlink, hafta içi borsa verisini kullanıyor; piyasa kapandığında fiyatı, ilgili varlığın işlem gördüğü vadeli işlem piyasalarından alıyor.\n- Hafta sonu düşen teminat değeri, borsa yeniden açılmadan bir krediyi tasfiye eşiğine taşıyabilir.",
+   "tarih": "2026-11-03T10:23:37.638Z"
+  },
   {
    "id": 2083,
    "metin": "FBI, THORChain'den Kuzey Koreli hacker grubu TraderTraitor'a ait adreslerle yapılan işlemleri engellemesini istedi.\n\nKurucu ortak Chad Barraford, operatörlerin zaten kamuya açık bilgiye erişebildiğini savunarak talebe karşı çıktı. Tartışmanın odağında, Bybit borsasından çalınan paranın yaklaşık 1,2 milyar dolarlık kısmının THORChain (RUNE) üzerinden Bitcoin'e (BTC) dönüştürüldüğü iddiası var.",
@@ -51,56 +101,6 @@
    "id": 2074,
    "metin": "HSBC'nin Hong Kong doları stablecoin'i Redcoin, lansmanından bir hafta sonra 50 bin kullanıcıya ulaştı.\n\nHSBC Üst Yöneticisi Georges Elhedery, Hong Kong Fintech Week'te yaptığı açıklamada hedefin milyonlarca kullanıcı olduğunu belirtti. Redcoin ilk aşamada HSBC'nin ödeme uygulaması Payme üzerinden 3,3 milyon kullanıcıya ve yaklaşık 100 bin satıcıya erişiyor.",
    "tarih": "2026-11-02T17:09:22.137Z"
-  },
-  {
-   "id": 2073,
-   "metin": "Tether'in USDT arzı 24 saatte 1,6 milyar dolar büyüdü. DeFiLlama verilerine göre dolaşımdaki USDT miktarı 179,6 milyar dolardan 181,2 milyar dolara çıktı.\n\nBu artış genellikle Tether'in yeni USDT bastığını gösteriyor. Doları takip eden kripto para (stablecoin) arzındaki genişleme, piyasaya yeni likidite girişine işaret ediyor.",
-   "tarih": "2026-11-02T16:26:10.235Z"
-  },
-  {
-   "id": 2072,
-   "metin": "40 milyon dolarlık saldırı şüphesi: Brezilya'nın en büyük kripto borsası Mercado Bitcoin (BTC) saldırıya uğradı.\n\nBorsa olayı doğrulayarak para yatırma ve çekme işlemlerini geçici olarak durdurdu. Blokzincir güvenlik şirketi Hypernative kayıpları 40 milyon dolar olarak tahmin ediyor.",
-   "tarih": "2026-11-02T15:28:24.836Z"
-  },
-  {
-   "id": 2071,
-   "metin": "Bitmine geçen hafta 8.573 ETH alarak elindeki varlığı 6,06 milyon ETH'ye çıkardı.\n\nŞirketin arkasındaki Tom Lee, Binance saldırısına piyasanın verdiği tepkinin zayıf kaldığını belirtti.",
-   "tarih": "2026-11-02T15:04:50.136Z"
-  },
-  {
-   "id": 2070,
-   "metin": "Michael Saylor’ın Strategy şirketi, “Daha da fazla turuncuya yer bulduk” diyerek 65,5 milyon dolara 811 bitcoin (BTC) daha aldı.",
-   "tarih": "2026-11-02T14:05:07.637Z"
-  },
-  {
-   "id": 2069,
-   "metin": "XRP Ledger'da stablecoin ortaklarının yeni token basmasına yol açabilecek bir hata çarşamba günü kapatılacak.\n\nDüzeltmenin devreye girmesi için gereken iki haftalık onay süreci, ağı yöneten doğrulayıcıların desteği kısa süre düşüp yeniden toparlanınca baştan işlemeye başladı. Açık, XRP'yi etkilemiyor.",
-   "tarih": "2026-11-02T12:46:57.436Z"
-  },
-  {
-   "id": 2068,
-   "metin": "Polygon (POL), Solana'nın (SOL) 15 milyar dolarlık stablecoin pazarına ABD bankacılık erişimini taşıdı.\n\n- Yurt dışı şirketler ABD'de şirket kurmadan kendi adlarına ABD bankacılık sistemine erişebilecek.\n- Hizmet, banka havalesi, kart, nakit veya kripto ile ödeme kabul edip stablecoin'e çevirmeyi ve aynı kanallardan ödeme yapmayı sağlıyor.",
-   "tarih": "2026-11-02T10:26:57.838Z"
-  },
-  {
-   "id": 2067,
-   "metin": "İran, Hürmüz Boğazı'nın 48 saat içinde yeniden açılması için ABD'nin koşullarını kabul etmesi şartıyla Katar arabuluculuğuyla görüşmelerin sürdüğünü açıkladı.\n\nİran Dışişleri Bakanı Abbas Erakçi'nin belirttiği koşullar arasında ABD yaptırımlarının kaldırılması, bölgedeki ABD askeri varlığının azaltılması ve dondurulmuş İran fonlarının serbest bırakılması yer alıyor.",
-   "tarih": "2026-11-02T09:48:38.036Z"
-  },
-  {
-   "id": 2066,
-   "metin": "⚠️ Kripto para borsası Binance, 6,3 milyar dolarlık rekor soygunun ardından güveni yeniden tesis etmeye çalışıyor.",
-   "tarih": "2026-11-02T09:29:04.333Z"
-  },
-  {
-   "id": 2065,
-   "metin": "16,6 milyar dolarlık varlık çıkışı: Binance'in rezerv kanıtı bir gün gecikmeyle salıya ertelendi.\n\nBorsanın 29 Ekim'deki saldırıdan bu yana izlenen varlıkları 144,9 milyar dolardan 128,3 milyar dolara geriledi. Binance, eksiksiz rezerv kanıtının üretiminin 40-50 saat sürdüğünü belirterek belgeyi 3 Kasım'a öteledi.",
-   "tarih": "2026-11-02T09:08:07.735Z"
-  },
-  {
-   "id": 2064,
-   "metin": "Çalınan 292 milyon dolarlık XRP, altı ayrı cüzdana bölündü.\n\nBu cüzdanlardan henüz çıkış işlemi yapılmadı. XRP, Ripple tarafından dondurulamadığı için paranın durdurulabileceği tek nokta olarak borsalar öne çıkıyor.",
-   "tarih": "2026-11-02T08:10:35.135Z"
   }
  ]
 }
