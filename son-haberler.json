@@ -1,7 +1,52 @@
 {
- "guncelleme": "2026-11-04T11:28:44.434Z",
+ "guncelleme": "2026-11-04T18:48:44.846Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2111,
+   "metin": "Polygon, Polymarket ve Binance olaylarına bağlı 70,49 milyon POL'ü kurtarmak için ağın kurallarını değiştiren bir güncelleme (hard fork) önerisi sundu.\n\nÖneri kabul edilirse tokenlar kurtarma cüzdanlarına gönderilecek. POL'ün toplam arzı değişmeyecek.",
+   "tarih": "2026-11-04T18:04:09.141Z"
+  },
+  {
+   "id": 2110,
+   "metin": "Stripe, ABD'li işletmelerin 160'tan fazla piyasadaki cüzdanlara stablecoin göndermesini sağlayan özelliği herkese açık önizleme olarak başlattı.\n\n- Gönderimler USDC ve Open USD ile yapılıyor, hazine bakiyesinden karşılanıyor.\n- New York'taki işletmeler kapsam dışı tutuluyor.",
+   "tarih": "2026-11-04T17:50:30.242Z"
+  },
+  {
+   "id": 2109,
+   "metin": "Polkadot'un (DOT) hazinesi, dört ay önce düzeltilen bir güvenlik açığının sömürülmesiyle yaklaşık 1,38 milyon dolar kaybetti. Açık, ekim ayında çıkan stablecoin dotUSD'nin işleyişini bozarak fiyatları saptırdı; zararı likidite sağlayan hazine karşıladı, kullanıcıların fonları etkilenmedi.\n\n- Parity Technologies'e göre hata haziranda tespit edilip düzeltildi ama canlı sisteme ulaşmadı.",
+   "tarih": "2026-11-04T16:44:48.042Z"
+  },
+  {
+   "id": 2108,
+   "metin": "📊 ABD'de hizmet sektörü aktivitesi ekimde hafifçe gerilerken enflasyon yüksek seyretmeye devam etti.",
+   "tarih": "2026-11-04T15:47:51.343Z"
+  },
+  {
+   "id": 2107,
+   "metin": "38 ülkede App Store finans sıralamasına giren NEAR Mobile, 1 milyonu aşkın indirmeye ulaştı.\n\n- Sırbistan'da finans kategorisinde birinci, Macaristan'da ikinci sıraya çıktı.\n- Yeni sürümüyle NEAR ve diğer ağlarda işlem ücreti ödemeden 120'den fazla varlık arasında takas yapılabiliyor; altyapıyı sağlayan NEAR Intents'in toplam hacmi 33 milyar doları geçti.",
+   "tarih": "2026-11-04T14:42:59.440Z"
+  },
+  {
+   "id": 2106,
+   "metin": "🗣️ İran hükümeti, ABD seçmenlerinin savaşı reddettiğini ve Trump'a tepki gösterdiğini açıkladı",
+   "tarih": "2026-11-04T14:30:40.643Z"
+  },
+  {
+   "id": 2105,
+   "metin": "Mercado Bitcoin (BTC) saldırganı, ele geçirdiği tokenları 10,55 milyon dolarlık ETH'ye çevirdi.\n\nArkham, etiketli cüzdanlardan 13,26 milyon doların çıktığını izledi. Mercado Bitcoin ise bloke edilen varlık tahminini 12,9 milyon dolara yükseltti.",
+   "tarih": "2026-11-04T14:06:02.340Z"
+  },
+  {
+   "id": 2104,
+   "metin": "1,1 trilyon dolarlık varlık yöneten Schroders, gelişen piyasa tahvil fonunu Solana (SOL) ağına taşıyor.\n\nAktif yönetilen fon, varlıkları blockchain üzerinde dijitalleştiren Centrifuge aracılığıyla hayata geçirilecek ve yatırımcıya zincir üstünde tahvil stratejisi sunacak.",
+   "tarih": "2026-11-04T13:22:25.839Z"
+  },
+  {
+   "id": 2103,
+   "metin": "📊 Euro bölgesi enflasyonu üç yılın en yüksek seviyesine yükseldi.",
+   "tarih": "2026-11-04T12:04:26.540Z"
+  },
   {
    "id": 2102,
    "metin": "Binance, 6 milyar dolarlık hack sonrası hizmete dönüşünün ardından 46 saatte 11 milyar dolarlık çekim bildirdi.\n\n- Net çıkış yaklaşık 5 milyar dolar; bu, toplam varlıkların %3,1'ine denk geliyor.\n- Changpeng Zhao: çekimlerin yalnızca %6-10'u rakip borsalara gitti, çoğu kendi cüzdanlara aktarıldı. Binance açığı bilançosundan karşıladı; borç almadı, varlık satmadı.",
@@ -56,51 +101,6 @@
    "id": 2092,
    "metin": "Kripto yatırım şirketi Paradigm, 224 milyon dolar değerinde 2,55 milyon HYPE'ı stake etmeyi bıraktı.\n\nBu, şirketin toplam stake pozisyonunun yüzde 17,85'ine denk geliyor. Stake çözümü otomatik satış anlamına gelmiyor, ancak Hyperliquid'in kasımda Circle'dan beklediği 15 milyon doları aşkın gelir ve ekimde topladığı 87 milyon dolar geri alım programını besleyebilir.",
    "tarih": "2026-11-03T16:47:39.729Z"
-  },
-  {
-   "id": 2091,
-   "metin": "XRP Ledger'da, onaylı iş ortaklarının stablecoin ihraççılarının izni olmadan token basmasına yol açan güvenlik açığı kapatılıyor.\n\n2 Kasım itibarıyla 35 güvenilir doğrulayıcıdan 33'ü önerilen değişikliği destekliyor. Ağ kurallarına göre yürürlüğe girmesi için yüzde 80'den fazla desteğin 14 gün boyunca kesintisiz sürmesi gerekiyor; bu nedenle en erken tarih 4 Kasım.",
-   "tarih": "2026-11-03T14:43:45.528Z"
-  },
-  {
-   "id": 2090,
-   "metin": "⚠️ İsrail Başbakanı Binyamin Netanyahu, AP'ye göre, ABD'yi ara seçimlerin ardından İran'a yönelik saldırıları yeniden başlatmaya çağırdı.",
-   "tarih": "2026-11-03T14:27:35.027Z"
-  },
-  {
-   "id": 2089,
-   "metin": "🗣️ ABD Başkanı Donald Trump, ABD'nin yıl sonundan itibaren İsrail'e ödeme yapmayı durduracağını açıkladı.",
-   "tarih": "2026-11-03T14:09:52.027Z"
-  },
-  {
-   "id": 2088,
-   "metin": "Peter Brandt'a göre gümüş kıtlığı anlatısı çürüdü: nakit gümüş, Comex vadeli gümüş kontratlarının altında işlem görüyor.\n\n- Emtia piyasalarında tanınan trader Peter Brandt, kıtlık iddialarının dayanağı olan \"kağıt gümüş\" tezinin bu fiyat ilişkisiyle geçersiz kaldığını belirtti.",
-   "tarih": "2026-11-03T13:27:30.628Z"
-  },
-  {
-   "id": 2087,
-   "metin": "BTCPay Server, saldırganların yaklaşık 1,6 milyon dolar değerinde Bitcoin ve Litecoin çalmasının ardından satıcıları eski ödeme sunucularını ve cüzdanlarını yenilemeye çağırdı.\n\nBitquery verilerine göre 30 Ekim-2 Kasım arasında 682 cüzdandan 18,38 BTC ve 3.405 LTC çekildi; bunun yüzde 87'si 1 Kasım'daki sekiz saatlik zaman diliminde gerçekleşti.",
-   "tarih": "2026-11-03T12:47:10.727Z"
-  },
-  {
-   "id": 2086,
-   "metin": "133 milyon doları aşan şüpheli kripto hırsızlığında Kraken, ilgili hesapları kısıtladı.\n\nZincir üstü araştırmacı ZachXBT, kayıp tutarın 106 milyon dolardan 133 milyon dolara çıktığını, fonların Kraken, Crypto-com ve OKX hesaplarından çekildiğini bildirdi. Kraken olayın kendi platformunda başlamadığını duyurdu; Crypto-com ilgili fonları bloke etti, Tether ise 1,1 milyon dolar USDT dondurdu.",
-   "tarih": "2026-11-03T12:25:47.628Z"
-  },
-  {
-   "id": 2085,
-   "metin": "Binance'te XRP ve RLUSD çekimleri yeniden açıldı; aynı saatlerde Ripple tek işlemde 110,57 milyon RLUSD bastı.\n\n- Ripple'ın dolar destekli tokenı RLUSD'nin toplam değeri 2,56 milyar dolara yaklaşıyor, arzın yaklaşık üçte biri XRP Ledger'da duruyor.\n- Çekimler aşamalı açılıyor; ilk grupta BTC, ETH, XRP ve SOL yer aldı.",
-   "tarih": "2026-11-03T10:47:47.135Z"
-  },
-  {
-   "id": 2084,
-   "metin": "Hafta sonu borsalar kapalıyken hisse teminatı artık fiyatsız kalmayacak: Aave'in (AAVE) kurumsal kredi platformu Horizon, Chainlink'in (LINK) yeni fiyatlama servisini kullanmaya başladı.\n\nChainlink, hafta içi borsa verisini kullanıyor; piyasa kapandığında fiyatı, ilgili varlığın işlem gördüğü vadeli işlem piyasalarından alıyor.\n- Hafta sonu düşen teminat değeri, borsa yeniden açılmadan bir krediyi tasfiye eşiğine taşıyabilir.",
-   "tarih": "2026-11-03T10:23:37.638Z"
-  },
-  {
-   "id": 2083,
-   "metin": "FBI, THORChain'den Kuzey Koreli hacker grubu TraderTraitor'a ait adreslerle yapılan işlemleri engellemesini istedi.\n\nKurucu ortak Chad Barraford, operatörlerin zaten kamuya açık bilgiye erişebildiğini savunarak talebe karşı çıktı. Tartışmanın odağında, Bybit borsasından çalınan paranın yaklaşık 1,2 milyar dolarlık kısmının THORChain (RUNE) üzerinden Bitcoin'e (BTC) dönüştürüldüğü iddiası var.",
-   "tarih": "2026-11-03T08:45:24.736Z"
   }
  ]
 }
