@@ -1,7 +1,37 @@
 {
- "guncelleme": "2026-11-03T23:12:16.569Z",
+ "guncelleme": "2026-11-04T11:28:44.434Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2102,
+   "metin": "Binance, 6 milyar dolarlık hack sonrası hizmete dönüşünün ardından 46 saatte 11 milyar dolarlık çekim bildirdi.\n\n- Net çıkış yaklaşık 5 milyar dolar; bu, toplam varlıkların %3,1'ine denk geliyor.\n- Changpeng Zhao: çekimlerin yalnızca %6-10'u rakip borsalara gitti, çoğu kendi cüzdanlara aktarıldı. Binance açığı bilançosundan karşıladı; borç almadı, varlık satmadı.",
+   "tarih": "2026-11-04T11:23:32.646Z"
+  },
+  {
+   "id": 2101,
+   "metin": "Stablecoin arzı 17 milyar dolar azalırken Solana'da (SOL) stablecoin ile yapılan kart harcamaları aylık 141 milyon dolarla rekor kırdı.\n\n- Toplam stablecoin piyasa değeri Nisan'daki 280 milyar dolardan 263 milyar dolara indi.\n- Binance'in stablecoin rezervi 51 milyar dolardan 33,9 milyar dolara geriledi; borsadaki USDT rezervi 30 günde yüzde 7,8 düşüşle 34,78 milyar dolar oldu.",
+   "tarih": "2026-11-04T08:05:26.831Z"
+  },
+  {
+   "id": 2100,
+   "metin": "İranlı bazı din adamları ve yetkililer, ülkenin uzun süredir bağlı olduğu nükleer bomba yapmama taahhüdünü terk etmesi gerektiğini savunuyor. Gerekçe olarak caydırıcılığın yeniden inşası gösteriliyor.",
+   "tarih": "2026-11-04T07:04:45.132Z"
+  },
+  {
+   "id": 2099,
+   "metin": "Sei'nin Autobahn ağ yükseltmesi için yapılan oylama yeterli oy çoğunluğuna ulaştı.\n\n- Değişiklik, ağı işleten doğrulayıcıların işlemleri aynı anda önermesini sağlayacak.\n- Yükseltmenin etkinleşmesi için önce halka açık test ağı ve güvenlik denetimleri tamamlanmalı.",
+   "tarih": "2026-11-04T06:46:23.232Z"
+  },
+  {
+   "id": 2098,
+   "metin": "1 milyar dolarlık çıkışa rağmen Citi Wealth, müşterilerine Bitcoin (BTC) ETF'lerini öneriyor.\n\nBu para çıkışı, Binance saldırısının ardından ABD spot Bitcoin ETF'lerinden iki günde gerçekleşti.",
+   "tarih": "2026-11-04T05:48:29.933Z"
+  },
+  {
+   "id": 2097,
+   "metin": "Santiment verilerine göre, en az 1 milyon XRP tutan cüzdan sayısı 2.147'ye çıkarak 2026'nın zirvesini gördü.\n\nSon 10 günde 28 cüzdan eklendi, bunların 18'i son üç günde geldi. Analiz firması bunu fiyat durgunken büyük yatırımcıların birikim yaptığına işaret olarak yorumluyor; 1 Kasım'da 7.934 yeni XRP cüzdanı açıldı.",
+   "tarih": "2026-11-04T05:24:21.931Z"
+  },
   {
    "id": 2096,
    "metin": "Binance, dahili yapay zeka aracının ele geçirilmesiyle mühendislerinin bilgisayarlarından 6,34 milyar dolar değerinde kripto paranın çalındığını açıkladı; FBI saldırıyı Kuzey Kore'ye bağladı.\n\nSaldırganlar 20 Ekim'de dahili bir yapay zeka aracıyla iki mühendisin cihazına sızdı, 29 Ekim'de cüzdan imzalama sistemine girip yetkisiz işlemler başlattı.",
@@ -71,36 +101,6 @@
    "id": 2083,
    "metin": "FBI, THORChain'den Kuzey Koreli hacker grubu TraderTraitor'a ait adreslerle yapılan işlemleri engellemesini istedi.\n\nKurucu ortak Chad Barraford, operatörlerin zaten kamuya açık bilgiye erişebildiğini savunarak talebe karşı çıktı. Tartışmanın odağında, Bybit borsasından çalınan paranın yaklaşık 1,2 milyar dolarlık kısmının THORChain (RUNE) üzerinden Bitcoin'e (BTC) dönüştürüldüğü iddiası var.",
    "tarih": "2026-11-03T08:45:24.736Z"
-  },
-  {
-   "id": 2082,
-   "metin": "BNB Chain, Jenner güncellemesiyle test ağında ödeme hattını devreye aldı; uygun ödemeler için işlem ücretlerinin yüzde 5'i ayrılacak.\n\nToken listelemeleri ve yeni token standardının etkinleştirilmesi ise ayrı yönetişim adımlarıyla ele alınacak.",
-   "tarih": "2026-11-03T07:25:13.339Z"
-  },
-  {
-   "id": 2081,
-   "metin": "📰 Çin, yuanın değer kazanma hızını yavaşlatmak için döviz risk rezerv oranını yükselteceğini duyurdu.",
-   "tarih": "2026-11-03T06:45:13.037Z"
-  },
-  {
-   "id": 2080,
-   "metin": "Trump, Güney Afrika'yı Afrika Büyüme ve Fırsat Yasası (AGOA) ticaret programından çıkardı.\n\n- Beyaz yönetim, ülkeyi beyazlara ayrımcılık yapmakla suçluyor.\n- Karar, Güney Afrika'ya karşı alınan son önlem oldu.",
-   "tarih": "2026-11-03T06:05:42.738Z"
-  },
-  {
-   "id": 2079,
-   "metin": "Arbitrum (ARB) komitesi, 30 milyon dolarlık Binance hack fonunu hacker'ın anahtarı olmadan taşıdı.\n\n12 kişilik komite, ağın temel akıllı sözleşmesini geçici olarak değiştirip anahtarı elinde olmayan bir adresten harcama yaptı, ardından kodu eski haline getirdi. Bu, yıl içinde ikinci kez yaşandı.",
-   "tarih": "2026-11-03T05:43:12.436Z"
-  },
-  {
-   "id": 2078,
-   "metin": "Avustralya Merkez Bankası politika faizini 25 baz puan artırarak yüzde 4,85'e çıkardı.\n\nYıl içindeki beşinci artışla banka, enflasyonu hedefine döndürmeyi amaçlıyor. Başkan Michele Bullock yönetimindeki kurul kararı 6-3 oyla aldı; yıl başından bu yana toplam artış 125 baz puan oldu.",
-   "tarih": "2026-11-03T05:26:37.436Z"
-  },
-  {
-   "id": 2077,
-   "metin": "⚠️ WSJ'nin haberine göre ABD, İran'ın Kaşm Adası'nı vurdu.",
-   "tarih": "2026-11-03T02:23:56.637Z"
   }
  ]
 }
