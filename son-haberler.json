@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-04T18:48:44.846Z",
+ "guncelleme": "2026-11-05T00:17:54.956Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2113,
+   "metin": "ApeChain, zincirler arası köprü sağlayıcısını LayerZero'dan Chainlink'e (LINK) taşımayı planlıyor.\n\nPlan, APE ve USDC'nin Chainlink'in köprü tokenlarına dönüştürülmesini kapsıyor. Duyurularda token sahiplerinin nasıl taşınacağı veya eski köprünün ne zaman kapanacağı belirtilmedi.",
+   "tarih": "2026-11-04T20:21:48.140Z"
+  },
+  {
+   "id": 2112,
+   "metin": "18 milyon dolar eksik: XRP alım şirketi Evernorth'un finansman planı, düşen hisse fiyatı yüzünden beklenenden az kaynak toplayabilir.\n\nŞirketin hisse satışı için kayıt işlemi 30 Ekim'de yürürlüğe girdi ve Cantor Fitzgerald iştirakine 5,2 milyon yeni hisse satılmasının önü açıldı.",
+   "tarih": "2026-11-04T19:04:12.745Z"
+  },
   {
    "id": 2111,
    "metin": "Polygon, Polymarket ve Binance olaylarına bağlı 70,49 milyon POL'ü kurtarmak için ağın kurallarını değiştiren bir güncelleme (hard fork) önerisi sundu.\n\nÖneri kabul edilirse tokenlar kurtarma cüzdanlarına gönderilecek. POL'ün toplam arzı değişmeyecek.",
@@ -91,16 +101,6 @@
    "id": 2094,
    "metin": "ABD'li kredi bankası Cross River, kredilerin blockchain üzerinde dijitalleştirilmesi için Offchain Labs ile anlaştı.\n\nKrediler oluşturuldukları andan itibaren Arbitrum (ARB) One ağında finanse edilip el değiştirebilecek; sistemin 2027 başında devreye girmesi bekleniyor.",
    "tarih": "2026-11-03T18:44:24.827Z"
-  },
-  {
-   "id": 2093,
-   "metin": "45 milyon dolarlık dava: Justin Sun, World Liberty Financial'a yaptırım uygulanmasını talep ediyor.\n\nSun, Trump ailesiyle bağlantılı şirketin BAE vatandaşlığını federal mahkemeden kaçmak için gizlediğini öne sürüyor. Dava dosyasını Kaliforniya eyalet mahkemesinde yeniden açmayı planlıyor.",
-   "tarih": "2026-11-03T17:25:57.727Z"
-  },
-  {
-   "id": 2092,
-   "metin": "Kripto yatırım şirketi Paradigm, 224 milyon dolar değerinde 2,55 milyon HYPE'ı stake etmeyi bıraktı.\n\nBu, şirketin toplam stake pozisyonunun yüzde 17,85'ine denk geliyor. Stake çözümü otomatik satış anlamına gelmiyor, ancak Hyperliquid'in kasımda Circle'dan beklediği 15 milyon doları aşkın gelir ve ekimde topladığı 87 milyon dolar geri alım programını besleyebilir.",
-   "tarih": "2026-11-03T16:47:39.729Z"
   }
  ]
 }
