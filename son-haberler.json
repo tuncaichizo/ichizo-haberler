@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-05T00:17:54.956Z",
+ "guncelleme": "2026-11-05T07:17:00.277Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2116,
+   "metin": "Temsilciler Meclisi Demokratları, SEC'in kripto piyasası denetimini genişletip CFTC'nin yetkisini kısıtlayacak bir piyasa yapısı yasasını görüşüyor.\n\nHenüz tasarı sunulmadı; görüşmeler Ocak 2027'de başlayacak Kongre için. Eleanor Terrett'in aktardığına göre plan, Maxine Waters'ın daha önce kabul edilmeyen yatırımcı koruma önlemlerini yeniden gündeme getirebilir.",
+   "tarih": "2026-11-05T06:05:49.044Z"
+  },
+  {
+   "id": 2115,
+   "metin": "Bitcoin (BTC) rezervlerine iki partiden destek: Strategy'nin icra kurulu başkanı Michael Saylor, Florida ve Teksas seçim sonuçlarını örnek gösterdi.\n\n- Florida'da Cumhuriyetçi Byron Donalds valiliği kazandı; federal Bitcoin rezervini yasalaştırmak için teklif vermişti.\n- Teksas'ta Demokrat James Talarico senatör seçildi; eyalet meclisindeyken rezerv yasasına lehte oy kullandı.",
+   "tarih": "2026-11-05T05:24:25.442Z"
+  },
+  {
+   "id": 2114,
+   "metin": "🗣️ Japonya Merkez Bankası (BOJ) Eylül ayı toplantı tutanaklarına göre politika kurulu, faiz oranlarını artırmaya devam edilmesi gerektiği görüşünde.",
+   "tarih": "2026-11-05T05:01:01.140Z"
+  },
   {
    "id": 2113,
    "metin": "ApeChain, zincirler arası köprü sağlayıcısını LayerZero'dan Chainlink'e (LINK) taşımayı planlıyor.\n\nPlan, APE ve USDC'nin Chainlink'in köprü tokenlarına dönüştürülmesini kapsıyor. Duyurularda token sahiplerinin nasıl taşınacağı veya eski köprünün ne zaman kapanacağı belirtilmedi.",
@@ -86,21 +101,6 @@
    "id": 2097,
    "metin": "Santiment verilerine göre, en az 1 milyon XRP tutan cüzdan sayısı 2.147'ye çıkarak 2026'nın zirvesini gördü.\n\nSon 10 günde 28 cüzdan eklendi, bunların 18'i son üç günde geldi. Analiz firması bunu fiyat durgunken büyük yatırımcıların birikim yaptığına işaret olarak yorumluyor; 1 Kasım'da 7.934 yeni XRP cüzdanı açıldı.",
    "tarih": "2026-11-04T05:24:21.931Z"
-  },
-  {
-   "id": 2096,
-   "metin": "Binance, dahili yapay zeka aracının ele geçirilmesiyle mühendislerinin bilgisayarlarından 6,34 milyar dolar değerinde kripto paranın çalındığını açıkladı; FBI saldırıyı Kuzey Kore'ye bağladı.\n\nSaldırganlar 20 Ekim'de dahili bir yapay zeka aracıyla iki mühendisin cihazına sızdı, 29 Ekim'de cüzdan imzalama sistemine girip yetkisiz işlemler başlattı.",
-   "tarih": "2026-11-03T22:42:54.717Z"
-  },
-  {
-   "id": 2095,
-   "metin": "Stellar'ın (XLM) Bell yükseltmesi, ana ağ oylaması öncesinde test ağında devreye girdi.\n\nCüzdanlar ve veri takip servislerinin yazılımlarını güncellemesi gerekiyor. Akıllı sözleşmelere ise isteğe bağlı kuantum sonrası imza doğrulaması ekleniyor.",
-   "tarih": "2026-11-03T20:03:47.918Z"
-  },
-  {
-   "id": 2094,
-   "metin": "ABD'li kredi bankası Cross River, kredilerin blockchain üzerinde dijitalleştirilmesi için Offchain Labs ile anlaştı.\n\nKrediler oluşturuldukları andan itibaren Arbitrum (ARB) One ağında finanse edilip el değiştirebilecek; sistemin 2027 başında devreye girmesi bekleniyor.",
-   "tarih": "2026-11-03T18:44:24.827Z"
   }
  ]
 }
