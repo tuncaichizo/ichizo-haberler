@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-11-05T07:17:00.277Z",
+ "guncelleme": "2026-11-05T15:45:47.574Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2124,
+   "metin": "🗣️ Cleveland Fed Başkanı Hammack, enflasyonu düşürmek için kademeli faiz artırımı yolunu desteklediğini açıkladı.",
+   "tarih": "2026-11-05T15:11:08.445Z"
+  },
+  {
+   "id": 2123,
+   "metin": "6,3 milyar dolarlık Binance saldırısının ardından Fed ve OCC, ABD'li bankalardan siber güvenlik durumlarını sordu.\n\nReuters'a göre denetçiler bankalara şüpheli işlem, hizmet kesintisi veya güvenlik açığı olup olmadığını iletti. 29 Ekim'deki saldırıyı Kuzey Kore bağlantılı Tradertraitor adlı hack grubu gerçekleştirdi; Binance etkilenen müşterilere zararı geri ödeme sözü verdi.",
+   "tarih": "2026-11-05T14:46:46.043Z"
+  },
+  {
+   "id": 2122,
+   "metin": "Polygon'da (POL) akıllı sözleşme güncelleme yetkisi 11 kişilik güvenlik konseyinin 8 imzasına bağlanacak.\n\nTaslak öneri, Polygon Labs'in güncelleme önerilerinin yedi gün gecikmeyle uygulanmasını da getiriyor.",
+   "tarih": "2026-11-05T14:26:23.143Z"
+  },
+  {
+   "id": 2121,
+   "metin": "ABD'de haftalık işsizlik başvuruları beklentinin aksine 189.000'e geriledi.\n\nÇalışma Bakanlığı'na göre 31 Ekim'le biten haftada başvurular, önceki haftanın revize 195.000 seviyesinden 6.000 azaldı. Ekonomistler ise 196.000 başvuru bekliyordu.",
+   "tarih": "2026-11-05T14:10:11.444Z"
+  },
+  {
+   "id": 2120,
+   "metin": "46 milyon dolarlık saldırının ardından Brezilya kripto borsası Mercado Bitcoin (BTC), müşteri hesaplarına erişimi Pazartesi günü kademeli olarak yeniden açıyor.\n\nİlk aşamada müşteriler yalnızca bakiye ve varlıklarını görüntüleyebilecek; çekim ve işlemler bağımsız güvenlik testlerinin ardından açılacak.\n- Borsa, çalınan varlıkları şirket kaynaklarından tamamlayacağını, 15 milyon doların dondurulduğunu duyurdu.",
+   "tarih": "2026-11-05T09:44:24.352Z"
+  },
+  {
+   "id": 2119,
+   "metin": "🗣️ Beyaz Saray, Fed üyesi Cook için 14 Aralık'ta duruşma düzenleyeceğini duyurdu.",
+   "tarih": "2026-11-05T08:44:19.542Z"
+  },
+  {
+   "id": 2118,
+   "metin": "XRP Ledger'da token yakma yetkisi olan hesapların yeni token üretmesine izin veren güvenlik açığı kapatıldı.\n\nDüzeltme Çarşamba günü devreye girdi; ağdaki XRP varlıkları açıktan etkilenmedi.",
+   "tarih": "2026-11-05T07:45:24.945Z"
+  },
+  {
+   "id": 2117,
+   "metin": "Spot Bitcoin (BTC) ETF'lerinden üç işlem gününde yaklaşık 1,16 milyar dolar çekildi; BlackRock'ın IBIT fonu 734 milyon dolarla çıkışın başını çekti.\n\nEthereum (ETH) ETF'leri de 26 Ekim-3 Kasım arasında yedi gün üst üste çıkış yaşadı, toplam çıkış 656,4 milyon dolar oldu. Bloomberg analisti James Seyffart, eylül sonunda iyi görünen tablonun ekimde kısmen tersine döndüğünü belirtti.",
+   "tarih": "2026-11-05T07:25:42.745Z"
+  },
   {
    "id": 2116,
    "metin": "Temsilciler Meclisi Demokratları, SEC'in kripto piyasası denetimini genişletip CFTC'nin yetkisini kısıtlayacak bir piyasa yapısı yasasını görüşüyor.\n\nHenüz tasarı sunulmadı; görüşmeler Ocak 2027'de başlayacak Kongre için. Eleanor Terrett'in aktardığına göre plan, Maxine Waters'ın daha önce kabul edilmeyen yatırımcı koruma önlemlerini yeniden gündeme getirebilir.",
@@ -61,46 +101,6 @@
    "id": 2105,
    "metin": "Mercado Bitcoin (BTC) saldırganı, ele geçirdiği tokenları 10,55 milyon dolarlık ETH'ye çevirdi.\n\nArkham, etiketli cüzdanlardan 13,26 milyon doların çıktığını izledi. Mercado Bitcoin ise bloke edilen varlık tahminini 12,9 milyon dolara yükseltti.",
    "tarih": "2026-11-04T14:06:02.340Z"
-  },
-  {
-   "id": 2104,
-   "metin": "1,1 trilyon dolarlık varlık yöneten Schroders, gelişen piyasa tahvil fonunu Solana (SOL) ağına taşıyor.\n\nAktif yönetilen fon, varlıkları blockchain üzerinde dijitalleştiren Centrifuge aracılığıyla hayata geçirilecek ve yatırımcıya zincir üstünde tahvil stratejisi sunacak.",
-   "tarih": "2026-11-04T13:22:25.839Z"
-  },
-  {
-   "id": 2103,
-   "metin": "📊 Euro bölgesi enflasyonu üç yılın en yüksek seviyesine yükseldi.",
-   "tarih": "2026-11-04T12:04:26.540Z"
-  },
-  {
-   "id": 2102,
-   "metin": "Binance, 6 milyar dolarlık hack sonrası hizmete dönüşünün ardından 46 saatte 11 milyar dolarlık çekim bildirdi.\n\n- Net çıkış yaklaşık 5 milyar dolar; bu, toplam varlıkların %3,1'ine denk geliyor.\n- Changpeng Zhao: çekimlerin yalnızca %6-10'u rakip borsalara gitti, çoğu kendi cüzdanlara aktarıldı. Binance açığı bilançosundan karşıladı; borç almadı, varlık satmadı.",
-   "tarih": "2026-11-04T11:23:32.646Z"
-  },
-  {
-   "id": 2101,
-   "metin": "Stablecoin arzı 17 milyar dolar azalırken Solana'da (SOL) stablecoin ile yapılan kart harcamaları aylık 141 milyon dolarla rekor kırdı.\n\n- Toplam stablecoin piyasa değeri Nisan'daki 280 milyar dolardan 263 milyar dolara indi.\n- Binance'in stablecoin rezervi 51 milyar dolardan 33,9 milyar dolara geriledi; borsadaki USDT rezervi 30 günde yüzde 7,8 düşüşle 34,78 milyar dolar oldu.",
-   "tarih": "2026-11-04T08:05:26.831Z"
-  },
-  {
-   "id": 2100,
-   "metin": "İranlı bazı din adamları ve yetkililer, ülkenin uzun süredir bağlı olduğu nükleer bomba yapmama taahhüdünü terk etmesi gerektiğini savunuyor. Gerekçe olarak caydırıcılığın yeniden inşası gösteriliyor.",
-   "tarih": "2026-11-04T07:04:45.132Z"
-  },
-  {
-   "id": 2099,
-   "metin": "Sei'nin Autobahn ağ yükseltmesi için yapılan oylama yeterli oy çoğunluğuna ulaştı.\n\n- Değişiklik, ağı işleten doğrulayıcıların işlemleri aynı anda önermesini sağlayacak.\n- Yükseltmenin etkinleşmesi için önce halka açık test ağı ve güvenlik denetimleri tamamlanmalı.",
-   "tarih": "2026-11-04T06:46:23.232Z"
-  },
-  {
-   "id": 2098,
-   "metin": "1 milyar dolarlık çıkışa rağmen Citi Wealth, müşterilerine Bitcoin (BTC) ETF'lerini öneriyor.\n\nBu para çıkışı, Binance saldırısının ardından ABD spot Bitcoin ETF'lerinden iki günde gerçekleşti.",
-   "tarih": "2026-11-04T05:48:29.933Z"
-  },
-  {
-   "id": 2097,
-   "metin": "Santiment verilerine göre, en az 1 milyon XRP tutan cüzdan sayısı 2.147'ye çıkarak 2026'nın zirvesini gördü.\n\nSon 10 günde 28 cüzdan eklendi, bunların 18'i son üç günde geldi. Analiz firması bunu fiyat durgunken büyük yatırımcıların birikim yaptığına işaret olarak yorumluyor; 1 Kasım'da 7.934 yeni XRP cüzdanı açıldı.",
-   "tarih": "2026-11-04T05:24:21.931Z"
   }
  ]
 }
