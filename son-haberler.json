@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-11-05T15:45:47.574Z",
+ "guncelleme": "2026-11-05T21:54:46.345Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2132,
+   "metin": "Chainalysis, tüm kullanıcılarının şifre özetleri ve aktif oturum anahtarlarının hackerlarca ele geçirildiğini açıkladı.\n\nİşlem izleme platformu KYT, adres tarama, Reactor inceleme platformu ve giriş sayfası kapatıldı. Şirket, erişimin yeniden açılması için tüm kullanıcıların şifresini sıfırlamasını ve API anahtarlarını yenilemesini istiyor.",
+   "tarih": "2026-11-05T20:27:40.644Z"
+  },
+  {
+   "id": 2131,
+   "metin": "Floki, ticaret botunu bir güvenlik açığı incelemesi nedeniyle devre dışı bıraktı.\n\nEkip, etkilenen kullanıcıları yeni cüzdanlara taşımayı planlıyor ve bot cüzdanlarına yeni para yatırılmaması konusunda uyardı.",
+   "tarih": "2026-11-05T19:43:13.243Z"
+  },
+  {
+   "id": 2130,
+   "metin": "Risk yönetimi şirketi Gauntlet, bildirilen bir yazılım açığı sonrası V1 kasalarında yeni yatırım alımını durdurdu.\n\nŞirket ayrıca yeni fon dağıtımlarını duraklattı ve köprüyle taşınan varlıklardaki pozisyonunu azaltıyor. Gauntlet, kendi bilgisine göre henüz bir saldırı yaşanmadığını açıkladı.",
+   "tarih": "2026-11-05T18:24:32.367Z"
+  },
+  {
+   "id": 2129,
+   "metin": "📰 ABD, Küba ekonomisinin sektörlerini hedef alan yeni yaptırımları duyurdu.",
+   "tarih": "2026-11-05T18:06:08.643Z"
+  },
+  {
+   "id": 2128,
+   "metin": "Aave V4'te Bitcoin'in doğrudan teminat olarak kullanılmasına 300 BTC'lik üst sınır önerildi.\n\n- Risk danışmanı LlamaRisk'in önerisi, Babylon üzerinden gelen Bitcoin'in Aave'de (AAVE) teminat sayılmasını kapsıyor.\n- Piyasanın fiilen açılması için ayrı bir yönetim oylaması gerekiyor.",
+   "tarih": "2026-11-05T17:27:07.643Z"
+  },
+  {
+   "id": 2127,
+   "metin": "📊 Standard Chartered, İngiltere Merkez Bankası’nın (BoE) şahin (sıkılaştırmacı) tonunun ardından şubat ayında bir faiz artırımı daha bekliyor.",
+   "tarih": "2026-11-05T17:03:27.044Z"
+  },
+  {
+   "id": 2126,
+   "metin": "Anthony Scaramucci'ye göre, Başkan Donald Trump'ın memecoin girişimleri CLARITY Act'in geçmesini engelledi.\n\nScaramucci, SALT London'da yaptığı açıklamada Demokratların bu nedenle yasaya verdiği desteği çektiğini söyledi.\n- Kripto düzenlemesine federal çerçeve getirmeyi amaçlayan tasarı, Senato'da 15 Eylül'deki oylamada 49-50 ile 60 oy barajını geçemedi.",
+   "tarih": "2026-11-05T16:46:34.260Z"
+  },
+  {
+   "id": 2125,
+   "metin": "Donmuş ETH ve ARB varlıklarının serbest bırakılması için Binance, Arbitrum yönetimine (DAO) başvurdu.\n\nTaslak, kurtarılan varlıkların müşteri kayıplarını karşılamak için kullanılan rezervleri yeniden doldurmasına izin verecek. Binance, yönetişim sürecinin yedi hafta ya da daha uzun sürmesini bekliyor.",
+   "tarih": "2026-11-05T15:46:14.744Z"
+  },
   {
    "id": 2124,
    "metin": "🗣️ Cleveland Fed Başkanı Hammack, enflasyonu düşürmek için kademeli faiz artırımı yolunu desteklediğini açıkladı.",
@@ -61,46 +101,6 @@
    "id": 2113,
    "metin": "ApeChain, zincirler arası köprü sağlayıcısını LayerZero'dan Chainlink'e (LINK) taşımayı planlıyor.\n\nPlan, APE ve USDC'nin Chainlink'in köprü tokenlarına dönüştürülmesini kapsıyor. Duyurularda token sahiplerinin nasıl taşınacağı veya eski köprünün ne zaman kapanacağı belirtilmedi.",
    "tarih": "2026-11-04T20:21:48.140Z"
-  },
-  {
-   "id": 2112,
-   "metin": "18 milyon dolar eksik: XRP alım şirketi Evernorth'un finansman planı, düşen hisse fiyatı yüzünden beklenenden az kaynak toplayabilir.\n\nŞirketin hisse satışı için kayıt işlemi 30 Ekim'de yürürlüğe girdi ve Cantor Fitzgerald iştirakine 5,2 milyon yeni hisse satılmasının önü açıldı.",
-   "tarih": "2026-11-04T19:04:12.745Z"
-  },
-  {
-   "id": 2111,
-   "metin": "Polygon, Polymarket ve Binance olaylarına bağlı 70,49 milyon POL'ü kurtarmak için ağın kurallarını değiştiren bir güncelleme (hard fork) önerisi sundu.\n\nÖneri kabul edilirse tokenlar kurtarma cüzdanlarına gönderilecek. POL'ün toplam arzı değişmeyecek.",
-   "tarih": "2026-11-04T18:04:09.141Z"
-  },
-  {
-   "id": 2110,
-   "metin": "Stripe, ABD'li işletmelerin 160'tan fazla piyasadaki cüzdanlara stablecoin göndermesini sağlayan özelliği herkese açık önizleme olarak başlattı.\n\n- Gönderimler USDC ve Open USD ile yapılıyor, hazine bakiyesinden karşılanıyor.\n- New York'taki işletmeler kapsam dışı tutuluyor.",
-   "tarih": "2026-11-04T17:50:30.242Z"
-  },
-  {
-   "id": 2109,
-   "metin": "Polkadot'un (DOT) hazinesi, dört ay önce düzeltilen bir güvenlik açığının sömürülmesiyle yaklaşık 1,38 milyon dolar kaybetti. Açık, ekim ayında çıkan stablecoin dotUSD'nin işleyişini bozarak fiyatları saptırdı; zararı likidite sağlayan hazine karşıladı, kullanıcıların fonları etkilenmedi.\n\n- Parity Technologies'e göre hata haziranda tespit edilip düzeltildi ama canlı sisteme ulaşmadı.",
-   "tarih": "2026-11-04T16:44:48.042Z"
-  },
-  {
-   "id": 2108,
-   "metin": "📊 ABD'de hizmet sektörü aktivitesi ekimde hafifçe gerilerken enflasyon yüksek seyretmeye devam etti.",
-   "tarih": "2026-11-04T15:47:51.343Z"
-  },
-  {
-   "id": 2107,
-   "metin": "38 ülkede App Store finans sıralamasına giren NEAR Mobile, 1 milyonu aşkın indirmeye ulaştı.\n\n- Sırbistan'da finans kategorisinde birinci, Macaristan'da ikinci sıraya çıktı.\n- Yeni sürümüyle NEAR ve diğer ağlarda işlem ücreti ödemeden 120'den fazla varlık arasında takas yapılabiliyor; altyapıyı sağlayan NEAR Intents'in toplam hacmi 33 milyar doları geçti.",
-   "tarih": "2026-11-04T14:42:59.440Z"
-  },
-  {
-   "id": 2106,
-   "metin": "🗣️ İran hükümeti, ABD seçmenlerinin savaşı reddettiğini ve Trump'a tepki gösterdiğini açıkladı",
-   "tarih": "2026-11-04T14:30:40.643Z"
-  },
-  {
-   "id": 2105,
-   "metin": "Mercado Bitcoin (BTC) saldırganı, ele geçirdiği tokenları 10,55 milyon dolarlık ETH'ye çevirdi.\n\nArkham, etiketli cüzdanlardan 13,26 milyon doların çıktığını izledi. Mercado Bitcoin ise bloke edilen varlık tahminini 12,9 milyon dolara yükseltti.",
-   "tarih": "2026-11-04T14:06:02.340Z"
   }
  ]
 }
