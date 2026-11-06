@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-05T21:54:46.345Z",
+ "guncelleme": "2026-11-06T02:13:10.168Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2133,
+   "metin": "Şubattan bu yana ilk kez: Güney Kore'nin KOSPI endeksi 5.000 puanın altına indi.\n\nAçılıştaki yüzde 8'lik düşüş 20 dakikalık işlem durdurma devre kesicisini tetikledi. Çip üreticisi SK Hynix, geçen hafta rekor çeyreklik satış açıklamasına rağmen yüzde 11,71 değer kaybetti.",
+   "tarih": "2026-11-06T02:07:39.467Z"
+  },
   {
    "id": 2132,
    "metin": "Chainalysis, tüm kullanıcılarının şifre özetleri ve aktif oturum anahtarlarının hackerlarca ele geçirildiğini açıkladı.\n\nİşlem izleme platformu KYT, adres tarama, Reactor inceleme platformu ve giriş sayfası kapatıldı. Şirket, erişimin yeniden açılması için tüm kullanıcıların şifresini sıfırlamasını ve API anahtarlarını yenilemesini istiyor.",
@@ -96,11 +101,6 @@
    "id": 2114,
    "metin": "🗣️ Japonya Merkez Bankası (BOJ) Eylül ayı toplantı tutanaklarına göre politika kurulu, faiz oranlarını artırmaya devam edilmesi gerektiği görüşünde.",
    "tarih": "2026-11-05T05:01:01.140Z"
-  },
-  {
-   "id": 2113,
-   "metin": "ApeChain, zincirler arası köprü sağlayıcısını LayerZero'dan Chainlink'e (LINK) taşımayı planlıyor.\n\nPlan, APE ve USDC'nin Chainlink'in köprü tokenlarına dönüştürülmesini kapsıyor. Duyurularda token sahiplerinin nasıl taşınacağı veya eski köprünün ne zaman kapanacağı belirtilmedi.",
-   "tarih": "2026-11-04T20:21:48.140Z"
   }
  ]
 }
