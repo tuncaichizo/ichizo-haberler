@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-06T17:22:54.010Z",
+ "guncelleme": "2026-11-06T22:19:11.356Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2150,
+   "metin": "iPhone'lardaki cüzdan hırsızlığı soruşturması, TRON (TRX) ağında 4.06 milyon dolarlık çekimin izini sürdü.\n\nTrust Wallet, DarkSword ve Coruna adlı açıkların cüzdan uygulamalarındaki kusurlardan değil, eski iOS sürümleri üzerinden cihaz verilerine erişilmesinden kaynaklandığını bildirdi.",
+   "tarih": "2026-11-06T19:47:38.285Z"
+  },
+  {
+   "id": 2149,
+   "metin": "ABD, kripto yatırım ve ilişki dolandırıcılığı yaptığı suçlanan Kamboçyalı Prince Group'a bağlı 45 kişi ve şirkete yeni yaptırım uyguladı.\n\nHazine Bakanlığı'na bağlı OFAC'ın listesine grup başkanı Chen Zhi'nin çevresi, ailesi ve grup şirketleri eklendi. ABD, grupla bağlantılı yaklaşık 14 milyar dolarlık Bitcoin'in (BTC) müsaderesini istiyor; Chen Zhi ocak ayında Kamboçya'da tutuklanıp Çin'e iade edilmişti.",
+   "tarih": "2026-11-06T19:14:48.185Z"
+  },
+  {
+   "id": 2148,
+   "metin": "Binance, HYPE çekimlerini önümüzdeki hafta yeniden açmayı planlıyor.\n\nHyperliquid yatırımcıları, tokenın borsanın kurtarma listesinde neden yer almadığını sordu; Binance beklemenin gerekçesini açıklamadı.",
+   "tarih": "2026-11-06T18:52:04.986Z"
+  },
+  {
+   "id": 2147,
+   "metin": "Kraken'in ana şirketi Payward, merkeziyetsiz kredi piyasasının en büyüğü Aave'nin (AAVE) tokenlarından satın aldı.\n\nAlım, Payward'a bağlı bir yatırım fonu üzerinden varlık yönetimi müşterileriyle birlikte ikincil piyasadan yapıldı; şirket yeni alımlar yapabileceğini belirtti.\n- Payward, Aave ile olası iş birliği alanlarını araştırdığını duyurdu ancak ayrıntı vermedi.",
+   "tarih": "2026-11-06T17:42:35.908Z"
+  },
+  {
+   "id": 2146,
+   "metin": "🗣️ New York Fed Başkanı John Williams, enflasyonun çok yüksek seyrettiğini ve yüzde 2 hedefine geri dönülmesinin şart olduğunu söyledi.",
+   "tarih": "2026-11-06T17:31:40.207Z"
+  },
   {
    "id": 2145,
    "metin": "Bitcoin hazine şirketi Strive'in üçüncü çeyrek kârı 509 milyon dolar oldu; faaliyet geliri ise yalnızca 2,7 milyon dolar.\n\nKârın neredeyse tamamı elindeki Bitcoin'in değer artışından geldi. Şirket ekimde 15.124 BTC daha alarak varlığını 43.124'e çıkardı; alımlar 609 milyon dolarlık imtiyazlı hisse satışıyla finanse edildi.",
@@ -76,31 +101,6 @@
    "id": 2131,
    "metin": "Floki, ticaret botunu bir güvenlik açığı incelemesi nedeniyle devre dışı bıraktı.\n\nEkip, etkilenen kullanıcıları yeni cüzdanlara taşımayı planlıyor ve bot cüzdanlarına yeni para yatırılmaması konusunda uyardı.",
    "tarih": "2026-11-05T19:43:13.243Z"
-  },
-  {
-   "id": 2130,
-   "metin": "Risk yönetimi şirketi Gauntlet, bildirilen bir yazılım açığı sonrası V1 kasalarında yeni yatırım alımını durdurdu.\n\nŞirket ayrıca yeni fon dağıtımlarını duraklattı ve köprüyle taşınan varlıklardaki pozisyonunu azaltıyor. Gauntlet, kendi bilgisine göre henüz bir saldırı yaşanmadığını açıkladı.",
-   "tarih": "2026-11-05T18:24:32.367Z"
-  },
-  {
-   "id": 2129,
-   "metin": "📰 ABD, Küba ekonomisinin sektörlerini hedef alan yeni yaptırımları duyurdu.",
-   "tarih": "2026-11-05T18:06:08.643Z"
-  },
-  {
-   "id": 2128,
-   "metin": "Aave V4'te Bitcoin'in doğrudan teminat olarak kullanılmasına 300 BTC'lik üst sınır önerildi.\n\n- Risk danışmanı LlamaRisk'in önerisi, Babylon üzerinden gelen Bitcoin'in Aave'de (AAVE) teminat sayılmasını kapsıyor.\n- Piyasanın fiilen açılması için ayrı bir yönetim oylaması gerekiyor.",
-   "tarih": "2026-11-05T17:27:07.643Z"
-  },
-  {
-   "id": 2127,
-   "metin": "📊 Standard Chartered, İngiltere Merkez Bankası’nın (BoE) şahin (sıkılaştırmacı) tonunun ardından şubat ayında bir faiz artırımı daha bekliyor.",
-   "tarih": "2026-11-05T17:03:27.044Z"
-  },
-  {
-   "id": 2126,
-   "metin": "Anthony Scaramucci'ye göre, Başkan Donald Trump'ın memecoin girişimleri CLARITY Act'in geçmesini engelledi.\n\nScaramucci, SALT London'da yaptığı açıklamada Demokratların bu nedenle yasaya verdiği desteği çektiğini söyledi.\n- Kripto düzenlemesine federal çerçeve getirmeyi amaçlayan tasarı, Senato'da 15 Eylül'deki oylamada 49-50 ile 60 oy barajını geçemedi.",
-   "tarih": "2026-11-05T16:46:34.260Z"
   }
  ]
 }
