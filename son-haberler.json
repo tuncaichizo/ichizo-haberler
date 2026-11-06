@@ -1,7 +1,37 @@
 {
- "guncelleme": "2026-11-06T09:45:34.112Z",
+ "guncelleme": "2026-11-06T17:22:54.010Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2145,
+   "metin": "Bitcoin hazine şirketi Strive'in üçüncü çeyrek kârı 509 milyon dolar oldu; faaliyet geliri ise yalnızca 2,7 milyon dolar.\n\nKârın neredeyse tamamı elindeki Bitcoin'in değer artışından geldi. Şirket ekimde 15.124 BTC daha alarak varlığını 43.124'e çıkardı; alımlar 609 milyon dolarlık imtiyazlı hisse satışıyla finanse edildi.",
+   "tarih": "2026-11-06T16:25:50.709Z"
+  },
+  {
+   "id": 2144,
+   "metin": "ABD spot kripto ETF'lerinde perşembe günü 540 milyon doları aşkın net çıkış yaşandı.\n\nPara çıkışı büyük ETF ürünlerinin tamamına yayıldı; fonlar böylece yeniden net çıkışa döndü.",
+   "tarih": "2026-11-06T16:05:09.409Z"
+  },
+  {
+   "id": 2143,
+   "metin": "ABD'de tüketici güveni kasımda beklenmedik şekilde arttı: Michigan Üniversitesi'nin öncü verisine göre endeks ekimdeki 48,0 seviyesinden 51,0'a çıktı.\n\nEkonomistler endeksin değişmemesini bekliyordu. Artışta tüketicilerin mevcut ekonomik koşullara bakışındaki iyileşme etkili oldu; bu alt endeks 46,7'den 51,0'a yükseldi.",
+   "tarih": "2026-11-06T15:51:57.407Z"
+  },
+  {
+   "id": 2142,
+   "metin": "165 binlik istihdam artışıyla ABD işgücü piyasası ekimde beklentileri aştı: Piyasa 65 bin artış bekliyordu.\n\nİşsizlik oranı beklenmedik şekilde yüzde 4,1'e geriledi. Eylüldeki zayıf görünümün ardından toparlanma geldi.",
+   "tarih": "2026-11-06T14:49:46.107Z"
+  },
+  {
+   "id": 2141,
+   "metin": "ABD ekim ayı tarım dışı istihdam verisi beklentileri aştı: 59.000 beklenirken 165.000 kişi işe alındı.\n\nİşsizlik oranı yüzde 4,2 beklentisinin altında yüzde 4,1'e geriledi; eylül verisi de 31.000 yukarı revize edildi. Güçlü veri, Fed'in sıkı para politikasını sürdürebileceği yönünde yorumlanıyor.",
+   "tarih": "2026-11-06T14:11:59.608Z"
+  },
+  {
+   "id": 2140,
+   "metin": "Groma, Base ağı üzerindeki Uniswap'ta (UNI) gayrimenkul tokenleri için alım ve geri ödeme (itfa) imkânı başlattı.\n\nGRO/USDC havuzu, varlıkların net varlık değerine göre fiyatlanıyor. İşlem yapma hakkı yalnızca onaylı cüzdanlarla sınırlı tutuluyor.",
+   "tarih": "2026-11-06T12:42:45.453Z"
+  },
   {
    "id": 2139,
    "metin": "Tek uygulamada kripto, hisse senedi, ETF ve emtia ticareti: Solana'nın kurucu ortakları Anatoly Yakovenko ile Raj Gokal, Solana Labs bünyesinde Leap adlı mobil ticaret platformunu duyurdu.\n\nUygulama şu an platform işlem ücreti almıyor; ileride alınacak ücretlerin bir kısmı SOL alımı ve yakımına ayrılacak.",
@@ -71,36 +101,6 @@
    "id": 2126,
    "metin": "Anthony Scaramucci'ye göre, Başkan Donald Trump'ın memecoin girişimleri CLARITY Act'in geçmesini engelledi.\n\nScaramucci, SALT London'da yaptığı açıklamada Demokratların bu nedenle yasaya verdiği desteği çektiğini söyledi.\n- Kripto düzenlemesine federal çerçeve getirmeyi amaçlayan tasarı, Senato'da 15 Eylül'deki oylamada 49-50 ile 60 oy barajını geçemedi.",
    "tarih": "2026-11-05T16:46:34.260Z"
-  },
-  {
-   "id": 2125,
-   "metin": "Donmuş ETH ve ARB varlıklarının serbest bırakılması için Binance, Arbitrum yönetimine (DAO) başvurdu.\n\nTaslak, kurtarılan varlıkların müşteri kayıplarını karşılamak için kullanılan rezervleri yeniden doldurmasına izin verecek. Binance, yönetişim sürecinin yedi hafta ya da daha uzun sürmesini bekliyor.",
-   "tarih": "2026-11-05T15:46:14.744Z"
-  },
-  {
-   "id": 2124,
-   "metin": "🗣️ Cleveland Fed Başkanı Hammack, enflasyonu düşürmek için kademeli faiz artırımı yolunu desteklediğini açıkladı.",
-   "tarih": "2026-11-05T15:11:08.445Z"
-  },
-  {
-   "id": 2123,
-   "metin": "6,3 milyar dolarlık Binance saldırısının ardından Fed ve OCC, ABD'li bankalardan siber güvenlik durumlarını sordu.\n\nReuters'a göre denetçiler bankalara şüpheli işlem, hizmet kesintisi veya güvenlik açığı olup olmadığını iletti. 29 Ekim'deki saldırıyı Kuzey Kore bağlantılı Tradertraitor adlı hack grubu gerçekleştirdi; Binance etkilenen müşterilere zararı geri ödeme sözü verdi.",
-   "tarih": "2026-11-05T14:46:46.043Z"
-  },
-  {
-   "id": 2122,
-   "metin": "Polygon'da (POL) akıllı sözleşme güncelleme yetkisi 11 kişilik güvenlik konseyinin 8 imzasına bağlanacak.\n\nTaslak öneri, Polygon Labs'in güncelleme önerilerinin yedi gün gecikmeyle uygulanmasını da getiriyor.",
-   "tarih": "2026-11-05T14:26:23.143Z"
-  },
-  {
-   "id": 2121,
-   "metin": "ABD'de haftalık işsizlik başvuruları beklentinin aksine 189.000'e geriledi.\n\nÇalışma Bakanlığı'na göre 31 Ekim'le biten haftada başvurular, önceki haftanın revize 195.000 seviyesinden 6.000 azaldı. Ekonomistler ise 196.000 başvuru bekliyordu.",
-   "tarih": "2026-11-05T14:10:11.444Z"
-  },
-  {
-   "id": 2120,
-   "metin": "46 milyon dolarlık saldırının ardından Brezilya kripto borsası Mercado Bitcoin (BTC), müşteri hesaplarına erişimi Pazartesi günü kademeli olarak yeniden açıyor.\n\nİlk aşamada müşteriler yalnızca bakiye ve varlıklarını görüntüleyebilecek; çekim ve işlemler bağımsız güvenlik testlerinin ardından açılacak.\n- Borsa, çalınan varlıkları şirket kaynaklarından tamamlayacağını, 15 milyon doların dondurulduğunu duyurdu.",
-   "tarih": "2026-11-05T09:44:24.352Z"
   }
  ]
 }
