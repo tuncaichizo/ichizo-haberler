@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-06T22:19:11.356Z",
+ "guncelleme": "2026-11-07T09:09:56.290Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2153,
+   "metin": "Bitquery verilerine göre, 365 TRON (TRX) adresini kapsayan bir ağda en az 4 milyon dolarlık USDT çalındı; olay iPhone cüzdanlarına yönelik saldırılarla bağlantılı.\n\n- Bitquery, 5 Ekim-4 Kasım arasını inceledi ve 43 toplayıcı cüzdanı ortak bir ücret cüzdanına bağladı; ağın tek bir kişi tarafından yönetildiği ise henüz kanıtlanmadı",
+   "tarih": "2026-11-07T08:03:21.377Z"
+  },
+  {
+   "id": 2152,
+   "metin": "Yılda 300 bin ruble sınırı: Rusya Merkez Bankası, nitelikli sayılmayan yatırımcıların 17 Kasım'dan itibaren Bitcoin (BTC), Ethereum (ETH) ve USDT alımına izin verdi.\n\nMoskova Borsası, 1 Aralık'ta pilot işlemlerle kademeli başlangıç yapmayı planlıyor. Alım öncesinde yatırımcıların testten geçmesi ve riskleri tanıması şart.",
+   "tarih": "2026-11-07T07:45:07.877Z"
+  },
+  {
+   "id": 2151,
+   "metin": "Bir günde 318,9 milyon dolarlık büyüme: Ethena'nın USDe stablecoin arzı 4,6 milyar dolardan 4,9 milyar dolara çıktı.\n\nDeFiLlama verilerine göre bu artış, son 24 saatte yeni USDe basıldığına işaret ediyor. USDe, Ethena (ENA) tarafından çıkarılan ve dolara sabitlenmeye çalışılan bir stablecoin.",
+   "tarih": "2026-11-07T05:02:17.479Z"
+  },
   {
    "id": 2150,
    "metin": "iPhone'lardaki cüzdan hırsızlığı soruşturması, TRON (TRX) ağında 4.06 milyon dolarlık çekimin izini sürdü.\n\nTrust Wallet, DarkSword ve Coruna adlı açıkların cüzdan uygulamalarındaki kusurlardan değil, eski iOS sürümleri üzerinden cihaz verilerine erişilmesinden kaynaklandığını bildirdi.",
@@ -86,21 +101,6 @@
    "id": 2134,
    "metin": "Stake getirisi de içeren Injective ETF'i Nasdaq'ta işlem görmeye başladı.\n\nCanary Capital'in Staked INJ ETF'i, yatırımcılara Injective'in INJ tokenının yanı sıra stake getirisini de sunuyor; bu getiri fonun birim değerine yansıtılıyor.",
    "tarih": "2026-11-06T05:24:07.468Z"
-  },
-  {
-   "id": 2133,
-   "metin": "Şubattan bu yana ilk kez: Güney Kore'nin KOSPI endeksi 5.000 puanın altına indi.\n\nAçılıştaki yüzde 8'lik düşüş 20 dakikalık işlem durdurma devre kesicisini tetikledi. Çip üreticisi SK Hynix, geçen hafta rekor çeyreklik satış açıklamasına rağmen yüzde 11,71 değer kaybetti.",
-   "tarih": "2026-11-06T02:07:39.467Z"
-  },
-  {
-   "id": 2132,
-   "metin": "Chainalysis, tüm kullanıcılarının şifre özetleri ve aktif oturum anahtarlarının hackerlarca ele geçirildiğini açıkladı.\n\nİşlem izleme platformu KYT, adres tarama, Reactor inceleme platformu ve giriş sayfası kapatıldı. Şirket, erişimin yeniden açılması için tüm kullanıcıların şifresini sıfırlamasını ve API anahtarlarını yenilemesini istiyor.",
-   "tarih": "2026-11-05T20:27:40.644Z"
-  },
-  {
-   "id": 2131,
-   "metin": "Floki, ticaret botunu bir güvenlik açığı incelemesi nedeniyle devre dışı bıraktı.\n\nEkip, etkilenen kullanıcıları yeni cüzdanlara taşımayı planlıyor ve bot cüzdanlarına yeni para yatırılmaması konusunda uyardı.",
-   "tarih": "2026-11-05T19:43:13.243Z"
   }
  ]
 }
