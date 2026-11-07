@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-07T09:09:56.290Z",
+ "guncelleme": "2026-11-07T15:52:17.758Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2156,
+   "metin": "MEXC'ten 24 saatte 126 milyon dolarlık net çıkış: DeFiLlama verilerine göre çıkışlar, ABD Hazinesi'ne bağlı FinCEN'in borsayı 16,7 milyar dolarlık şüpheli işlemle suçladığı karara denk geldi.\n\n- CEO Vugar Usi, kararın MEXC'teki varlıkları dondurmadığını, kullanıcıların normal işlem yapabileceğini söyledi.",
+   "tarih": "2026-11-07T15:27:05.056Z"
+  },
+  {
+   "id": 2155,
+   "metin": "165 bin kişilik artış: ABD'de tarım dışı istihdam ekimde, ekonomistlerin beklediği 62 bin artışı büyük farkla aştı.\n\nABD Çalışma Bakanlığı, ağustos verisini 186 bine, eylül verisini 60 bine yükselterek revize etti. İki aydaki net yukarı yönlü revizyon 84 bin oldu.",
+   "tarih": "2026-11-07T14:06:44.956Z"
+  },
+  {
+   "id": 2154,
+   "metin": "Hindistan'ın Yabancı Döviz Yönetimi Yasası kapsamında CoinDCX ve Delta Exchange India'nın ofislerinde arama yapıldı; yetkililer iki borsanın kullanıcı işlemlerini Binance, Bybit ve KuCoin gibi yurt dışı platformlara yönlendirdiğini iddia ediyor.\n\n- Hint yetkililere göre borsalar, rupi ile alınan USDT'yi yurt dışına göndererek ülkenin döviz kurallarını atlattı; işlem hacminin binlerce crore rupiye (milyarlarca dolar) ulaştığı öne sürülüyor.",
+   "tarih": "2026-11-07T09:52:24.477Z"
+  },
   {
    "id": 2153,
    "metin": "Bitquery verilerine göre, 365 TRON (TRX) adresini kapsayan bir ağda en az 4 milyon dolarlık USDT çalındı; olay iPhone cüzdanlarına yönelik saldırılarla bağlantılı.\n\n- Bitquery, 5 Ekim-4 Kasım arasını inceledi ve 43 toplayıcı cüzdanı ortak bir ücret cüzdanına bağladı; ağın tek bir kişi tarafından yönetildiği ise henüz kanıtlanmadı",
@@ -86,21 +101,6 @@
    "id": 2137,
    "metin": "2029 hedefi: Avrupa Merkez Bankası dijital euroyu 2029'da çıkarmayı, pilot uygulamayı ise 2027'nin ikinci yarısında başlatmayı planlıyor.\n\nECB Yönetim Kurulu üyesi Piero Cipollone, 12 ay sürecek pilota 36 hizmet sağlayıcının katılacağını açıkladı. Avrupa Parlamentosu, AB Konseyi ve Avrupa Komisyonu arasındaki müzakerelerin bu yıl tamamlanması bekleniyor; Cipollone, anlaşma sağlanırsa dijital euronun 2029'da çıkarılabileceğini söyledi.",
    "tarih": "2026-11-06T08:27:31.868Z"
-  },
-  {
-   "id": 2136,
-   "metin": "📊 Reuters anketine göre Japonya'nın üçüncü çeyrek GSYİH büyümesinin, tüketim ve dış talepteki zayıflığın etkisiyle keskin biçimde yavaşlaması bekleniyor.",
-   "tarih": "2026-11-06T07:25:22.368Z"
-  },
-  {
-   "id": 2135,
-   "metin": "Hyperliquid Strategies, HYPE tokenindeki henüz nakde dönmemiş değer artışıyla 620,6 milyon dolarlık kâr açıkladı.\n\nHYPE, şirketin çeyrek sonu token varlıklarını değerlemek için kullandığı fiyatın yaklaşık yüzde 14 altında işlem görüyor.",
-   "tarih": "2026-11-06T06:47:53.568Z"
-  },
-  {
-   "id": 2134,
-   "metin": "Stake getirisi de içeren Injective ETF'i Nasdaq'ta işlem görmeye başladı.\n\nCanary Capital'in Staked INJ ETF'i, yatırımcılara Injective'in INJ tokenının yanı sıra stake getirisini de sunuyor; bu getiri fonun birim değerine yansıtılıyor.",
-   "tarih": "2026-11-06T05:24:07.468Z"
   }
  ]
 }
