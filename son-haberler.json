@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-07T15:52:17.758Z",
+ "guncelleme": "2026-11-07T20:08:05.364Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2159,
+   "metin": "🗣️ ECB'den Lagarde, enflasyonun yüksek kalacağını söyledi; faiz patikasını değiştirmek için çok az neden gördüğünü belirtti.",
+   "tarih": "2026-11-07T17:43:28.054Z"
+  },
+  {
+   "id": 2158,
+   "metin": "Gnosis Pay'de yaşanan veri ihlalinde kart numaraları, ev adresleri ve hesaplara bağlı kripto cüzdanları açığa çıktı.\n\nBir kullanıcıya göre sızan veriler, ev adresini ve kart numarasını hesabına bağlı bütün kripto cüzdanlarla eşleştiriyor. Haberde, hedefli dolandırıcılık riskinin arttığı belirtiliyor.",
+   "tarih": "2026-11-07T17:27:14.855Z"
+  },
+  {
+   "id": 2157,
+   "metin": "3 trilyon dolarlık tek günlük kayıp: Kobeissi Letter'a göre S&P 500 şirketleri perşembe seansında yaklaşık bu kadar piyasa değeri yitirdi.\n\n- Dow Jones Market Data kaybı 2,9 trilyon dolar olarak hesaplayıp endeks şirketleri için rekor diye nitelendirdi.\n- Kayıp, CoinGecko ve CoinMarketCap'e göre 2,55-2,65 trilyon dolar olan kripto piyasa değerini aştı.",
+   "tarih": "2026-11-07T16:12:50.555Z"
+  },
   {
    "id": 2156,
    "metin": "MEXC'ten 24 saatte 126 milyon dolarlık net çıkış: DeFiLlama verilerine göre çıkışlar, ABD Hazinesi'ne bağlı FinCEN'in borsayı 16,7 milyar dolarlık şüpheli işlemle suçladığı karara denk geldi.\n\n- CEO Vugar Usi, kararın MEXC'teki varlıkları dondurmadığını, kullanıcıların normal işlem yapabileceğini söyledi.",
@@ -86,21 +101,6 @@
    "id": 2140,
    "metin": "Groma, Base ağı üzerindeki Uniswap'ta (UNI) gayrimenkul tokenleri için alım ve geri ödeme (itfa) imkânı başlattı.\n\nGRO/USDC havuzu, varlıkların net varlık değerine göre fiyatlanıyor. İşlem yapma hakkı yalnızca onaylı cüzdanlarla sınırlı tutuluyor.",
    "tarih": "2026-11-06T12:42:45.453Z"
-  },
-  {
-   "id": 2139,
-   "metin": "Tek uygulamada kripto, hisse senedi, ETF ve emtia ticareti: Solana'nın kurucu ortakları Anatoly Yakovenko ile Raj Gokal, Solana Labs bünyesinde Leap adlı mobil ticaret platformunu duyurdu.\n\nUygulama şu an platform işlem ücreti almıyor; ileride alınacak ücretlerin bir kısmı SOL alımı ve yakımına ayrılacak.",
-   "tarih": "2026-11-06T09:24:57.768Z"
-  },
-  {
-   "id": 2138,
-   "metin": "Piyasa satışına rağmen Ark Invest 2,44 milyon dolarlık Coinbase hissesi aldı.\n\nCathie Wood'un yönettiği şirket alımı Perşembe günü, geniş çaplı bir satış dalgasının yaşandığı sırada gerçekleştirdi.",
-   "tarih": "2026-11-06T09:07:11.467Z"
-  },
-  {
-   "id": 2137,
-   "metin": "2029 hedefi: Avrupa Merkez Bankası dijital euroyu 2029'da çıkarmayı, pilot uygulamayı ise 2027'nin ikinci yarısında başlatmayı planlıyor.\n\nECB Yönetim Kurulu üyesi Piero Cipollone, 12 ay sürecek pilota 36 hizmet sağlayıcının katılacağını açıkladı. Avrupa Parlamentosu, AB Konseyi ve Avrupa Komisyonu arasındaki müzakerelerin bu yıl tamamlanması bekleniyor; Cipollone, anlaşma sağlanırsa dijital euronun 2029'da çıkarılabileceğini söyledi.",
-   "tarih": "2026-11-06T08:27:31.868Z"
   }
  ]
 }
