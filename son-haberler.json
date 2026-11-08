@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-08T18:27:40.093Z",
+ "guncelleme": "2026-11-08T22:23:34.630Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2169,
+   "metin": "1,28 milyar dolarlık haftalık çıkış: Spot Bitcoin (BTC) ETF'leri, Haziran'ın son tam haftasından bu yana en yüksek net çıkışı yaşadı.\n\n- Binance saldırısını izleyen ilk tam haftada Perşembe 430 milyon, Cuma 412 milyon dolar çıkış oldu.\n- Ethereum (ETH) ETF'leri 365 milyon dolar net çıkışla art arda altıncı haftayı kayıpla kapattı.",
+   "tarih": "2026-11-08T20:25:11.490Z"
+  },
+  {
+   "id": 2168,
+   "metin": "6 milyon doları aşan transfer izlendi: Web3Auth'taki güvenlik açığı yüzünden Cosmos (ATOM) cüzdanı Keplr, Google ve Apple girişlerini askıya aldı.\n\nBitquery, 6-7 Kasım'daki transferleri en az 6,01 milyon dolar olarak hesapladı. Keplr ve Web3Auth, beyaz şapkalı kurtarma operasyonlarının da aynı yolu kullandığını doğruladı; rakam doğrulanmış kayıp tutarı değil.",
+   "tarih": "2026-11-08T19:24:22.489Z"
+  },
   {
    "id": 2167,
    "metin": "1,21 milyar dolarlık çıkış: BlackRock'ın IBIT fonu, 2-6 Kasım haftasında ABD spot Bitcoin (BTC) ETF'lerindeki net çıkışın yüzde 94'ünü oluşturdu.\n\nFarside Investors'ın izlediği 12 fonun haftalık net çıkışı 1,282 milyar dolar oldu. Fidelity'nin FBTC fonu ise 93 milyon dolar net girişle ters yönde hareket etti.",
@@ -91,16 +101,6 @@
    "id": 2150,
    "metin": "iPhone'lardaki cüzdan hırsızlığı soruşturması, TRON (TRX) ağında 4.06 milyon dolarlık çekimin izini sürdü.\n\nTrust Wallet, DarkSword ve Coruna adlı açıkların cüzdan uygulamalarındaki kusurlardan değil, eski iOS sürümleri üzerinden cihaz verilerine erişilmesinden kaynaklandığını bildirdi.",
    "tarih": "2026-11-06T19:47:38.285Z"
-  },
-  {
-   "id": 2149,
-   "metin": "ABD, kripto yatırım ve ilişki dolandırıcılığı yaptığı suçlanan Kamboçyalı Prince Group'a bağlı 45 kişi ve şirkete yeni yaptırım uyguladı.\n\nHazine Bakanlığı'na bağlı OFAC'ın listesine grup başkanı Chen Zhi'nin çevresi, ailesi ve grup şirketleri eklendi. ABD, grupla bağlantılı yaklaşık 14 milyar dolarlık Bitcoin'in (BTC) müsaderesini istiyor; Chen Zhi ocak ayında Kamboçya'da tutuklanıp Çin'e iade edilmişti.",
-   "tarih": "2026-11-06T19:14:48.185Z"
-  },
-  {
-   "id": 2148,
-   "metin": "Binance, HYPE çekimlerini önümüzdeki hafta yeniden açmayı planlıyor.\n\nHyperliquid yatırımcıları, tokenın borsanın kurtarma listesinde neden yer almadığını sordu; Binance beklemenin gerekçesini açıklamadı.",
-   "tarih": "2026-11-06T18:52:04.986Z"
   }
  ]
 }
