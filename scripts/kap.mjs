@@ -21,7 +21,7 @@ try {
   if (e instanceof Atla) throw e;
   atla("kaynak okunamadı (" + (e && e.name) + ")");
 }
-const dizi = Array.isArray(veri) ? veri : veri && Array.isArray(veri.items) ? veri.items : null;
+const dizi = Array.isArray(veri) ? veri : veri && Array.isArray(veri.kayitlar) ? veri.kayitlar : veri && Array.isArray(veri.items) ? veri.items : null;
 if (!dizi) atla('beklenmeyen biçim');
 
 const str = (v) => (typeof v === 'string' ? v : v == null ? '' : String(v));
@@ -31,7 +31,6 @@ const kayitlar = dizi
   .map((x) => ({ gun: str(x.gun), metin: x.metin.trim(), posted_at: str(x.posted_at), tweet_id: str(x.tweet_id) }))
   .sort((a, b) => b.posted_at.localeCompare(a.posted_at))
   .slice(0, ADET);
-if (!kayitlar.length) atla('kayıt yok');
 
 let eski = null;
 try { eski = JSON.parse(fs.readFileSync(DOSYA, 'utf8')); } catch {}
