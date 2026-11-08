@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-08T05:49:17.186Z",
+ "guncelleme": "2026-11-08T13:12:52.918Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2164,
+   "metin": "321 tonluk alım: Dünya Altın Konseyi'ne göre merkez bankaları ve diğer resmî kurumlar 2026'nın üçüncü çeyreğinde tahmini net 321 ton altın alarak 313 tonluk mücevher tüketimini geçti.\n\nKüresel altın talebi yıllık yüzde 22 artıp 188 milyar dolara ulaştı, ancak alınan metal yüzde 1 azalarak 1.369 ton oldu. Altın destekli ETF'ler 211 ton ekledi.",
+   "tarih": "2026-11-08T11:49:53.960Z"
+  },
+  {
+   "id": 2163,
+   "metin": "2.266 stake edilmiş ATOM, Cosmos ağında altı hesaptan toplu bir işlemle taşındı.\n\nStake eden kullanıcılardan biri hırsızlık bildirdi. Web3Auth ise cüzdan boşaltma gibi görünen bazı hareketlerin koruyucu kurtarma transferi olduğunu söyledi.",
+   "tarih": "2026-11-08T07:03:50.044Z"
+  },
   {
    "id": 2162,
    "metin": "208,2 milyon dolarlık geri alım: Strategy, 26 Ekim-1 Kasım arasında imtiyazlı hissesi STRC'den geri satın aldı.\n\n- 1 Kasım'dan geçerli değişiklikle STRC temettüsü hafta sonları ve tatiller dahil her gün tahakkuk ediyor.\n- Strategy kurucusu ve icra kurulu başkanı Michael Saylor, şirketin gelir getiren hisse modelini Hollanda Doğu Hindistan Şirketi'ne uzanan dört yüzyıllık finans tarihine bağladı.",
@@ -91,16 +101,6 @@
    "id": 2145,
    "metin": "Bitcoin hazine şirketi Strive'in üçüncü çeyrek kârı 509 milyon dolar oldu; faaliyet geliri ise yalnızca 2,7 milyon dolar.\n\nKârın neredeyse tamamı elindeki Bitcoin'in değer artışından geldi. Şirket ekimde 15.124 BTC daha alarak varlığını 43.124'e çıkardı; alımlar 609 milyon dolarlık imtiyazlı hisse satışıyla finanse edildi.",
    "tarih": "2026-11-06T16:25:50.709Z"
-  },
-  {
-   "id": 2144,
-   "metin": "ABD spot kripto ETF'lerinde perşembe günü 540 milyon doları aşkın net çıkış yaşandı.\n\nPara çıkışı büyük ETF ürünlerinin tamamına yayıldı; fonlar böylece yeniden net çıkışa döndü.",
-   "tarih": "2026-11-06T16:05:09.409Z"
-  },
-  {
-   "id": 2143,
-   "metin": "ABD'de tüketici güveni kasımda beklenmedik şekilde arttı: Michigan Üniversitesi'nin öncü verisine göre endeks ekimdeki 48,0 seviyesinden 51,0'a çıktı.\n\nEkonomistler endeksin değişmemesini bekliyordu. Artışta tüketicilerin mevcut ekonomik koşullara bakışındaki iyileşme etkili oldu; bu alt endeks 46,7'den 51,0'a yükseldi.",
-   "tarih": "2026-11-06T15:51:57.407Z"
   }
  ]
 }
