@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-11-09T09:36:46.683Z",
+ "guncelleme": "2026-11-09T20:00:26.970Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2185,
+   "metin": "Polonya parlamentosunun alt kanadı, daha geniş kapsamlı bir yaptırım tasarısı çerçevesinde kripto varlıkların dondurulmasına destek verdi.\n\nListeye alınan müşteriler, mahkeme belirlemeyi incelemeden önce borsada tuttukları varlıklara erişimi kaybedebilir. İtiraz da kısıtlamaları kendiliğinden kaldırmayacak.",
+   "tarih": "2026-11-09T18:48:07.289Z"
+  },
+  {
+   "id": 2184,
+   "metin": "Günün 24 saati işlem yapılacak tokenlaştırılmış hisse platformu için New York Borsası (NYSE), takas altyapısı olarak Avalanche (AVAX) blokzincirini seçti.\n\nPlatform, farklı blokzincirlerdeki hisselerin dijital sürümlerinin alım satımına izin verecek; Avalanche işlemleri kaydedip tamamlanmasını sağlayacak. The Wall Street Journal'a göre platform, düzenleyici onay alırsa 2026 bitmeden açılabilir.",
+   "tarih": "2026-11-09T18:32:22.889Z"
+  },
+  {
+   "id": 2183,
+   "metin": "Topluluk yönetimli TRON DAO, TRON (TRX) ağının Backpack Wallet'a entegre edildiğini 9 Kasım 2026 tarihli duyurusuyla açıkladı.\n\nEntegrasyon TRON'un blokzincir ekosistemini doğrudan Backpack kullanıcılarına sunuyor. Kullanıcılar gönderme, alma, köprüleme ve yönetme işlemlerini yapabilecek.",
+   "tarih": "2026-11-09T16:05:05.191Z"
+  },
+  {
+   "id": 2182,
+   "metin": "Yedi kişilik ilk teknik komitenin beş koltuğu Cosmos Labs'e ait: Cosmos (ATOM), IBC'yi Linux Foundation Decentralized Trust'a katkı olarak sundu.\n\nKomitede Datachain ve OpenZeppelin'den proje bakımcıları da yer alıyor.",
+   "tarih": "2026-11-09T15:04:21.588Z"
+  },
+  {
+   "id": 2181,
+   "metin": "Mercado Bitcoin (BTC), hack sonrası platformunu yalnızca görüntüleme modunda yeniden açmaya başladı.\n\nBorsa, çalınan varlıkları şirket kaynaklarıyla yerine koyduğunu açıkladı. Ödemeler ve alım satım işlemleri sonraki aşamalarda yeniden devreye girecek.",
+   "tarih": "2026-11-09T13:47:06.659Z"
+  },
+  {
+   "id": 2180,
+   "metin": "📊 Almanya'da ihracat eylül ayında beklentilerin üzerinde artış gösterdi.",
+   "tarih": "2026-11-09T11:54:37.891Z"
+  },
+  {
+   "id": 2179,
+   "metin": "70 milyon POL'u cüzdan sahiplerinin imzası olmadan taşımak isteyen Polygon, bunun için bir fork (ağ kurallarında değişiklik) öneriyor.\n\nÖnerilen fork'ta çalıntı coinlerin iadesinde sahiplik kanıtları, sonradan yapılan yatırımlar ve borsa hesap kayıtları belirleyici olacak.",
+   "tarih": "2026-11-09T10:48:52.189Z"
+  },
+  {
+   "id": 2178,
+   "metin": "ABD'nin en büyük borsası Coinbase, federal bankacılık düzenleyicisinden tam güven lisansı (charter) aldı.\n\nŞirketin açıklamasına göre Para Birimi Denetçiliği Ofisi (OCC), borsanın şartlı olan güven statüsünü tam lisansa yükseltti.",
+   "tarih": "2026-11-09T10:27:53.690Z"
+  },
   {
    "id": 2177,
    "metin": "💡 Zama'dan ayrılan Raycash, Ethereum (ETH) üzerinde gizli stablecoin ödemelerini ve özel getiri imkânını kullanıma sundu.",
@@ -61,46 +101,6 @@
    "id": 2166,
    "metin": "Vitalik Buterin, ETH'nin ücret yakan bir token olarak değil, değer saklama aracı olarak değerlendirilmesi gerektiğini söyledi.\n\nStake edilen ETH arttıkça doğrulayıcı ödüllerinin giderek büyüyen bölümünü yakmayı öngören tartışmalı bir öneri, gelen tepkiler üzerine geçen ay geri çekilmişti.",
    "tarih": "2026-11-08T16:28:30.793Z"
-  },
-  {
-   "id": 2165,
-   "metin": "31 Aralık'ta kapanış: Binance France, kullanıcılara gönderdiği e-postalarla hesapları o tarihte kapatacağını bildirdi. Cryptoast ve Crypto Briefing'e göre 29 Kasım'a kadar çekilmeyen varlıklardan aylık ücret alınacak.\n\nÜcret bakiyenin yüzde 0,025'i, en az 10 USDC olacak. Binance sözcüsü, MiCA geçiş süresi bittiği için etkilenen kullanıcılara yönelik bazı hizmetleri kademeli olarak kısıtladığını söyledi.",
-   "tarih": "2026-11-08T13:24:35.744Z"
-  },
-  {
-   "id": 2164,
-   "metin": "321 tonluk alım: Dünya Altın Konseyi'ne göre merkez bankaları ve diğer resmî kurumlar 2026'nın üçüncü çeyreğinde tahmini net 321 ton altın alarak 313 tonluk mücevher tüketimini geçti.\n\nKüresel altın talebi yıllık yüzde 22 artıp 188 milyar dolara ulaştı, ancak alınan metal yüzde 1 azalarak 1.369 ton oldu. Altın destekli ETF'ler 211 ton ekledi.",
-   "tarih": "2026-11-08T11:49:53.960Z"
-  },
-  {
-   "id": 2163,
-   "metin": "2.266 stake edilmiş ATOM, Cosmos ağında altı hesaptan toplu bir işlemle taşındı.\n\nStake eden kullanıcılardan biri hırsızlık bildirdi. Web3Auth ise cüzdan boşaltma gibi görünen bazı hareketlerin koruyucu kurtarma transferi olduğunu söyledi.",
-   "tarih": "2026-11-08T07:03:50.044Z"
-  },
-  {
-   "id": 2162,
-   "metin": "208,2 milyon dolarlık geri alım: Strategy, 26 Ekim-1 Kasım arasında imtiyazlı hissesi STRC'den geri satın aldı.\n\n- 1 Kasım'dan geçerli değişiklikle STRC temettüsü hafta sonları ve tatiller dahil her gün tahakkuk ediyor.\n- Strategy kurucusu ve icra kurulu başkanı Michael Saylor, şirketin gelir getiren hisse modelini Hollanda Doğu Hindistan Şirketi'ne uzanan dört yüzyıllık finans tarihine bağladı.",
-   "tarih": "2026-11-08T05:43:22.243Z"
-  },
-  {
-   "id": 2161,
-   "metin": "67 şirketin itirazı: Meta ve Palantir, hisselerinin OKXICE platformunda tokenlaştırılıp listelenmesine karşı çıktı.\n\n- 5 Kasım 2026'da yayımlanan bildirime göre S&P Global, KLA ve Supermicro da itiraz etti.\n- Microsoft ve Apple de itiraz edenler arasında; ilk listede yalnız Coinbase, Robinhood, Circle, Strategy, Securitize ve BitGo gibi kripto bağlantılı şirketler kaldı.",
-   "tarih": "2026-11-08T05:04:07.944Z"
-  },
-  {
-   "id": 2160,
-   "metin": "⚠️ ABD ordusu, İran'a uygulanan ablukayı delmeye çalışan bir yük gemisini etkisiz hale getirdi.",
-   "tarih": "2026-11-08T02:05:50.955Z"
-  },
-  {
-   "id": 2159,
-   "metin": "🗣️ ECB'den Lagarde, enflasyonun yüksek kalacağını söyledi; faiz patikasını değiştirmek için çok az neden gördüğünü belirtti.",
-   "tarih": "2026-11-07T17:43:28.054Z"
-  },
-  {
-   "id": 2158,
-   "metin": "Gnosis Pay'de yaşanan veri ihlalinde kart numaraları, ev adresleri ve hesaplara bağlı kripto cüzdanları açığa çıktı.\n\nBir kullanıcıya göre sızan veriler, ev adresini ve kart numarasını hesabına bağlı bütün kripto cüzdanlarla eşleştiriyor. Haberde, hedefli dolandırıcılık riskinin arttığı belirtiliyor.",
-   "tarih": "2026-11-07T17:27:14.855Z"
   }
  ]
 }
