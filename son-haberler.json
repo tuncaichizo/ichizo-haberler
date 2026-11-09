@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-11-08T22:23:34.630Z",
+ "guncelleme": "2026-11-09T09:36:46.683Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2177,
+   "metin": "💡 Zama'dan ayrılan Raycash, Ethereum (ETH) üzerinde gizli stablecoin ödemelerini ve özel getiri imkânını kullanıma sundu.",
+   "tarih": "2026-11-09T09:25:58.691Z"
+  },
+  {
+   "id": 2176,
+   "metin": "İki rakip Ethereum (ETH) önerisi, Glamsterdam'ın mevcut sözleşmeleri bozmasını önlemeyi amaçlıyor.\n\nÖneriler, Ethereum'un planlanan gas (işlem ücreti) değişiklikleriyle ilgili. Sözleşmelerin ne gördüğü ve kullanıcıların ne ödediği konusunda farklı yaklaşımlar izliyorlar.",
+   "tarih": "2026-11-09T08:46:34.352Z"
+  },
+  {
+   "id": 2175,
+   "metin": "270 milyon dolarlık Drift saldırısında kullanılan işlem özelliği kaldırılıyor: Solana (SOL) için hazırlanan taslak teklif, \"durable nonces\" özelliğini en erken 5 Mayıs 2027'de sonlandırmayı öneriyor.\n\nTeklif hayata geçerse, işlemleri çevrimdışı imzalayan saklama kuruluşları coin transfer yöntemlerini baştan kurmak zorunda kalacak.",
+   "tarih": "2026-11-09T07:42:44.586Z"
+  },
+  {
+   "id": 2174,
+   "metin": "11.255 işlemlik blok: Antpool'un 7 Kasım 2026'da ürettiği blok, Bitcoin (BTC) tarihinin ikinci en yüksek işlem sayısına ulaştı.\n\nRekor, F2pool'un Ağustos 2015'te ürettiği blokta 12.239 işlemle duruyor; aradaki fark 984 işlem. Üç gün önce, 4 Kasım'daki 10.573 işlemlik blok ikinciliğe çıkmıştı.",
+   "tarih": "2026-11-09T06:44:45.290Z"
+  },
+  {
+   "id": 2173,
+   "metin": "1 milyar doları aşan tasfiye: CoinGlass verilerine göre son 24 saatte 155.000'den fazla aşırı kaldıraçlı yatırımcının pozisyonu zorla kapandı.\n\n- Tasfiyelerin 930 milyon dolardan fazlası long (yükseliş beklentili) pozisyonlardan geldi. ETH longları 455 milyon dolarla başı çekti.\n- En büyük tek tasfiye, Binance'te yaklaşık 50 milyon dolarlık bir ETH pozisyonunda yaşandı.",
+   "tarih": "2026-11-09T06:31:44.090Z"
+  },
+  {
+   "id": 2172,
+   "metin": "Nvidia'daki hile skandalı ve başarısız İran görüşmeleri volatiliteyi tetiklerken Bitcoin (BTC) düştü, ardından yükseldi.",
+   "tarih": "2026-11-09T05:50:08.389Z"
+  },
+  {
+   "id": 2171,
+   "metin": "Threshold'un tBTC köprüsü dokuz günlük güvenlik duraklamasından sonra kısmen açıldı; Aave'deki (AAVE) yaklaşık 120 milyon dolarlık tBTC rezervi ise yeni mevduata ve borçlanmaya kapalı.\n\n- Yeni mevduat, basım ve itfa işlemleri yeterli düğüm çevrimiçi olana kadar kabul edilmeyecek; Threshold tarih vermedi.\n- LlamaRisk, işlemler normale dönünce rezervin açılmasını önereceğini söyledi.",
+   "tarih": "2026-11-09T05:22:33.290Z"
+  },
+  {
+   "id": 2170,
+   "metin": "Yüzde 5,7'ye çıkış: Çin'de fabrika enflasyonu ekimde petrol maliyetlerinin etkisiyle bu seviyeye ulaştı.\n\nYatırımcılar şimdi ABD TÜFE verisini ve Fed'in Aralık'ta faiz artırma ihtimalini izliyor.",
+   "tarih": "2026-11-09T05:09:49.788Z"
+  },
   {
    "id": 2169,
    "metin": "1,28 milyar dolarlık haftalık çıkış: Spot Bitcoin (BTC) ETF'leri, Haziran'ın son tam haftasından bu yana en yüksek net çıkışı yaşadı.\n\n- Binance saldırısını izleyen ilk tam haftada Perşembe 430 milyon, Cuma 412 milyon dolar çıkış oldu.\n- Ethereum (ETH) ETF'leri 365 milyon dolar net çıkışla art arda altıncı haftayı kayıpla kapattı.",
@@ -61,46 +101,6 @@
    "id": 2158,
    "metin": "Gnosis Pay'de yaşanan veri ihlalinde kart numaraları, ev adresleri ve hesaplara bağlı kripto cüzdanları açığa çıktı.\n\nBir kullanıcıya göre sızan veriler, ev adresini ve kart numarasını hesabına bağlı bütün kripto cüzdanlarla eşleştiriyor. Haberde, hedefli dolandırıcılık riskinin arttığı belirtiliyor.",
    "tarih": "2026-11-07T17:27:14.855Z"
-  },
-  {
-   "id": 2157,
-   "metin": "3 trilyon dolarlık tek günlük kayıp: Kobeissi Letter'a göre S&P 500 şirketleri perşembe seansında yaklaşık bu kadar piyasa değeri yitirdi.\n\n- Dow Jones Market Data kaybı 2,9 trilyon dolar olarak hesaplayıp endeks şirketleri için rekor diye nitelendirdi.\n- Kayıp, CoinGecko ve CoinMarketCap'e göre 2,55-2,65 trilyon dolar olan kripto piyasa değerini aştı.",
-   "tarih": "2026-11-07T16:12:50.555Z"
-  },
-  {
-   "id": 2156,
-   "metin": "MEXC'ten 24 saatte 126 milyon dolarlık net çıkış: DeFiLlama verilerine göre çıkışlar, ABD Hazinesi'ne bağlı FinCEN'in borsayı 16,7 milyar dolarlık şüpheli işlemle suçladığı karara denk geldi.\n\n- CEO Vugar Usi, kararın MEXC'teki varlıkları dondurmadığını, kullanıcıların normal işlem yapabileceğini söyledi.",
-   "tarih": "2026-11-07T15:27:05.056Z"
-  },
-  {
-   "id": 2155,
-   "metin": "165 bin kişilik artış: ABD'de tarım dışı istihdam ekimde, ekonomistlerin beklediği 62 bin artışı büyük farkla aştı.\n\nABD Çalışma Bakanlığı, ağustos verisini 186 bine, eylül verisini 60 bine yükselterek revize etti. İki aydaki net yukarı yönlü revizyon 84 bin oldu.",
-   "tarih": "2026-11-07T14:06:44.956Z"
-  },
-  {
-   "id": 2154,
-   "metin": "Hindistan'ın Yabancı Döviz Yönetimi Yasası kapsamında CoinDCX ve Delta Exchange India'nın ofislerinde arama yapıldı; yetkililer iki borsanın kullanıcı işlemlerini Binance, Bybit ve KuCoin gibi yurt dışı platformlara yönlendirdiğini iddia ediyor.\n\n- Hint yetkililere göre borsalar, rupi ile alınan USDT'yi yurt dışına göndererek ülkenin döviz kurallarını atlattı; işlem hacminin binlerce crore rupiye (milyarlarca dolar) ulaştığı öne sürülüyor.",
-   "tarih": "2026-11-07T09:52:24.477Z"
-  },
-  {
-   "id": 2153,
-   "metin": "Bitquery verilerine göre, 365 TRON (TRX) adresini kapsayan bir ağda en az 4 milyon dolarlık USDT çalındı; olay iPhone cüzdanlarına yönelik saldırılarla bağlantılı.\n\n- Bitquery, 5 Ekim-4 Kasım arasını inceledi ve 43 toplayıcı cüzdanı ortak bir ücret cüzdanına bağladı; ağın tek bir kişi tarafından yönetildiği ise henüz kanıtlanmadı",
-   "tarih": "2026-11-07T08:03:21.377Z"
-  },
-  {
-   "id": 2152,
-   "metin": "Yılda 300 bin ruble sınırı: Rusya Merkez Bankası, nitelikli sayılmayan yatırımcıların 17 Kasım'dan itibaren Bitcoin (BTC), Ethereum (ETH) ve USDT alımına izin verdi.\n\nMoskova Borsası, 1 Aralık'ta pilot işlemlerle kademeli başlangıç yapmayı planlıyor. Alım öncesinde yatırımcıların testten geçmesi ve riskleri tanıması şart.",
-   "tarih": "2026-11-07T07:45:07.877Z"
-  },
-  {
-   "id": 2151,
-   "metin": "Bir günde 318,9 milyon dolarlık büyüme: Ethena'nın USDe stablecoin arzı 4,6 milyar dolardan 4,9 milyar dolara çıktı.\n\nDeFiLlama verilerine göre bu artış, son 24 saatte yeni USDe basıldığına işaret ediyor. USDe, Ethena (ENA) tarafından çıkarılan ve dolara sabitlenmeye çalışılan bir stablecoin.",
-   "tarih": "2026-11-07T05:02:17.479Z"
-  },
-  {
-   "id": 2150,
-   "metin": "iPhone'lardaki cüzdan hırsızlığı soruşturması, TRON (TRX) ağında 4.06 milyon dolarlık çekimin izini sürdü.\n\nTrust Wallet, DarkSword ve Coruna adlı açıkların cüzdan uygulamalarındaki kusurlardan değil, eski iOS sürümleri üzerinden cihaz verilerine erişilmesinden kaynaklandığını bildirdi.",
-   "tarih": "2026-11-06T19:47:38.285Z"
   }
  ]
 }
