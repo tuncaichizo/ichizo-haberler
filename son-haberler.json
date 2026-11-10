@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-10T18:35:34.569Z",
+ "guncelleme": "2026-11-10T23:40:56.444Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2207,
+   "metin": "201 milyon dolarlık kayıp: spot ETF'ler, ABD hisselerinin pazartesi günkü toparlanmasına rağmen bu tutarda değer yitirdi.\n\nYatırımcılar, ABD'de Ekim ayı enflasyon verisinin bugün ilerleyen saatlerde açıklanmasını bekliyor.",
+   "tarih": "2026-11-10T20:10:54.041Z"
+  },
   {
    "id": 2206,
    "metin": "190 milyon dolarlık kripto yatırımı: Kazakistan Merkez Bankası fonlara ve Bitcoin (BTC) ETF'lerine para ayırdı.\n\n- Ulusal Banka yetkilisi Batur Vakhidov, 5 Kasım'da yaklaşık 100 milyon doların kripto fonlarına, 90 milyon doların dijital varlıklara ve Bitcoin ETF'lerine ayrıldığını açıkladı.\n- 700 milyon dolarlık rezervden kalan 510 milyon doların yatırım takvimi açıklanmadı.",
@@ -96,11 +101,6 @@
    "id": 2188,
    "metin": "XRP Ledger Foundation, kullanıcılardan ek ücret alınmayacak kuantuma dayanıklı hesaplar için bir tasarım hazırladı.\n\nTasarım, hesap sahiplerinin kuantuma dayanıklı yeni bir anahtar eklemesine ve eski anahtarı devre dışı bırakmasına izin veriyor. Tasarım, ağı 2028'e kadar tam geçiş yolunda tutan yol haritasının bir parçası.",
    "tarih": "2026-11-10T05:29:10.922Z"
-  },
-  {
-   "id": 2187,
-   "metin": "🗣️ Japonya Merkez Bankası'nda (BOJ) bazı üyelerin faizlerin daha hızlı artırılmasını istediği, Ekim ayına ait özetten anlaşıldı.",
-   "tarih": "2026-11-10T05:09:43.122Z"
   }
  ]
 }
