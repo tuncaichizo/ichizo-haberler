@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-09T20:00:26.970Z",
+ "guncelleme": "2026-11-10T02:38:54.034Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2186,
+   "metin": "Charles Schwab'da doğrudan işlem yapılan kripto varlık sayısı beşe çıktı: Solana (SOL), Avalanche (AVAX) ve Chainlink (LINK) uygun bireysel müşterilere açıldı.\n\n- Şirket 9 Kasım'da, üç coinin Schwab Crypto hesaplarıyla alınıp satılabildiğini duyurdu.\n- CEO Rick Wurster, 15 Ekim'de yıl sonuna kadar üç coin daha beklendiğini söylemişti.",
+   "tarih": "2026-11-09T20:03:37.089Z"
+  },
   {
    "id": 2185,
    "metin": "Polonya parlamentosunun alt kanadı, daha geniş kapsamlı bir yaptırım tasarısı çerçevesinde kripto varlıkların dondurulmasına destek verdi.\n\nListeye alınan müşteriler, mahkeme belirlemeyi incelemeden önce borsada tuttukları varlıklara erişimi kaybedebilir. İtiraz da kısıtlamaları kendiliğinden kaldırmayacak.",
@@ -96,11 +101,6 @@
    "id": 2167,
    "metin": "1,21 milyar dolarlık çıkış: BlackRock'ın IBIT fonu, 2-6 Kasım haftasında ABD spot Bitcoin (BTC) ETF'lerindeki net çıkışın yüzde 94'ünü oluşturdu.\n\nFarside Investors'ın izlediği 12 fonun haftalık net çıkışı 1,282 milyar dolar oldu. Fidelity'nin FBTC fonu ise 93 milyon dolar net girişle ters yönde hareket etti.",
    "tarih": "2026-11-08T17:50:40.389Z"
-  },
-  {
-   "id": 2166,
-   "metin": "Vitalik Buterin, ETH'nin ücret yakan bir token olarak değil, değer saklama aracı olarak değerlendirilmesi gerektiğini söyledi.\n\nStake edilen ETH arttıkça doğrulayıcı ödüllerinin giderek büyüyen bölümünü yakmayı öngören tartışmalı bir öneri, gelen tepkiler üzerine geçen ay geri çekilmişti.",
-   "tarih": "2026-11-08T16:28:30.793Z"
   }
  ]
 }
