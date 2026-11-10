@@ -1,7 +1,52 @@
 {
- "guncelleme": "2026-11-10T02:38:54.034Z",
+ "guncelleme": "2026-11-10T10:58:18.151Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2195,
+   "metin": "SCMP'ye göre, Çin Merkez Bankası (PBOC), Solana'nın (SOL) son faaliyetlerini ve Şanghay'daki kampanyasını soruşturmaya hazırlanıyor.\n\n- Adı açıklanmayan bir PBOC yetkilisi, bu faaliyetlerin anakarada yasak olduğunu ve Şubat'taki bildirim uyarınca yasa dışı sayıldığını söyledi.\n- Solana Accelerate etkinliği 16 Ekim'de kolluk sahadayken askıya alınmıştı.",
+   "tarih": "2026-11-10T09:47:05.420Z"
+  },
+  {
+   "id": 2194,
+   "metin": "Ava Labs, Avalanche'ın (AVAX) NYSE bağlantılı planlanan tokenlaştırılmış menkul kıymet platformunda işlemleri kaydeden ve takas eden defter olacağını 9 Kasım'da duyurdu.\n\n- Platform, düzenleyici onaylara bağlı olarak kesintisiz işlem ve takas sunmayı hedefliyor.\n- NYSE dijital ihraç başkanı Dennis Lee, defterin kimin katılacağını denetlemelerine imkân vermesi gerektiğini söyledi.",
+   "tarih": "2026-11-10T08:32:36.320Z"
+  },
+  {
+   "id": 2193,
+   "metin": "🗣️ BOE'den Lombardelli, Guardian'a yaptığı açıklamada Aralık ayında faiz artırımı ihtimalini dışlamadığını söyledi.",
+   "tarih": "2026-11-10T07:45:22.124Z"
+  },
+  {
+   "id": 2192,
+   "metin": "Coinbase, ulusal güven bankası lisansı için ABD'de bankaları denetleyen OCC'den geçen hafta nihai onay aldı; şartlı onay Nisan 2026'da verilmişti.\n\n- Lisans, federal düzenleme altında kripto saklama ve ödeme işlemlerine imkân tanıyor, stablecoin faaliyetlerini de destekleyecek.\n- Coinbase sıradan müşterilerden mevduat kabul edemeyecek, geleneksel ticari kredi veremeyecek.",
+   "tarih": "2026-11-10T07:29:18.837Z"
+  },
+  {
+   "id": 2191,
+   "metin": "10 Kasım'da işlem başlıyor: Güney Kore'nin en büyük iki kripto borsası Upbit ve Bithumb, Hyperliquid (HYPE) listelemesini duyurdu.\n\nListeleme, HYPE'ı dünyanın en büyük beş kripto piyasasından biri olan Güney Kore'ye getiriyor.",
+   "tarih": "2026-11-10T07:03:52.121Z"
+  },
+  {
+   "id": 2190,
+   "metin": "Trump, 60 Minutes'ta World Liberty Financial (WLFI) ortaklığını savundu: \"Her başkan bu sorunu yaşadı.\"\n\n- Oğullarının şirketi yönettiğini belirten Trump, onlara dört yıl iş yapmayın demenin zor olduğunu söyledi.\n- Senatör Richard Blumenthal, WLFI, Fight Fight Fight LLC, Binance ve Tether'den Senato alt komitesinin istediği kayıtları 4 Ocak 2027'ye kadar istedi.",
+   "tarih": "2026-11-10T06:49:58.821Z"
+  },
+  {
+   "id": 2189,
+   "metin": "Zarardan kâra geçiş: Trump Media and Technology Group üçüncü çeyrekte 409,7 milyon dolar net kâr açıkladı.\n\nŞirket bir yıl önceki aynı dönemde 54,8 milyon dolar net zarar yazmıştı. Kârın arkasında kripto kazançları olduğu belirtiliyor.",
+   "tarih": "2026-11-10T06:03:34.421Z"
+  },
+  {
+   "id": 2188,
+   "metin": "XRP Ledger Foundation, kullanıcılardan ek ücret alınmayacak kuantuma dayanıklı hesaplar için bir tasarım hazırladı.\n\nTasarım, hesap sahiplerinin kuantuma dayanıklı yeni bir anahtar eklemesine ve eski anahtarı devre dışı bırakmasına izin veriyor. Tasarım, ağı 2028'e kadar tam geçiş yolunda tutan yol haritasının bir parçası.",
+   "tarih": "2026-11-10T05:29:10.922Z"
+  },
+  {
+   "id": 2187,
+   "metin": "🗣️ Japonya Merkez Bankası'nda (BOJ) bazı üyelerin faizlerin daha hızlı artırılmasını istediği, Ekim ayına ait özetten anlaşıldı.",
+   "tarih": "2026-11-10T05:09:43.122Z"
+  },
   {
    "id": 2186,
    "metin": "Charles Schwab'da doğrudan işlem yapılan kripto varlık sayısı beşe çıktı: Solana (SOL), Avalanche (AVAX) ve Chainlink (LINK) uygun bireysel müşterilere açıldı.\n\n- Şirket 9 Kasım'da, üç coinin Schwab Crypto hesaplarıyla alınıp satılabildiğini duyurdu.\n- CEO Rick Wurster, 15 Ekim'de yıl sonuna kadar üç coin daha beklendiğini söylemişti.",
@@ -56,51 +101,6 @@
    "id": 2176,
    "metin": "İki rakip Ethereum (ETH) önerisi, Glamsterdam'ın mevcut sözleşmeleri bozmasını önlemeyi amaçlıyor.\n\nÖneriler, Ethereum'un planlanan gas (işlem ücreti) değişiklikleriyle ilgili. Sözleşmelerin ne gördüğü ve kullanıcıların ne ödediği konusunda farklı yaklaşımlar izliyorlar.",
    "tarih": "2026-11-09T08:46:34.352Z"
-  },
-  {
-   "id": 2175,
-   "metin": "270 milyon dolarlık Drift saldırısında kullanılan işlem özelliği kaldırılıyor: Solana (SOL) için hazırlanan taslak teklif, \"durable nonces\" özelliğini en erken 5 Mayıs 2027'de sonlandırmayı öneriyor.\n\nTeklif hayata geçerse, işlemleri çevrimdışı imzalayan saklama kuruluşları coin transfer yöntemlerini baştan kurmak zorunda kalacak.",
-   "tarih": "2026-11-09T07:42:44.586Z"
-  },
-  {
-   "id": 2174,
-   "metin": "11.255 işlemlik blok: Antpool'un 7 Kasım 2026'da ürettiği blok, Bitcoin (BTC) tarihinin ikinci en yüksek işlem sayısına ulaştı.\n\nRekor, F2pool'un Ağustos 2015'te ürettiği blokta 12.239 işlemle duruyor; aradaki fark 984 işlem. Üç gün önce, 4 Kasım'daki 10.573 işlemlik blok ikinciliğe çıkmıştı.",
-   "tarih": "2026-11-09T06:44:45.290Z"
-  },
-  {
-   "id": 2173,
-   "metin": "1 milyar doları aşan tasfiye: CoinGlass verilerine göre son 24 saatte 155.000'den fazla aşırı kaldıraçlı yatırımcının pozisyonu zorla kapandı.\n\n- Tasfiyelerin 930 milyon dolardan fazlası long (yükseliş beklentili) pozisyonlardan geldi. ETH longları 455 milyon dolarla başı çekti.\n- En büyük tek tasfiye, Binance'te yaklaşık 50 milyon dolarlık bir ETH pozisyonunda yaşandı.",
-   "tarih": "2026-11-09T06:31:44.090Z"
-  },
-  {
-   "id": 2172,
-   "metin": "Nvidia'daki hile skandalı ve başarısız İran görüşmeleri volatiliteyi tetiklerken Bitcoin (BTC) düştü, ardından yükseldi.",
-   "tarih": "2026-11-09T05:50:08.389Z"
-  },
-  {
-   "id": 2171,
-   "metin": "Threshold'un tBTC köprüsü dokuz günlük güvenlik duraklamasından sonra kısmen açıldı; Aave'deki (AAVE) yaklaşık 120 milyon dolarlık tBTC rezervi ise yeni mevduata ve borçlanmaya kapalı.\n\n- Yeni mevduat, basım ve itfa işlemleri yeterli düğüm çevrimiçi olana kadar kabul edilmeyecek; Threshold tarih vermedi.\n- LlamaRisk, işlemler normale dönünce rezervin açılmasını önereceğini söyledi.",
-   "tarih": "2026-11-09T05:22:33.290Z"
-  },
-  {
-   "id": 2170,
-   "metin": "Yüzde 5,7'ye çıkış: Çin'de fabrika enflasyonu ekimde petrol maliyetlerinin etkisiyle bu seviyeye ulaştı.\n\nYatırımcılar şimdi ABD TÜFE verisini ve Fed'in Aralık'ta faiz artırma ihtimalini izliyor.",
-   "tarih": "2026-11-09T05:09:49.788Z"
-  },
-  {
-   "id": 2169,
-   "metin": "1,28 milyar dolarlık haftalık çıkış: Spot Bitcoin (BTC) ETF'leri, Haziran'ın son tam haftasından bu yana en yüksek net çıkışı yaşadı.\n\n- Binance saldırısını izleyen ilk tam haftada Perşembe 430 milyon, Cuma 412 milyon dolar çıkış oldu.\n- Ethereum (ETH) ETF'leri 365 milyon dolar net çıkışla art arda altıncı haftayı kayıpla kapattı.",
-   "tarih": "2026-11-08T20:25:11.490Z"
-  },
-  {
-   "id": 2168,
-   "metin": "6 milyon doları aşan transfer izlendi: Web3Auth'taki güvenlik açığı yüzünden Cosmos (ATOM) cüzdanı Keplr, Google ve Apple girişlerini askıya aldı.\n\nBitquery, 6-7 Kasım'daki transferleri en az 6,01 milyon dolar olarak hesapladı. Keplr ve Web3Auth, beyaz şapkalı kurtarma operasyonlarının da aynı yolu kullandığını doğruladı; rakam doğrulanmış kayıp tutarı değil.",
-   "tarih": "2026-11-08T19:24:22.489Z"
-  },
-  {
-   "id": 2167,
-   "metin": "1,21 milyar dolarlık çıkış: BlackRock'ın IBIT fonu, 2-6 Kasım haftasında ABD spot Bitcoin (BTC) ETF'lerindeki net çıkışın yüzde 94'ünü oluşturdu.\n\nFarside Investors'ın izlediği 12 fonun haftalık net çıkışı 1,282 milyar dolar oldu. Fidelity'nin FBTC fonu ise 93 milyon dolar net girişle ters yönde hareket etti.",
-   "tarih": "2026-11-08T17:50:40.389Z"
   }
  ]
 }
