@@ -1,7 +1,62 @@
 {
- "guncelleme": "2026-11-10T10:58:18.151Z",
+ "guncelleme": "2026-11-10T18:35:34.569Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2206,
+   "metin": "190 milyon dolarlık kripto yatırımı: Kazakistan Merkez Bankası fonlara ve Bitcoin (BTC) ETF'lerine para ayırdı.\n\n- Ulusal Banka yetkilisi Batur Vakhidov, 5 Kasım'da yaklaşık 100 milyon doların kripto fonlarına, 90 milyon doların dijital varlıklara ve Bitcoin ETF'lerine ayrıldığını açıkladı.\n- 700 milyon dolarlık rezervden kalan 510 milyon doların yatırım takvimi açıklanmadı.",
+   "tarih": "2026-11-10T18:32:12.225Z"
+  },
+  {
+   "id": 2205,
+   "metin": "13,1 milyon dolarlık üçüncü çeyrek geliri: TON Strategy, gelirinin büyük bölümünü GRAM'ı stake ederek (coin kilitleyip getiri alarak) elde ettiğini açıkladı.\n\nŞirket aynı çeyrekte 24 milyon dolar net zarar bildirdi. Telegram da bu dönemde yerleşik cüzdanı Gram Wallet'i kullanıma sundu.",
+   "tarih": "2026-11-10T18:09:56.624Z"
+  },
+  {
+   "id": 2204,
+   "metin": "iOS'taki \"worse_query\" açığı cüzdan kurtarma ifadelerini ve özel anahtarları riske atabilir: Binance 10 Kasım'da uyardı.\n\n- Binance, sorunun kendisine değil iOS'a ait olduğunu belirterek güvenilmeyen kaynaklardan yüklenen uygulamaların silinmesini ve cihazların güncellenmesini önerdi.\n- Apple 9 Kasım'da iOS 27.2.1'i yayımladı; yayımlanan notlarda worse_query'nin adı geçmiyor.",
+   "tarih": "2026-11-10T17:54:33.220Z"
+  },
+  {
+   "id": 2203,
+   "metin": "Bitcoinle emlak vergisi: Miami-Dade İlçesi Vergi Tahsildarı Dariel Fernandez, ofisinin vergi ödemelerini çevrimiçi ve şahsen bitcoinle kabul etmeye başladığını açıkladı.\n\n- Üçüncü taraf bir sistem bitcoini ödeme anında dolara çeviriyor; ofis kripto varlık tutmuyor, tutarın tamamını dolar olarak alıyor.\n- Seçenek isteğe bağlı; çek, kart ve nakit gibi yöntemler sürüyor.",
+   "tarih": "2026-11-10T16:35:12.522Z"
+  },
+  {
+   "id": 2202,
+   "metin": "Yüzde 73'lük pay: Trump Media, 30 Eylül itibarıyla elindeki 15.649 BTC'nin 11.385'ini karşı tarafın yeniden kullanabildiği opsiyon programına teminat verdi.\n\n- Kalan 4.260 BTC, 30 Kasım'da nakit geri istenebilecek 1 milyar dolarlık tahvillerin teminatı.\n- Geçici CEO Kevin McGurn, ödeme için nakit ve kredi karışımı planladıklarını söyledi.",
+   "tarih": "2026-11-10T15:48:25.120Z"
+  },
+  {
+   "id": 2201,
+   "metin": "125 yıllık derecelendirme kuruluşu Moody's Ratings ile Chainlink (LINK), kredi notlarını birden çok blokzincire aynı anda dağıtan pilot testi tamamladı.\n\nTest, Chainlink'in zincirler arası protokolü CCIP ile hem kısıtlı erişimli hem herkese açık ağlarda yapıldı. Yalnızca test ağında, örnek verilerle çalışıldı; zincir üzerinde gerçek bir not yayımlanmadı.",
+   "tarih": "2026-11-10T15:11:20.120Z"
+  },
+  {
+   "id": 2200,
+   "metin": "Yüksek gelen ABD TÜFE verisi, kripto piyasasında 200 milyon dolarlık yatırımcı pozisyonunu sildi.\n\nBeInCrypto'nun haberine göre enflasyon yüzde 0,4 oldu. Haber, bu oranın Fed'in olası faiz artırımı açısından ne anlama geldiğini ele alıyor.",
+   "tarih": "2026-11-10T14:27:58.620Z"
+  },
+  {
+   "id": 2199,
+   "metin": "13 trilyon dolarlık geleneksel finans devi Charles Schwab, uygun perakende müşterilerin Solana (SOL), Avalanche (AVAX) ve Chainlink'i (LINK) doğrudan alıp satmasına izin verdi.\n\nDuyuruyu X'te yapan Schwab'ın yaklaşık 40 milyon aktif aracılık hesabı var; kripto işlemlerinde yüzde 0,75 ücret alıyor. İşlemler Schwab-com, mobil uygulama ve Thinkorswim'den yapılabiliyor.",
+   "tarih": "2026-11-10T14:08:18.720Z"
+  },
+  {
+   "id": 2198,
+   "metin": "Yönetişim onayı bekleyen ZK ücret planı: Matter Labs, Prividium Connect'i başlattı.\n\nÖnerilen kamuya açık dağıtımlarda birlikte çalışabilirlik ücretlerinin ZK'ye yönlendirilmesi öngörülüyor. Devreye alma, entegrasyon ve ücret parametreleri için yönetişim onayı gerekiyor.",
+   "tarih": "2026-11-10T12:54:22.520Z"
+  },
+  {
+   "id": 2197,
+   "metin": "🗣️ Fed'den Waller, Ekim ayı TÜFE verisi yüksek gelirse daha büyük bir faiz artırımının değerlendirilmesi gerektiğini söyledi.",
+   "tarih": "2026-11-10T12:32:54.050Z"
+  },
+  {
+   "id": 2196,
+   "metin": "Hesap bilgileri açığa çıktı: NEAR AI, SGLang'daki bir güvenlik açığının güvenlik ihlalinde kullanıcı hesap ayrıntılarını ifşa ettiğini açıkladı.\n\nŞirket, kayıtlı Private Chat sohbetlerine ya da yüklenen dosyalara erişildiğine dair bir işaret bulmadığını belirtti.",
+   "tarih": "2026-11-10T11:04:04.820Z"
+  },
   {
    "id": 2195,
    "metin": "SCMP'ye göre, Çin Merkez Bankası (PBOC), Solana'nın (SOL) son faaliyetlerini ve Şanghay'daki kampanyasını soruşturmaya hazırlanıyor.\n\n- Adı açıklanmayan bir PBOC yetkilisi, bu faaliyetlerin anakarada yasak olduğunu ve Şubat'taki bildirim uyarınca yasa dışı sayıldığını söyledi.\n- Solana Accelerate etkinliği 16 Ekim'de kolluk sahadayken askıya alınmıştı.",
@@ -46,61 +101,6 @@
    "id": 2187,
    "metin": "🗣️ Japonya Merkez Bankası'nda (BOJ) bazı üyelerin faizlerin daha hızlı artırılmasını istediği, Ekim ayına ait özetten anlaşıldı.",
    "tarih": "2026-11-10T05:09:43.122Z"
-  },
-  {
-   "id": 2186,
-   "metin": "Charles Schwab'da doğrudan işlem yapılan kripto varlık sayısı beşe çıktı: Solana (SOL), Avalanche (AVAX) ve Chainlink (LINK) uygun bireysel müşterilere açıldı.\n\n- Şirket 9 Kasım'da, üç coinin Schwab Crypto hesaplarıyla alınıp satılabildiğini duyurdu.\n- CEO Rick Wurster, 15 Ekim'de yıl sonuna kadar üç coin daha beklendiğini söylemişti.",
-   "tarih": "2026-11-09T20:03:37.089Z"
-  },
-  {
-   "id": 2185,
-   "metin": "Polonya parlamentosunun alt kanadı, daha geniş kapsamlı bir yaptırım tasarısı çerçevesinde kripto varlıkların dondurulmasına destek verdi.\n\nListeye alınan müşteriler, mahkeme belirlemeyi incelemeden önce borsada tuttukları varlıklara erişimi kaybedebilir. İtiraz da kısıtlamaları kendiliğinden kaldırmayacak.",
-   "tarih": "2026-11-09T18:48:07.289Z"
-  },
-  {
-   "id": 2184,
-   "metin": "Günün 24 saati işlem yapılacak tokenlaştırılmış hisse platformu için New York Borsası (NYSE), takas altyapısı olarak Avalanche (AVAX) blokzincirini seçti.\n\nPlatform, farklı blokzincirlerdeki hisselerin dijital sürümlerinin alım satımına izin verecek; Avalanche işlemleri kaydedip tamamlanmasını sağlayacak. The Wall Street Journal'a göre platform, düzenleyici onay alırsa 2026 bitmeden açılabilir.",
-   "tarih": "2026-11-09T18:32:22.889Z"
-  },
-  {
-   "id": 2183,
-   "metin": "Topluluk yönetimli TRON DAO, TRON (TRX) ağının Backpack Wallet'a entegre edildiğini 9 Kasım 2026 tarihli duyurusuyla açıkladı.\n\nEntegrasyon TRON'un blokzincir ekosistemini doğrudan Backpack kullanıcılarına sunuyor. Kullanıcılar gönderme, alma, köprüleme ve yönetme işlemlerini yapabilecek.",
-   "tarih": "2026-11-09T16:05:05.191Z"
-  },
-  {
-   "id": 2182,
-   "metin": "Yedi kişilik ilk teknik komitenin beş koltuğu Cosmos Labs'e ait: Cosmos (ATOM), IBC'yi Linux Foundation Decentralized Trust'a katkı olarak sundu.\n\nKomitede Datachain ve OpenZeppelin'den proje bakımcıları da yer alıyor.",
-   "tarih": "2026-11-09T15:04:21.588Z"
-  },
-  {
-   "id": 2181,
-   "metin": "Mercado Bitcoin (BTC), hack sonrası platformunu yalnızca görüntüleme modunda yeniden açmaya başladı.\n\nBorsa, çalınan varlıkları şirket kaynaklarıyla yerine koyduğunu açıkladı. Ödemeler ve alım satım işlemleri sonraki aşamalarda yeniden devreye girecek.",
-   "tarih": "2026-11-09T13:47:06.659Z"
-  },
-  {
-   "id": 2180,
-   "metin": "📊 Almanya'da ihracat eylül ayında beklentilerin üzerinde artış gösterdi.",
-   "tarih": "2026-11-09T11:54:37.891Z"
-  },
-  {
-   "id": 2179,
-   "metin": "70 milyon POL'u cüzdan sahiplerinin imzası olmadan taşımak isteyen Polygon, bunun için bir fork (ağ kurallarında değişiklik) öneriyor.\n\nÖnerilen fork'ta çalıntı coinlerin iadesinde sahiplik kanıtları, sonradan yapılan yatırımlar ve borsa hesap kayıtları belirleyici olacak.",
-   "tarih": "2026-11-09T10:48:52.189Z"
-  },
-  {
-   "id": 2178,
-   "metin": "ABD'nin en büyük borsası Coinbase, federal bankacılık düzenleyicisinden tam güven lisansı (charter) aldı.\n\nŞirketin açıklamasına göre Para Birimi Denetçiliği Ofisi (OCC), borsanın şartlı olan güven statüsünü tam lisansa yükseltti.",
-   "tarih": "2026-11-09T10:27:53.690Z"
-  },
-  {
-   "id": 2177,
-   "metin": "💡 Zama'dan ayrılan Raycash, Ethereum (ETH) üzerinde gizli stablecoin ödemelerini ve özel getiri imkânını kullanıma sundu.",
-   "tarih": "2026-11-09T09:25:58.691Z"
-  },
-  {
-   "id": 2176,
-   "metin": "İki rakip Ethereum (ETH) önerisi, Glamsterdam'ın mevcut sözleşmeleri bozmasını önlemeyi amaçlıyor.\n\nÖneriler, Ethereum'un planlanan gas (işlem ücreti) değişiklikleriyle ilgili. Sözleşmelerin ne gördüğü ve kullanıcıların ne ödediği konusunda farklı yaklaşımlar izliyorlar.",
-   "tarih": "2026-11-09T08:46:34.352Z"
   }
  ]
 }
