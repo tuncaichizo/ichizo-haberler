@@ -1,7 +1,42 @@
 {
- "guncelleme": "2026-11-11T05:54:52.085Z",
+ "guncelleme": "2026-11-11T14:00:13.004Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2215,
+   "metin": "🗣️ İran'ın güvenlik şefi, nükleer malzemelerin ülke dışına aktarılmasını reddetti.",
+   "tarih": "2026-11-11T13:27:33.589Z"
+  },
+  {
+   "id": 2214,
+   "metin": "Finansal İstikrar Kurulu (FSB), Türkiye'den kripto denetimini sıkılaştırmasını ve stablecoinler için ayrı kurallar getirmesini istedi.\n\nÇarşamba günü yayımlanan raporda kripto hizmet sağlayıcılarına kayıt ve lisans şartı getirilmesini ilerleme olarak değerlendirdi.",
+   "tarih": "2026-11-11T13:11:34.295Z"
+  },
+  {
+   "id": 2213,
+   "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden kasım başından bu yana yaklaşık 1,6 milyar dolar çıktı. SoSoValue'ya göre salı günkü net çıkış 95 milyon dolar oldu.\n\nBloomberg analisti Eric Balchunas'a göre beş işlem gününde en çok para çeken 17 ETF'nin tamamı hisse senedi fonuydu.",
+   "tarih": "2026-11-11T10:28:05.695Z"
+  },
+  {
+   "id": 2212,
+   "metin": "Eski Beyaz Saray kripto danışmanı Patrick Witt'e göre Trump, Stratejik Bitcoin Rezervi için hâlâ BTC almakla ilgileniyor.\n\nWitt, açık piyasadan alımın yasallığını şüpheli buluyor. Kongre'nin savunma bütçesi yasası NDAA'ya bunu yasaklayan bir hüküm eklediğini söyledi.",
+   "tarih": "2026-11-11T09:46:49.194Z"
+  },
+  {
+   "id": 2211,
+   "metin": "Ripple destekli XRP hazine şirketi Evernorth'un hissesi XRPN, yeniden satış izahnamesinin yayımlanmasının ardından 10 Kasım'da yüzde 23,5 düştü.\n\nİzahname en fazla 73,7 milyon hisseyi kapsıyor. Evernorth, bu satışlardan gelir elde etmeyeceğini belirtti.",
+   "tarih": "2026-11-11T08:45:56.596Z"
+  },
+  {
+   "id": 2210,
+   "metin": "Singapur Para Otoritesi (MAS), yabancı merkez bankalarına 500 tona kadar altın saklayabilen bir kasa hizmeti başlattı.\n\nMerkez bankalarının altın alımları bu yıl sürdü. BeInCrypto, hamleyi alımların devam edeceği yönünde bir bahis olarak yorumluyor.",
+   "tarih": "2026-11-11T08:08:16.595Z"
+  },
+  {
+   "id": 2209,
+   "metin": "Strategy, 2-8 Kasım haftasında MSTR adi hisse satışından gelen 283,8 milyon doların 188,3 milyonunu STRC tercihli hisselerinin geri alımına, 81,9 milyonunu Bitcoin'e ayırdı.\n\nŞirket 1.036 BTC aldı. Haftalık bildirimde STRC satışı yer almadı.",
+   "tarih": "2026-11-11T06:26:37.196Z"
+  },
   {
    "id": 2208,
    "metin": "DefiLlama verilerine göre Solana'da (SOL) 7 günlük vadeli işlem hacmi yüzde 65 artışla yaklaşık 9 milyar dolara çıktı.\n\nArtışın merkezinde türev platformu GMTrade var; haftalık hacmin yaklaşık yüzde 77'si burada gerçekleşti. Spot işlem hacmi ise yüzde 5 düşüp 9,9 milyar dolara indi.",
@@ -66,41 +101,6 @@
    "id": 2196,
    "metin": "Hesap bilgileri açığa çıktı: NEAR AI, SGLang'daki bir güvenlik açığının güvenlik ihlalinde kullanıcı hesap ayrıntılarını ifşa ettiğini açıkladı.\n\nŞirket, kayıtlı Private Chat sohbetlerine ya da yüklenen dosyalara erişildiğine dair bir işaret bulmadığını belirtti.",
    "tarih": "2026-11-10T11:04:04.820Z"
-  },
-  {
-   "id": 2195,
-   "metin": "SCMP'ye göre, Çin Merkez Bankası (PBOC), Solana'nın (SOL) son faaliyetlerini ve Şanghay'daki kampanyasını soruşturmaya hazırlanıyor.\n\n- Adı açıklanmayan bir PBOC yetkilisi, bu faaliyetlerin anakarada yasak olduğunu ve Şubat'taki bildirim uyarınca yasa dışı sayıldığını söyledi.\n- Solana Accelerate etkinliği 16 Ekim'de kolluk sahadayken askıya alınmıştı.",
-   "tarih": "2026-11-10T09:47:05.420Z"
-  },
-  {
-   "id": 2194,
-   "metin": "Ava Labs, Avalanche'ın (AVAX) NYSE bağlantılı planlanan tokenlaştırılmış menkul kıymet platformunda işlemleri kaydeden ve takas eden defter olacağını 9 Kasım'da duyurdu.\n\n- Platform, düzenleyici onaylara bağlı olarak kesintisiz işlem ve takas sunmayı hedefliyor.\n- NYSE dijital ihraç başkanı Dennis Lee, defterin kimin katılacağını denetlemelerine imkân vermesi gerektiğini söyledi.",
-   "tarih": "2026-11-10T08:32:36.320Z"
-  },
-  {
-   "id": 2193,
-   "metin": "🗣️ BOE'den Lombardelli, Guardian'a yaptığı açıklamada Aralık ayında faiz artırımı ihtimalini dışlamadığını söyledi.",
-   "tarih": "2026-11-10T07:45:22.124Z"
-  },
-  {
-   "id": 2192,
-   "metin": "Coinbase, ulusal güven bankası lisansı için ABD'de bankaları denetleyen OCC'den geçen hafta nihai onay aldı; şartlı onay Nisan 2026'da verilmişti.\n\n- Lisans, federal düzenleme altında kripto saklama ve ödeme işlemlerine imkân tanıyor, stablecoin faaliyetlerini de destekleyecek.\n- Coinbase sıradan müşterilerden mevduat kabul edemeyecek, geleneksel ticari kredi veremeyecek.",
-   "tarih": "2026-11-10T07:29:18.837Z"
-  },
-  {
-   "id": 2191,
-   "metin": "10 Kasım'da işlem başlıyor: Güney Kore'nin en büyük iki kripto borsası Upbit ve Bithumb, Hyperliquid (HYPE) listelemesini duyurdu.\n\nListeleme, HYPE'ı dünyanın en büyük beş kripto piyasasından biri olan Güney Kore'ye getiriyor.",
-   "tarih": "2026-11-10T07:03:52.121Z"
-  },
-  {
-   "id": 2190,
-   "metin": "Trump, 60 Minutes'ta World Liberty Financial (WLFI) ortaklığını savundu: \"Her başkan bu sorunu yaşadı.\"\n\n- Oğullarının şirketi yönettiğini belirten Trump, onlara dört yıl iş yapmayın demenin zor olduğunu söyledi.\n- Senatör Richard Blumenthal, WLFI, Fight Fight Fight LLC, Binance ve Tether'den Senato alt komitesinin istediği kayıtları 4 Ocak 2027'ye kadar istedi.",
-   "tarih": "2026-11-10T06:49:58.821Z"
-  },
-  {
-   "id": 2189,
-   "metin": "Zarardan kâra geçiş: Trump Media and Technology Group üçüncü çeyrekte 409,7 milyon dolar net kâr açıkladı.\n\nŞirket bir yıl önceki aynı dönemde 54,8 milyon dolar net zarar yazmıştı. Kârın arkasında kripto kazançları olduğu belirtiliyor.",
-   "tarih": "2026-11-10T06:03:34.421Z"
   }
  ]
 }
