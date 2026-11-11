@@ -1,7 +1,42 @@
 {
- "guncelleme": "2026-11-11T14:00:13.004Z",
+ "guncelleme": "2026-11-11T21:14:07.140Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2222,
+   "metin": "Arkham, Bitget saldırısında çalınan fonlardan 63 milyon dolarlık kısmın CoinJoin karıştırma işlemlerine aktığını izledi.\n\nŞirket 847,26 BTC'yi karıştırma işlemlerine kadar takip etti, 959,29 BTC'nin de etiketli cüzdanlarda durduğunu bildirdi. Fonları geri alma çalışmaları sürüyor.",
+   "tarih": "2026-11-11T20:07:50.196Z"
+  },
+  {
+   "id": 2221,
+   "metin": "Gözetiminde 3,5 trilyon dolarlık varlık bulunan Apex Group, Hedera Konseyi'ne katıldı.\n\nŞirket, Hedera (HBAR) ağını tokenleştirme, uyumluluk ve takas alanlarında inceleyecek.",
+   "tarih": "2026-11-11T18:24:07.193Z"
+  },
+  {
+   "id": 2220,
+   "metin": "Stacks (STX), sBTC transferiyle kuantum sonrası imzaları test etti. Ana ağdaki (mainnet) bir kasa çekiminde Lamport tek kullanımlık imzası kullanıldı.\n\nTest, sıradan sBTC cüzdanlarını yükseltmiyor. Token'ın arkasındaki Bitcoin (BTC) da bu testle yükseltilmiyor.",
+   "tarih": "2026-11-11T17:04:10.197Z"
+  },
+  {
+   "id": 2219,
+   "metin": "Fed'in aralık ayında 50 baz puanlık faiz artırımı yapma ihtimali, ekim TÜFE'si beklentiyi aşınca yüzde 0'dan yüzde 13,6'ya çıktı.\n\nCME FedWatch'a göre 25 baz puanlık artırım ihtimali de yüzde 86,4'e yükseldi. Aylık TÜFE yüzde 0,4 gelirken beklenti yüzde 0,3'tü.",
+   "tarih": "2026-11-11T16:27:01.299Z"
+  },
+  {
+   "id": 2218,
+   "metin": "Pyth, veri pazarına NYSE Group'un beş borsasını kapsayan gerçek zamanlı Level 1 veri akışını ekledi.\n\nMüşteriler veriyi Pyth üzerinden almadan önce lisansı doğrudan NYSE'den almak zorunda.",
+   "tarih": "2026-11-11T16:07:23.600Z"
+  },
+  {
+   "id": 2217,
+   "metin": "Nomura'ya ait Laser Digital, BNB Chain üzerinde 100 milyon dolar toplamayı hedefleyen Suudi KOBİ kredi kasası için ZIG Finance'e danışmanlık yapıyor.\n\nZIG Finance'in hedeflediği yapı, Suudi küçük ve orta ölçekli işletmelere yönelik tokenlaştırılmış (blokzincirde dijital varlığa çevrilmiş) bir özel kredi kasası.",
+   "tarih": "2026-11-11T14:42:56.501Z"
+  },
+  {
+   "id": 2216,
+   "metin": "Mercado Bitcoin (BTC), tahmini 49 milyon dolarlık saldırıdan sonra gelecek hafta Brezilya'nın anlık ödeme sistemi Pix üzerinden reel yatırma ve çekmeyi yeniden açacak.\n\nÇekim yalnız müşterinin kendi adındaki hesaba yapılacak. Kripto transferleri askıda, tarih belli değil.",
+   "tarih": "2026-11-11T14:34:33.296Z"
+  },
   {
    "id": 2215,
    "metin": "🗣️ İran'ın güvenlik şefi, nükleer malzemelerin ülke dışına aktarılmasını reddetti.",
@@ -66,41 +101,6 @@
    "id": 2203,
    "metin": "Bitcoinle emlak vergisi: Miami-Dade İlçesi Vergi Tahsildarı Dariel Fernandez, ofisinin vergi ödemelerini çevrimiçi ve şahsen bitcoinle kabul etmeye başladığını açıkladı.\n\n- Üçüncü taraf bir sistem bitcoini ödeme anında dolara çeviriyor; ofis kripto varlık tutmuyor, tutarın tamamını dolar olarak alıyor.\n- Seçenek isteğe bağlı; çek, kart ve nakit gibi yöntemler sürüyor.",
    "tarih": "2026-11-10T16:35:12.522Z"
-  },
-  {
-   "id": 2202,
-   "metin": "Yüzde 73'lük pay: Trump Media, 30 Eylül itibarıyla elindeki 15.649 BTC'nin 11.385'ini karşı tarafın yeniden kullanabildiği opsiyon programına teminat verdi.\n\n- Kalan 4.260 BTC, 30 Kasım'da nakit geri istenebilecek 1 milyar dolarlık tahvillerin teminatı.\n- Geçici CEO Kevin McGurn, ödeme için nakit ve kredi karışımı planladıklarını söyledi.",
-   "tarih": "2026-11-10T15:48:25.120Z"
-  },
-  {
-   "id": 2201,
-   "metin": "125 yıllık derecelendirme kuruluşu Moody's Ratings ile Chainlink (LINK), kredi notlarını birden çok blokzincire aynı anda dağıtan pilot testi tamamladı.\n\nTest, Chainlink'in zincirler arası protokolü CCIP ile hem kısıtlı erişimli hem herkese açık ağlarda yapıldı. Yalnızca test ağında, örnek verilerle çalışıldı; zincir üzerinde gerçek bir not yayımlanmadı.",
-   "tarih": "2026-11-10T15:11:20.120Z"
-  },
-  {
-   "id": 2200,
-   "metin": "Yüksek gelen ABD TÜFE verisi, kripto piyasasında 200 milyon dolarlık yatırımcı pozisyonunu sildi.\n\nBeInCrypto'nun haberine göre enflasyon yüzde 0,4 oldu. Haber, bu oranın Fed'in olası faiz artırımı açısından ne anlama geldiğini ele alıyor.",
-   "tarih": "2026-11-10T14:27:58.620Z"
-  },
-  {
-   "id": 2199,
-   "metin": "13 trilyon dolarlık geleneksel finans devi Charles Schwab, uygun perakende müşterilerin Solana (SOL), Avalanche (AVAX) ve Chainlink'i (LINK) doğrudan alıp satmasına izin verdi.\n\nDuyuruyu X'te yapan Schwab'ın yaklaşık 40 milyon aktif aracılık hesabı var; kripto işlemlerinde yüzde 0,75 ücret alıyor. İşlemler Schwab-com, mobil uygulama ve Thinkorswim'den yapılabiliyor.",
-   "tarih": "2026-11-10T14:08:18.720Z"
-  },
-  {
-   "id": 2198,
-   "metin": "Yönetişim onayı bekleyen ZK ücret planı: Matter Labs, Prividium Connect'i başlattı.\n\nÖnerilen kamuya açık dağıtımlarda birlikte çalışabilirlik ücretlerinin ZK'ye yönlendirilmesi öngörülüyor. Devreye alma, entegrasyon ve ücret parametreleri için yönetişim onayı gerekiyor.",
-   "tarih": "2026-11-10T12:54:22.520Z"
-  },
-  {
-   "id": 2197,
-   "metin": "🗣️ Fed'den Waller, Ekim ayı TÜFE verisi yüksek gelirse daha büyük bir faiz artırımının değerlendirilmesi gerektiğini söyledi.",
-   "tarih": "2026-11-10T12:32:54.050Z"
-  },
-  {
-   "id": 2196,
-   "metin": "Hesap bilgileri açığa çıktı: NEAR AI, SGLang'daki bir güvenlik açığının güvenlik ihlalinde kullanıcı hesap ayrıntılarını ifşa ettiğini açıkladı.\n\nŞirket, kayıtlı Private Chat sohbetlerine ya da yüklenen dosyalara erişildiğine dair bir işaret bulmadığını belirtti.",
-   "tarih": "2026-11-10T11:04:04.820Z"
   }
  ]
 }
