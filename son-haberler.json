@@ -1,7 +1,62 @@
 {
- "guncelleme": "2026-11-12T10:10:28.840Z",
+ "guncelleme": "2026-11-12T18:32:52.806Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2236,
+   "metin": "NYDFS, kripto şirketlerine yönelik reklam ve pazarlama konusunda yeni bir rehber yayımladı.\n\nRehber, şirketlerin reklam ve pazarlama faaliyetlerini yönetecek politika ve prosedürler oluşturmasına ilişkin beklentileri sıralıyor.",
+   "tarih": "2026-11-12T18:26:31.794Z"
+  },
+  {
+   "id": 2235,
+   "metin": "Israel Discount Bank, 26 Kasım'dan itibaren uygun müşterilerine mobil uygulamada bitcoin (BTC) ve ether alıp satma imkânı sunacak.\n\nHizmet yalnızca bireysel müşterilere açık; alım satımda yüzde 2 komisyon alınacak, coinler şimdilik dışarıdaki cüzdana gönderilemeyecek.",
+   "tarih": "2026-11-12T17:28:06.994Z"
+  },
+  {
+   "id": 2234,
+   "metin": "JPMorgan, 13F bildirimine göre üçüncü çeyrekte Strategy (MSTR) hissesini yüzde 36 artırdı.\n\nBanka 30 Eylül itibarıyla 848.932 MSTR hissesi ve yaklaşık 540 milyon dolarlık BlackRock IBIT payı tuttu. Bildirim müşteri ve fon pozisyonlarını da içerebilir.",
+   "tarih": "2026-11-12T16:48:09.195Z"
+  },
+  {
+   "id": 2233,
+   "metin": "Securitize ile Ethena (ENA) Labs, BlackRock BUIDL tutan uygun yatırımcılar için 100 milyon dolarlık bir likidite imkânını devreye aldı.\n\nUygun BUIDL sahipleri, bu imkânla varlıklarını günün 24 saati USDC ve diğer stablecoinlere çevirebiliyor.",
+   "tarih": "2026-11-12T14:47:22.595Z"
+  },
+  {
+   "id": 2232,
+   "metin": "🗣️ Trump, Vance'in yurt içindeki yolsuzluğa odaklanması gerektiğini söyledi; \"İran'la anlaşmaya ihtiyacımız yok\" dedi.",
+   "tarih": "2026-11-12T14:30:50.896Z"
+  },
+  {
+   "id": 2231,
+   "metin": "🗣️ İran, ABD'nin yeni saldırılarına vereceği karşılığın \"10 kat daha şiddetli\" olacağını söyledi.",
+   "tarih": "2026-11-12T13:54:06.695Z"
+  },
+  {
+   "id": 2230,
+   "metin": "Bitcoin (BTC) ETF'leri çarşamba günü 299,90 milyon dolar çıkış yaşadı, beş günlük toplam çıkış 1,44 milyar dolara ulaştı.\n\nBlackRock'ın IBIT fonu 269,73 milyon dolarla çıkışın büyük bölümünü oluşturdu. Ether ETF'lerinden de 144,81 milyon dolar çıktı.",
+   "tarih": "2026-11-12T13:26:39.295Z"
+  },
+  {
+   "id": 2229,
+   "metin": "Paribu, 13 Kasım 2026 itibarıyla MEXC'ten gelen yatırma ve MEXC'e yönelik çekme işlemlerini durduracağını açıkladı.\n\nAdım, ABD Hazine Bakanlığı'na bağlı FinCEN'in 6 Kasım 2026 tarihli MEXC Global kararı kapsamında atıldı. MEXC'ten gelen yatırımlar iade edilecek, Paribu'daki alım satım etkilenmeyecek.",
+   "tarih": "2026-11-12T13:10:25.888Z"
+  },
+  {
+   "id": 2228,
+   "metin": "Nvidia fırtınasının Asya’yı sarsmasının ardından Avrupa hisse senetleri rekor seviyeye ulaştı.",
+   "tarih": "2026-11-12T11:24:29.798Z"
+  },
+  {
+   "id": 2227,
+   "metin": "Sygnum, yıllık yüzde 8-10 getiriyi ETH cinsinden ödemeyi hedefleyen ETH Alpha Fund'ı başlattı.\n\nPiyasa yönünden bağımsız (market-neutral) fon, stake etmeyi (coin kilitleyip getiri alma) opsiyon, arbitraj ve carry stratejileriyle birleştiriyor.",
+   "tarih": "2026-11-12T11:04:13.397Z"
+  },
+  {
+   "id": 2226,
+   "metin": "📊 İngiltere'de büyüme verisinde çıkan sürpriz, Bank of England'ın (BoE) Aralık'ta bir faiz artırımı daha yapma ihtimalini güçlendirdi.",
+   "tarih": "2026-11-12T10:51:30.595Z"
+  },
   {
    "id": 2225,
    "metin": "xStocks, Solana'daki (SOL) tokenleştirilmiş hisse senedi arzının yüzde 75'ini elinde tutuyor.\n\nBlockworks verilerine göre Solana'daki toplam arz 607 milyon dolara ulaştı. xStocks bu hafta 200'den fazla İngiltere ve Avrupa hissesini de Solana'da listeledi.",
@@ -46,61 +101,6 @@
    "id": 2217,
    "metin": "Nomura'ya ait Laser Digital, BNB Chain üzerinde 100 milyon dolar toplamayı hedefleyen Suudi KOBİ kredi kasası için ZIG Finance'e danışmanlık yapıyor.\n\nZIG Finance'in hedeflediği yapı, Suudi küçük ve orta ölçekli işletmelere yönelik tokenlaştırılmış (blokzincirde dijital varlığa çevrilmiş) bir özel kredi kasası.",
    "tarih": "2026-11-11T14:42:56.501Z"
-  },
-  {
-   "id": 2216,
-   "metin": "Mercado Bitcoin (BTC), tahmini 49 milyon dolarlık saldırıdan sonra gelecek hafta Brezilya'nın anlık ödeme sistemi Pix üzerinden reel yatırma ve çekmeyi yeniden açacak.\n\nÇekim yalnız müşterinin kendi adındaki hesaba yapılacak. Kripto transferleri askıda, tarih belli değil.",
-   "tarih": "2026-11-11T14:34:33.296Z"
-  },
-  {
-   "id": 2215,
-   "metin": "🗣️ İran'ın güvenlik şefi, nükleer malzemelerin ülke dışına aktarılmasını reddetti.",
-   "tarih": "2026-11-11T13:27:33.589Z"
-  },
-  {
-   "id": 2214,
-   "metin": "Finansal İstikrar Kurulu (FSB), Türkiye'den kripto denetimini sıkılaştırmasını ve stablecoinler için ayrı kurallar getirmesini istedi.\n\nÇarşamba günü yayımlanan raporda kripto hizmet sağlayıcılarına kayıt ve lisans şartı getirilmesini ilerleme olarak değerlendirdi.",
-   "tarih": "2026-11-11T13:11:34.295Z"
-  },
-  {
-   "id": 2213,
-   "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden kasım başından bu yana yaklaşık 1,6 milyar dolar çıktı. SoSoValue'ya göre salı günkü net çıkış 95 milyon dolar oldu.\n\nBloomberg analisti Eric Balchunas'a göre beş işlem gününde en çok para çeken 17 ETF'nin tamamı hisse senedi fonuydu.",
-   "tarih": "2026-11-11T10:28:05.695Z"
-  },
-  {
-   "id": 2212,
-   "metin": "Eski Beyaz Saray kripto danışmanı Patrick Witt'e göre Trump, Stratejik Bitcoin Rezervi için hâlâ BTC almakla ilgileniyor.\n\nWitt, açık piyasadan alımın yasallığını şüpheli buluyor. Kongre'nin savunma bütçesi yasası NDAA'ya bunu yasaklayan bir hüküm eklediğini söyledi.",
-   "tarih": "2026-11-11T09:46:49.194Z"
-  },
-  {
-   "id": 2211,
-   "metin": "Ripple destekli XRP hazine şirketi Evernorth'un hissesi XRPN, yeniden satış izahnamesinin yayımlanmasının ardından 10 Kasım'da yüzde 23,5 düştü.\n\nİzahname en fazla 73,7 milyon hisseyi kapsıyor. Evernorth, bu satışlardan gelir elde etmeyeceğini belirtti.",
-   "tarih": "2026-11-11T08:45:56.596Z"
-  },
-  {
-   "id": 2210,
-   "metin": "Singapur Para Otoritesi (MAS), yabancı merkez bankalarına 500 tona kadar altın saklayabilen bir kasa hizmeti başlattı.\n\nMerkez bankalarının altın alımları bu yıl sürdü. BeInCrypto, hamleyi alımların devam edeceği yönünde bir bahis olarak yorumluyor.",
-   "tarih": "2026-11-11T08:08:16.595Z"
-  },
-  {
-   "id": 2209,
-   "metin": "Strategy, 2-8 Kasım haftasında MSTR adi hisse satışından gelen 283,8 milyon doların 188,3 milyonunu STRC tercihli hisselerinin geri alımına, 81,9 milyonunu Bitcoin'e ayırdı.\n\nŞirket 1.036 BTC aldı. Haftalık bildirimde STRC satışı yer almadı.",
-   "tarih": "2026-11-11T06:26:37.196Z"
-  },
-  {
-   "id": 2208,
-   "metin": "DefiLlama verilerine göre Solana'da (SOL) 7 günlük vadeli işlem hacmi yüzde 65 artışla yaklaşık 9 milyar dolara çıktı.\n\nArtışın merkezinde türev platformu GMTrade var; haftalık hacmin yaklaşık yüzde 77'si burada gerçekleşti. Spot işlem hacmi ise yüzde 5 düşüp 9,9 milyar dolara indi.",
-   "tarih": "2026-11-11T05:11:14.105Z"
-  },
-  {
-   "id": 2207,
-   "metin": "201 milyon dolarlık kayıp: spot ETF'ler, ABD hisselerinin pazartesi günkü toparlanmasına rağmen bu tutarda değer yitirdi.\n\nYatırımcılar, ABD'de Ekim ayı enflasyon verisinin bugün ilerleyen saatlerde açıklanmasını bekliyor.",
-   "tarih": "2026-11-10T20:10:54.041Z"
-  },
-  {
-   "id": 2206,
-   "metin": "190 milyon dolarlık kripto yatırımı: Kazakistan Merkez Bankası fonlara ve Bitcoin (BTC) ETF'lerine para ayırdı.\n\n- Ulusal Banka yetkilisi Batur Vakhidov, 5 Kasım'da yaklaşık 100 milyon doların kripto fonlarına, 90 milyon doların dijital varlıklara ve Bitcoin ETF'lerine ayrıldığını açıkladı.\n- 700 milyon dolarlık rezervden kalan 510 milyon doların yatırım takvimi açıklanmadı.",
-   "tarih": "2026-11-10T18:32:12.225Z"
   }
  ]
 }
