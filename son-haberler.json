@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-12T18:32:52.806Z",
+ "guncelleme": "2026-11-12T23:49:38.191Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2237,
+   "metin": "Binance, hack nedeniyle oluşan varlıkları karşıladığını ve müşteri varlıklarındaki kalan açığı kapattığını söyledi.\n\nKullanıcılar bunu doğrulamak için borsanın yeni rezerv kaydının kriptografik kanıtını beklemek zorunda.",
+   "tarih": "2026-11-12T19:06:48.094Z"
+  },
   {
    "id": 2236,
    "metin": "NYDFS, kripto şirketlerine yönelik reklam ve pazarlama konusunda yeni bir rehber yayımladı.\n\nRehber, şirketlerin reklam ve pazarlama faaliyetlerini yönetecek politika ve prosedürler oluşturmasına ilişkin beklentileri sıralıyor.",
@@ -96,11 +101,6 @@
    "id": 2218,
    "metin": "Pyth, veri pazarına NYSE Group'un beş borsasını kapsayan gerçek zamanlı Level 1 veri akışını ekledi.\n\nMüşteriler veriyi Pyth üzerinden almadan önce lisansı doğrudan NYSE'den almak zorunda.",
    "tarih": "2026-11-11T16:07:23.600Z"
-  },
-  {
-   "id": 2217,
-   "metin": "Nomura'ya ait Laser Digital, BNB Chain üzerinde 100 milyon dolar toplamayı hedefleyen Suudi KOBİ kredi kasası için ZIG Finance'e danışmanlık yapıyor.\n\nZIG Finance'in hedeflediği yapı, Suudi küçük ve orta ölçekli işletmelere yönelik tokenlaştırılmış (blokzincirde dijital varlığa çevrilmiş) bir özel kredi kasası.",
-   "tarih": "2026-11-11T14:42:56.501Z"
   }
  ]
 }
