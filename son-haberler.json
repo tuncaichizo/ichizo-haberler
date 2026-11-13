@@ -1,7 +1,37 @@
 {
- "guncelleme": "2026-11-13T06:23:07.140Z",
+ "guncelleme": "2026-11-13T14:51:05.602Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2244,
+   "metin": "🗣️ Bessent, enerji arzında yaşanan şok nedeniyle Fed'i faiz artırımı konusunda temkinli davranmaya çağırdı.",
+   "tarih": "2026-11-13T14:49:45.514Z"
+  },
+  {
+   "id": 2243,
+   "metin": "Bitcoin'de (BTC) düşüşe oynayan yatırımcılar, ekim ayı ABD ÜFE verisi beklentiden düşük gelince bir saat içinde yaklaşık 39 milyon dolarlık açık pozisyonunu kaybetti.\n\nCoinGlass verilerine göre, 52 milyon dolarlık düşüş bahsi yapan bir yatırımcı da zorunlu kapanışa yüzde 2'den az mesafede kaldı.",
+   "tarih": "2026-11-13T14:33:28.323Z"
+  },
+  {
+   "id": 2242,
+   "metin": "ABD'de ekim ayı ÜFE verisi beklentinin altında gelince Polymarket'te Fed'in aralıkta 50 baz puan faiz artırma ihtimali, yüzde 10'a varan seviyeden yüzde 6'ya geriledi.\n\nAylık ÜFE yüzde 0,3 arttı, beklenti yüzde 0,4'tü. Aynı platformda 25 baz puanlık artış ihtimali yüzde 92.",
+   "tarih": "2026-11-13T14:08:20.823Z"
+  },
+  {
+   "id": 2241,
+   "metin": "📊 Bank of America (BofA), Fed'in Ocak ayında faiz artıracağını öngörerek nihai faiz oranı tahminini yükseltti.",
+   "tarih": "2026-11-13T13:33:33.622Z"
+  },
+  {
+   "id": 2240,
+   "metin": "Osmosis'te blok üretimi yaklaşık dört saatlik kesintinin ardından yeniden başladı. Zincir üstü kayıtlar bunu gösteriyor.\n\nUpbit, OSMO alım satımını açık tuttu ancak yatırma ve çekme işlemlerini askıya aldı.",
+   "tarih": "2026-11-13T11:48:52.222Z"
+  },
+  {
+   "id": 2239,
+   "metin": "Kripto piyasasında son dört saatte toplam 798 milyon dolarlık pozisyon tasfiye edildi.\n\nTasfiyelerin 718,5 milyon doları, yükseliş beklentisiyle açılan uzun pozisyonlardan geldi.",
+   "tarih": "2026-11-13T06:45:44.497Z"
+  },
   {
    "id": 2238,
    "metin": "Beyaz Saray, SEC ve CFTC'deki boş koltukları doldurmak için kripto alanıyla ilgili adaylar gönderdi.\n\nCrypto Council for Innovation'dan Ji Kim, iki partili listenin piyasaları koruyan ve inovasyonu destekleyen kalıcı kurallar geliştirebileceğini söyledi.",
@@ -71,36 +101,6 @@
    "id": 2225,
    "metin": "xStocks, Solana'daki (SOL) tokenleştirilmiş hisse senedi arzının yüzde 75'ini elinde tutuyor.\n\nBlockworks verilerine göre Solana'daki toplam arz 607 milyon dolara ulaştı. xStocks bu hafta 200'den fazla İngiltere ve Avrupa hissesini de Solana'da listeledi.",
    "tarih": "2026-11-12T09:26:25.495Z"
-  },
-  {
-   "id": 2224,
-   "metin": "Santiment verilerine göre, XRP yedi haftada yaklaşık yüzde 30 düşerken en az 10.000 XRP tutan cüzdan sayısı 9 ayda 16.815 (yüzde 5,15) artarak yaklaşık 343,5 bine çıktı.\n\nSantiment bunu birikim sinyali olarak yorumluyor.",
-   "tarih": "2026-11-12T05:24:58.805Z"
-  },
-  {
-   "id": 2223,
-   "metin": "🗣️ BOJ'un güvercin (gevşemeci) görüşlü yetkilisi Asada, faizin erken artırılmasına karşı çıktı.",
-   "tarih": "2026-11-12T05:03:30.997Z"
-  },
-  {
-   "id": 2222,
-   "metin": "Arkham, Bitget saldırısında çalınan fonlardan 63 milyon dolarlık kısmın CoinJoin karıştırma işlemlerine aktığını izledi.\n\nŞirket 847,26 BTC'yi karıştırma işlemlerine kadar takip etti, 959,29 BTC'nin de etiketli cüzdanlarda durduğunu bildirdi. Fonları geri alma çalışmaları sürüyor.",
-   "tarih": "2026-11-11T20:07:50.196Z"
-  },
-  {
-   "id": 2221,
-   "metin": "Gözetiminde 3,5 trilyon dolarlık varlık bulunan Apex Group, Hedera Konseyi'ne katıldı.\n\nŞirket, Hedera (HBAR) ağını tokenleştirme, uyumluluk ve takas alanlarında inceleyecek.",
-   "tarih": "2026-11-11T18:24:07.193Z"
-  },
-  {
-   "id": 2220,
-   "metin": "Stacks (STX), sBTC transferiyle kuantum sonrası imzaları test etti. Ana ağdaki (mainnet) bir kasa çekiminde Lamport tek kullanımlık imzası kullanıldı.\n\nTest, sıradan sBTC cüzdanlarını yükseltmiyor. Token'ın arkasındaki Bitcoin (BTC) da bu testle yükseltilmiyor.",
-   "tarih": "2026-11-11T17:04:10.197Z"
-  },
-  {
-   "id": 2219,
-   "metin": "Fed'in aralık ayında 50 baz puanlık faiz artırımı yapma ihtimali, ekim TÜFE'si beklentiyi aşınca yüzde 0'dan yüzde 13,6'ya çıktı.\n\nCME FedWatch'a göre 25 baz puanlık artırım ihtimali de yüzde 86,4'e yükseldi. Aylık TÜFE yüzde 0,4 gelirken beklenti yüzde 0,3'tü.",
-   "tarih": "2026-11-11T16:27:01.299Z"
   }
  ]
 }
