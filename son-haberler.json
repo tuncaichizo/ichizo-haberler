@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-13T14:51:05.602Z",
+ "guncelleme": "2026-11-13T21:22:24.625Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2249,
+   "metin": "Aave'de (AAVE) Polygon (POL) üzerinde DAI sağlayanların borçlu faizinden aldığı pay, TokenLogic'in 12 Kasım önerisiyle yüzde 75'ten yüzde 30'a inebilir.\n\nÖneri 54 rezervi kapsıyor; TokenLogic yıllık yaklaşık 4 milyon dolar ek DAO geliri tahmin ediyor.",
+   "tarih": "2026-11-13T19:23:43.422Z"
+  },
+  {
+   "id": 2248,
+   "metin": "Fed Başkanı Kevin Warsh, yapay zekânın enflasyonu düşürüp düşürmeyeceğini tartışmak için 16 Kasım'da San Francisco'da herkese açık bir forum düzenleyecek.\n\nForumda teknoloji yöneticileri, ekonomistler ve işverenler bir araya gelecek. Bulgular Fed'in faiz yaklaşımını etkileyebilir.",
+   "tarih": "2026-11-13T18:49:17.321Z"
+  },
+  {
+   "id": 2247,
+   "metin": "Coffeezilla ile araştırmacı Molly White, Trump ailesinin kripto işlerini inceleyen kapsamlı bir rapor yayımladı.\n\nRapora göre World Liberty Financial'ın token satışları Trump'ın seçim zaferinden sonra 550 milyon dolara çıktı. Şirket suçlamaları reddetti.",
+   "tarih": "2026-11-13T18:06:49.622Z"
+  },
+  {
+   "id": 2246,
+   "metin": "ABD Hazinesi Temmuz'daki yen müdahalesini dolarla değil euro rezervleriyle finanse etti, New York Fed 12 Kasım raporunda doğruladı.\n\nEuro karşılığı 79,4 milyar yen alınan 31 Temmuz işlemi, Bitcoin (BTC) piyasasına yeni Fed doları girdiğini göstermiyor.",
+   "tarih": "2026-11-13T17:30:50.024Z"
+  },
+  {
+   "id": 2245,
+   "metin": "Strategy'nin kurucusu Michael Saylor, Bitcoin'in (BTC) bilerek sade tutulan temel yapısının yapay zekâ destekli saldırılara karşı avantaj sağladığını söyledi.\n\nSaylor, Oranje Summit 2026'da dünyanın en savunmasız alanının para taşıyan karmaşık ve kötü yazılmış yazılımlar olacağını belirterek uyardı.",
+   "tarih": "2026-11-13T16:46:55.724Z"
+  },
   {
    "id": 2244,
    "metin": "🗣️ Bessent, enerji arzında yaşanan şok nedeniyle Fed'i faiz artırımı konusunda temkinli davranmaya çağırdı.",
@@ -76,31 +101,6 @@
    "id": 2230,
    "metin": "Bitcoin (BTC) ETF'leri çarşamba günü 299,90 milyon dolar çıkış yaşadı, beş günlük toplam çıkış 1,44 milyar dolara ulaştı.\n\nBlackRock'ın IBIT fonu 269,73 milyon dolarla çıkışın büyük bölümünü oluşturdu. Ether ETF'lerinden de 144,81 milyon dolar çıktı.",
    "tarih": "2026-11-12T13:26:39.295Z"
-  },
-  {
-   "id": 2229,
-   "metin": "Paribu, 13 Kasım 2026 itibarıyla MEXC'ten gelen yatırma ve MEXC'e yönelik çekme işlemlerini durduracağını açıkladı.\n\nAdım, ABD Hazine Bakanlığı'na bağlı FinCEN'in 6 Kasım 2026 tarihli MEXC Global kararı kapsamında atıldı. MEXC'ten gelen yatırımlar iade edilecek, Paribu'daki alım satım etkilenmeyecek.",
-   "tarih": "2026-11-12T13:10:25.888Z"
-  },
-  {
-   "id": 2228,
-   "metin": "Nvidia fırtınasının Asya’yı sarsmasının ardından Avrupa hisse senetleri rekor seviyeye ulaştı.",
-   "tarih": "2026-11-12T11:24:29.798Z"
-  },
-  {
-   "id": 2227,
-   "metin": "Sygnum, yıllık yüzde 8-10 getiriyi ETH cinsinden ödemeyi hedefleyen ETH Alpha Fund'ı başlattı.\n\nPiyasa yönünden bağımsız (market-neutral) fon, stake etmeyi (coin kilitleyip getiri alma) opsiyon, arbitraj ve carry stratejileriyle birleştiriyor.",
-   "tarih": "2026-11-12T11:04:13.397Z"
-  },
-  {
-   "id": 2226,
-   "metin": "📊 İngiltere'de büyüme verisinde çıkan sürpriz, Bank of England'ın (BoE) Aralık'ta bir faiz artırımı daha yapma ihtimalini güçlendirdi.",
-   "tarih": "2026-11-12T10:51:30.595Z"
-  },
-  {
-   "id": 2225,
-   "metin": "xStocks, Solana'daki (SOL) tokenleştirilmiş hisse senedi arzının yüzde 75'ini elinde tutuyor.\n\nBlockworks verilerine göre Solana'daki toplam arz 607 milyon dolara ulaştı. xStocks bu hafta 200'den fazla İngiltere ve Avrupa hissesini de Solana'da listeledi.",
-   "tarih": "2026-11-12T09:26:25.495Z"
   }
  ]
 }
