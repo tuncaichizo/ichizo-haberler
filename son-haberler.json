@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-12T23:49:38.191Z",
+ "guncelleme": "2026-11-13T06:23:07.140Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2238,
+   "metin": "Beyaz Saray, SEC ve CFTC'deki boş koltukları doldurmak için kripto alanıyla ilgili adaylar gönderdi.\n\nCrypto Council for Innovation'dan Ji Kim, iki partili listenin piyasaları koruyan ve inovasyonu destekleyen kalıcı kurallar geliştirebileceğini söyledi.",
+   "tarih": "2026-11-13T05:03:44.396Z"
+  },
   {
    "id": 2237,
    "metin": "Binance, hack nedeniyle oluşan varlıkları karşıladığını ve müşteri varlıklarındaki kalan açığı kapattığını söyledi.\n\nKullanıcılar bunu doğrulamak için borsanın yeni rezerv kaydının kriptografik kanıtını beklemek zorunda.",
@@ -96,11 +101,6 @@
    "id": 2219,
    "metin": "Fed'in aralık ayında 50 baz puanlık faiz artırımı yapma ihtimali, ekim TÜFE'si beklentiyi aşınca yüzde 0'dan yüzde 13,6'ya çıktı.\n\nCME FedWatch'a göre 25 baz puanlık artırım ihtimali de yüzde 86,4'e yükseldi. Aylık TÜFE yüzde 0,4 gelirken beklenti yüzde 0,3'tü.",
    "tarih": "2026-11-11T16:27:01.299Z"
-  },
-  {
-   "id": 2218,
-   "metin": "Pyth, veri pazarına NYSE Group'un beş borsasını kapsayan gerçek zamanlı Level 1 veri akışını ekledi.\n\nMüşteriler veriyi Pyth üzerinden almadan önce lisansı doğrudan NYSE'den almak zorunda.",
-   "tarih": "2026-11-11T16:07:23.600Z"
   }
  ]
 }
