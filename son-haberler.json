@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-13T21:22:24.625Z",
+ "guncelleme": "2026-11-14T08:52:09.983Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2252,
+   "metin": "⚠️ İran, dört tankerin Hürmüz'de mayına çarptığını söyledi.",
+   "tarih": "2026-11-14T08:08:00.110Z"
+  },
+  {
+   "id": 2251,
+   "metin": "ABD'de üretici enflasyonu (ÜFE) yüzde 6,5'e çıktı, ancak veri beklentilerin altında kaldı. İki ana enflasyon göstergesi de tahminin altında geldi.\n\nFaiz piyasaları buna rağmen Fed'in Aralık'ta faiz artıracağı senaryoya ağırlık vermeyi sürdürüyor.",
+   "tarih": "2026-11-14T07:25:25.012Z"
+  },
+  {
+   "id": 2250,
+   "metin": "Bitcoin (BTC) kısa süreliğine 67.500 dolara düşerek ağustos ortasından bu yana en düşük seviyeyi gördü.\n\n24 saatte 1,64 milyar dolarlık kripto pozisyonu zorla kapatıldı. ABD'deki spot Bitcoin ETF'lerinden üst üste altıncı gün çıkış oldu.",
+   "tarih": "2026-11-14T04:24:23.627Z"
+  },
   {
    "id": 2249,
    "metin": "Aave'de (AAVE) Polygon (POL) üzerinde DAI sağlayanların borçlu faizinden aldığı pay, TokenLogic'in 12 Kasım önerisiyle yüzde 75'ten yüzde 30'a inebilir.\n\nÖneri 54 rezervi kapsıyor; TokenLogic yıllık yaklaşık 4 milyon dolar ek DAO geliri tahmin ediyor.",
@@ -86,21 +101,6 @@
    "id": 2233,
    "metin": "Securitize ile Ethena (ENA) Labs, BlackRock BUIDL tutan uygun yatırımcılar için 100 milyon dolarlık bir likidite imkânını devreye aldı.\n\nUygun BUIDL sahipleri, bu imkânla varlıklarını günün 24 saati USDC ve diğer stablecoinlere çevirebiliyor.",
    "tarih": "2026-11-12T14:47:22.595Z"
-  },
-  {
-   "id": 2232,
-   "metin": "🗣️ Trump, Vance'in yurt içindeki yolsuzluğa odaklanması gerektiğini söyledi; \"İran'la anlaşmaya ihtiyacımız yok\" dedi.",
-   "tarih": "2026-11-12T14:30:50.896Z"
-  },
-  {
-   "id": 2231,
-   "metin": "🗣️ İran, ABD'nin yeni saldırılarına vereceği karşılığın \"10 kat daha şiddetli\" olacağını söyledi.",
-   "tarih": "2026-11-12T13:54:06.695Z"
-  },
-  {
-   "id": 2230,
-   "metin": "Bitcoin (BTC) ETF'leri çarşamba günü 299,90 milyon dolar çıkış yaşadı, beş günlük toplam çıkış 1,44 milyar dolara ulaştı.\n\nBlackRock'ın IBIT fonu 269,73 milyon dolarla çıkışın büyük bölümünü oluşturdu. Ether ETF'lerinden de 144,81 milyon dolar çıktı.",
-   "tarih": "2026-11-12T13:26:39.295Z"
   }
  ]
 }
