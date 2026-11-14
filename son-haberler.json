@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-14T08:52:09.983Z",
+ "guncelleme": "2026-11-14T20:35:14.909Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2254,
+   "metin": "🗣️ Fed'den Collins, ekonomik riskleri yönetmek için faizlerin kademeli artırılmasının en iyi yol olduğunu söyledi.",
+   "tarih": "2026-11-14T17:29:58.459Z"
+  },
+  {
+   "id": 2253,
+   "metin": "Bitcoin (BTC) 65.000 dolara gerileyerek üç ayın en düşük seviyesini gördü.\n\nAnalist James Check, dördüncü kapitülasyon (panikle toplu satış) dalgasına işaret etti. Check, yatırımcıların üç ay önce yararlanmak isteyecekleri fiyattan şimdi sattığını yazdı.",
+   "tarih": "2026-11-14T16:44:01.911Z"
+  },
   {
    "id": 2252,
    "metin": "⚠️ İran, dört tankerin Hürmüz'de mayına çarptığını söyledi.",
@@ -91,16 +101,6 @@
    "id": 2235,
    "metin": "Israel Discount Bank, 26 Kasım'dan itibaren uygun müşterilerine mobil uygulamada bitcoin (BTC) ve ether alıp satma imkânı sunacak.\n\nHizmet yalnızca bireysel müşterilere açık; alım satımda yüzde 2 komisyon alınacak, coinler şimdilik dışarıdaki cüzdana gönderilemeyecek.",
    "tarih": "2026-11-12T17:28:06.994Z"
-  },
-  {
-   "id": 2234,
-   "metin": "JPMorgan, 13F bildirimine göre üçüncü çeyrekte Strategy (MSTR) hissesini yüzde 36 artırdı.\n\nBanka 30 Eylül itibarıyla 848.932 MSTR hissesi ve yaklaşık 540 milyon dolarlık BlackRock IBIT payı tuttu. Bildirim müşteri ve fon pozisyonlarını da içerebilir.",
-   "tarih": "2026-11-12T16:48:09.195Z"
-  },
-  {
-   "id": 2233,
-   "metin": "Securitize ile Ethena (ENA) Labs, BlackRock BUIDL tutan uygun yatırımcılar için 100 milyon dolarlık bir likidite imkânını devreye aldı.\n\nUygun BUIDL sahipleri, bu imkânla varlıklarını günün 24 saati USDC ve diğer stablecoinlere çevirebiliyor.",
-   "tarih": "2026-11-12T14:47:22.595Z"
   }
  ]
 }
