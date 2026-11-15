@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-15T07:03:50.314Z",
+ "guncelleme": "2026-11-15T14:40:31.101Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2259,
+   "metin": "Bahreyn, Pazar günü İran'ın birkaç gün içindeki ikinci insansız hava aracı saldırısıyla karşılaştı.\n\nBahreyn Savunma Bakanlığı, birkaç \"İran'a ait hava tehdidini\" hedeflerine ulaşmadan önlediğini söyledi. Devrim Muhafızları ise bir Bahreyn hava üssündeki radar sistemini hedef aldığını öne sürdü.",
+   "tarih": "2026-11-15T12:27:25.409Z"
+  },
+  {
+   "id": 2258,
+   "metin": "ABD'deki spot Bitcoin (BTC) fonlarından çıkışlar sürüyor; fonlar yedi işlem oturumunda toplam 1,91 milyar dolar kaybetti.",
+   "tarih": "2026-11-15T08:04:50.295Z"
+  },
+  {
+   "id": 2257,
+   "metin": "⚠️ İran, ABD üssüne yeni bir saldırı düzenlediğini öne sürdü.",
+   "tarih": "2026-11-15T07:43:33.310Z"
+  },
   {
    "id": 2256,
    "metin": "Aave (AAVE) yöneticisi Luigi D'Onorio DeMeo, iki günde toplam 39 milyon dolarlık likidasyon bildirdi.\n\nBir gün için yaklaşık 18 milyon, ertesi gün için yaklaşık 21 milyon dolar verdi. Saat dilimini ve değerleme ölçüsünü belirtmedi.",
@@ -86,21 +101,6 @@
    "id": 2240,
    "metin": "Osmosis'te blok üretimi yaklaşık dört saatlik kesintinin ardından yeniden başladı. Zincir üstü kayıtlar bunu gösteriyor.\n\nUpbit, OSMO alım satımını açık tuttu ancak yatırma ve çekme işlemlerini askıya aldı.",
    "tarih": "2026-11-13T11:48:52.222Z"
-  },
-  {
-   "id": 2239,
-   "metin": "Kripto piyasasında son dört saatte toplam 798 milyon dolarlık pozisyon tasfiye edildi.\n\nTasfiyelerin 718,5 milyon doları, yükseliş beklentisiyle açılan uzun pozisyonlardan geldi.",
-   "tarih": "2026-11-13T06:45:44.497Z"
-  },
-  {
-   "id": 2238,
-   "metin": "Beyaz Saray, SEC ve CFTC'deki boş koltukları doldurmak için kripto alanıyla ilgili adaylar gönderdi.\n\nCrypto Council for Innovation'dan Ji Kim, iki partili listenin piyasaları koruyan ve inovasyonu destekleyen kalıcı kurallar geliştirebileceğini söyledi.",
-   "tarih": "2026-11-13T05:03:44.396Z"
-  },
-  {
-   "id": 2237,
-   "metin": "Binance, hack nedeniyle oluşan varlıkları karşıladığını ve müşteri varlıklarındaki kalan açığı kapattığını söyledi.\n\nKullanıcılar bunu doğrulamak için borsanın yeni rezerv kaydının kriptografik kanıtını beklemek zorunda.",
-   "tarih": "2026-11-12T19:06:48.094Z"
   }
  ]
 }
