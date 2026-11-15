@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-14T20:35:14.909Z",
+ "guncelleme": "2026-11-15T00:11:20.779Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2255,
+   "metin": "Trump yönetimi SEC ve CFTC için dört aday gösterdi; listede CLARITY Act'in bazı bölümlerinin müzakeresine katılmış iki eski Kongre çalışanı da var.\n\nGazeteci Eleanor Terrett'e göre Cumhuriyetçi Senato liderleri, adayların 20 Kasım'a kadar komiteden geçmesini istiyor.",
+   "tarih": "2026-11-14T20:47:30.309Z"
+  },
   {
    "id": 2254,
    "metin": "🗣️ Fed'den Collins, ekonomik riskleri yönetmek için faizlerin kademeli artırılmasının en iyi yol olduğunu söyledi.",
@@ -96,11 +101,6 @@
    "id": 2236,
    "metin": "NYDFS, kripto şirketlerine yönelik reklam ve pazarlama konusunda yeni bir rehber yayımladı.\n\nRehber, şirketlerin reklam ve pazarlama faaliyetlerini yönetecek politika ve prosedürler oluşturmasına ilişkin beklentileri sıralıyor.",
    "tarih": "2026-11-12T18:26:31.794Z"
-  },
-  {
-   "id": 2235,
-   "metin": "Israel Discount Bank, 26 Kasım'dan itibaren uygun müşterilerine mobil uygulamada bitcoin (BTC) ve ether alıp satma imkânı sunacak.\n\nHizmet yalnızca bireysel müşterilere açık; alım satımda yüzde 2 komisyon alınacak, coinler şimdilik dışarıdaki cüzdana gönderilemeyecek.",
-   "tarih": "2026-11-12T17:28:06.994Z"
   }
  ]
 }
