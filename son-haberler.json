@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-15T00:11:20.779Z",
+ "guncelleme": "2026-11-15T07:03:50.314Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2256,
+   "metin": "Aave (AAVE) yöneticisi Luigi D'Onorio DeMeo, iki günde toplam 39 milyon dolarlık likidasyon bildirdi.\n\nBir gün için yaklaşık 18 milyon, ertesi gün için yaklaşık 21 milyon dolar verdi. Saat dilimini ve değerleme ölçüsünü belirtmedi.",
+   "tarih": "2026-11-15T05:02:09.458Z"
+  },
   {
    "id": 2255,
    "metin": "Trump yönetimi SEC ve CFTC için dört aday gösterdi; listede CLARITY Act'in bazı bölümlerinin müzakeresine katılmış iki eski Kongre çalışanı da var.\n\nGazeteci Eleanor Terrett'e göre Cumhuriyetçi Senato liderleri, adayların 20 Kasım'a kadar komiteden geçmesini istiyor.",
@@ -96,11 +101,6 @@
    "id": 2237,
    "metin": "Binance, hack nedeniyle oluşan varlıkları karşıladığını ve müşteri varlıklarındaki kalan açığı kapattığını söyledi.\n\nKullanıcılar bunu doğrulamak için borsanın yeni rezerv kaydının kriptografik kanıtını beklemek zorunda.",
    "tarih": "2026-11-12T19:06:48.094Z"
-  },
-  {
-   "id": 2236,
-   "metin": "NYDFS, kripto şirketlerine yönelik reklam ve pazarlama konusunda yeni bir rehber yayımladı.\n\nRehber, şirketlerin reklam ve pazarlama faaliyetlerini yönetecek politika ve prosedürler oluşturmasına ilişkin beklentileri sıralıyor.",
-   "tarih": "2026-11-12T18:26:31.794Z"
   }
  ]
 }
