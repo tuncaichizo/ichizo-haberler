@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-15T20:17:54.022Z",
+ "guncelleme": "2026-11-16T07:10:09.119Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2262,
+   "metin": "Franklin Templeton'ın spot XRP ETF'si eylül sonu itibarıyla yaklaşık 293 milyon XRP tuttu.\n\nSEC'e verilen yeni 10-Q dosyasına göre bu XRP'lerin değeri yaklaşık 440 milyon dolara denk geliyordu.",
+   "tarih": "2026-11-16T05:22:22.426Z"
+  },
+  {
+   "id": 2261,
+   "metin": "🗣️ BOJ'tan Takata, faizlerin hızla \"iyi\" bir konuma yükseltilmesi gerektiğini söyledi.",
+   "tarih": "2026-11-16T05:00:41.426Z"
+  },
   {
    "id": 2260,
    "metin": "🗣️ Kansas City Fed Başkanı, Fed'in enflasyon konusunda \"yapacak biraz işi olduğunu\" söyledi.",
@@ -91,16 +101,6 @@
    "id": 2243,
    "metin": "Bitcoin'de (BTC) düşüşe oynayan yatırımcılar, ekim ayı ABD ÜFE verisi beklentiden düşük gelince bir saat içinde yaklaşık 39 milyon dolarlık açık pozisyonunu kaybetti.\n\nCoinGlass verilerine göre, 52 milyon dolarlık düşüş bahsi yapan bir yatırımcı da zorunlu kapanışa yüzde 2'den az mesafede kaldı.",
    "tarih": "2026-11-13T14:33:28.323Z"
-  },
-  {
-   "id": 2242,
-   "metin": "ABD'de ekim ayı ÜFE verisi beklentinin altında gelince Polymarket'te Fed'in aralıkta 50 baz puan faiz artırma ihtimali, yüzde 10'a varan seviyeden yüzde 6'ya geriledi.\n\nAylık ÜFE yüzde 0,3 arttı, beklenti yüzde 0,4'tü. Aynı platformda 25 baz puanlık artış ihtimali yüzde 92.",
-   "tarih": "2026-11-13T14:08:20.823Z"
-  },
-  {
-   "id": 2241,
-   "metin": "📊 Bank of America (BofA), Fed'in Ocak ayında faiz artıracağını öngörerek nihai faiz oranı tahminini yükseltti.",
-   "tarih": "2026-11-13T13:33:33.622Z"
   }
  ]
 }
