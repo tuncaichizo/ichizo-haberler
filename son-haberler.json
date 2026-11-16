@@ -1,7 +1,62 @@
 {
- "guncelleme": "2026-11-16T07:10:09.119Z",
+ "guncelleme": "2026-11-16T17:21:26.738Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2273,
+   "metin": "Bitmine 7.653 ETH satın aldı.\n\nTom Lee, kurumsal alandaki gelişmeler iyileşirken Ethereum'un son dönemdeki düşüşünün hızını sorguladı. Lee'ye göre bu sert gerileme temel verilerle örtüşmüyor.",
+   "tarih": "2026-11-16T17:08:43.424Z"
+  },
+  {
+   "id": 2272,
+   "metin": "ABD Yüksek Mahkemesi, Custodia Bank'ın Fed'den ana hesap (ödeme sistemine doğrudan erişim) alma davasını inceleme talebini reddetti.\n\nOnuncu Daire'nin kararı yürürlükte kalıyor; buna göre Fed bölge bankaları uygun başvurucuları bile reddedebiliyor.",
+   "tarih": "2026-11-16T16:45:06.027Z"
+  },
+  {
+   "id": 2271,
+   "metin": "Lighter'dan analiz firmalarına göre 15 milyon doları aşan fon çalındı; borsa çekimleri geçici olarak durdurdu.\n\nLighter, soruşturmanın sorunu akıllı sözleşmelerdeki açığa değil, dış bir tarafa ait ele geçirilmiş kimlik bilgilerine bağladığını söyledi.",
+   "tarih": "2026-11-16T16:30:48.894Z"
+  },
+  {
+   "id": 2270,
+   "metin": "Lighter, bir trader'ın API anahtarının sızdığını bildirip çekimleri durdurdu; Bubblemaps yaklaşık 10,4 milyon dolarlık USDC çekildiğini tespit etti.\n\nBorsa, protokolün ve akıllı sözleşmelerin etkilenmediğini söyledi; çekimleri gün sonuna kadar açmayı hedefliyor.",
+   "tarih": "2026-11-16T15:40:13.126Z"
+  },
+  {
+   "id": 2269,
+   "metin": "Harvard Management Company, BlackRock'ın IBIT fonundaki 144 milyon dolarlık Bitcoin (BTC) payını korurken altın ETF'sindeki payını yaklaşık 20 kat artırıp 442,2 milyon dolara çıkardı.\n\nSEC bildirimine göre Harvard, 30 Eylül itibarıyla 3,04 milyon IBIT hissesi tutuyordu.",
+   "tarih": "2026-11-16T14:25:58.023Z"
+  },
+  {
+   "id": 2268,
+   "metin": "⚠️ İran devlet televizyonu, Hürmüz Boğazı'nda üç tankerin deniz mayınına çarptığını açıkladı.",
+   "tarih": "2026-11-16T14:07:28.623Z"
+  },
+  {
+   "id": 2267,
+   "metin": "Strategy 9-15 Kasım arasında 33,4 milyon dolar harcayarak 485 Bitcoin daha aldı. Şirketin toplam varlığı 850.849 BTC'ye ulaştı.\n\nBitcoin'in güncel fiyatıyla hesaplandığında şirketin gerçekleşmemiş zararı yaklaşık 9,61 milyar dolar.",
+   "tarih": "2026-11-16T13:53:03.829Z"
+  },
+  {
+   "id": 2266,
+   "metin": "İsveçli H100 Group, 226 milyon dolarlık Bitcoin varlığı için Coinbase Prime ve Deribit ile çalışacak.\n\nŞirketin 3.506 BTC'si var ve kurumsal saklama, işlem ve finansman hizmetlerini kullanmayı planlıyor. Zengin yatırımcılara yönelik Bitcoin ürünleri de geliştirecek.",
+   "tarih": "2026-11-16T13:37:31.924Z"
+  },
+  {
+   "id": 2265,
+   "metin": "Upbit ve Bithumb, Lighter soruşturması sürerken LIT'in yatırma ve çekme işlemlerini durdurdu.\n\nLIT alım satımı iki borsada devam ediyor, ancak yatırımcılar token'ı yatırıp çekemiyor. Lighter ise tüm çekimleri ve havuz oluşturmayı ayrıca askıya aldı.",
+   "tarih": "2026-11-16T12:32:04.626Z"
+  },
+  {
+   "id": 2264,
+   "metin": "Solana (SOL), ağın adındaki \"Mainnet Beta\" etiketini kaldırıp yerine 1.0 adlandırmasını getirdi.\n\nVakıf, yeni adın arkasındaki kilometre taşları olarak Alpenglow ve Firedancer'ı gösterdi. Kullanıcıların varlıklarını taşıması gerekmiyor; istemci güncellemelerinin kendi yayın şartları ise geçerli kalıyor.",
+   "tarih": "2026-11-16T12:05:39.531Z"
+  },
+  {
+   "id": 2263,
+   "metin": "Michael Saylor, Strategy'nin STRC tercihli hissesinde aralık temettüsünü faiz artırımı beklentilerine rağmen yüzde 12'de sabit tuttu.\n\nMSTR hissedarı Zynx kararı \"hata\" diye niteledi. Analist Halston Valencia ise şirketin sıkıntılı görünmek istemediğini savunuyor.",
+   "tarih": "2026-11-16T10:52:30.326Z"
+  },
   {
    "id": 2262,
    "metin": "Franklin Templeton'ın spot XRP ETF'si eylül sonu itibarıyla yaklaşık 293 milyon XRP tuttu.\n\nSEC'e verilen yeni 10-Q dosyasına göre bu XRP'lerin değeri yaklaşık 440 milyon dolara denk geliyordu.",
@@ -46,61 +101,6 @@
    "id": 2254,
    "metin": "🗣️ Fed'den Collins, ekonomik riskleri yönetmek için faizlerin kademeli artırılmasının en iyi yol olduğunu söyledi.",
    "tarih": "2026-11-14T17:29:58.459Z"
-  },
-  {
-   "id": 2253,
-   "metin": "Bitcoin (BTC) 65.000 dolara gerileyerek üç ayın en düşük seviyesini gördü.\n\nAnalist James Check, dördüncü kapitülasyon (panikle toplu satış) dalgasına işaret etti. Check, yatırımcıların üç ay önce yararlanmak isteyecekleri fiyattan şimdi sattığını yazdı.",
-   "tarih": "2026-11-14T16:44:01.911Z"
-  },
-  {
-   "id": 2252,
-   "metin": "⚠️ İran, dört tankerin Hürmüz'de mayına çarptığını söyledi.",
-   "tarih": "2026-11-14T08:08:00.110Z"
-  },
-  {
-   "id": 2251,
-   "metin": "ABD'de üretici enflasyonu (ÜFE) yüzde 6,5'e çıktı, ancak veri beklentilerin altında kaldı. İki ana enflasyon göstergesi de tahminin altında geldi.\n\nFaiz piyasaları buna rağmen Fed'in Aralık'ta faiz artıracağı senaryoya ağırlık vermeyi sürdürüyor.",
-   "tarih": "2026-11-14T07:25:25.012Z"
-  },
-  {
-   "id": 2250,
-   "metin": "Bitcoin (BTC) kısa süreliğine 67.500 dolara düşerek ağustos ortasından bu yana en düşük seviyeyi gördü.\n\n24 saatte 1,64 milyar dolarlık kripto pozisyonu zorla kapatıldı. ABD'deki spot Bitcoin ETF'lerinden üst üste altıncı gün çıkış oldu.",
-   "tarih": "2026-11-14T04:24:23.627Z"
-  },
-  {
-   "id": 2249,
-   "metin": "Aave'de (AAVE) Polygon (POL) üzerinde DAI sağlayanların borçlu faizinden aldığı pay, TokenLogic'in 12 Kasım önerisiyle yüzde 75'ten yüzde 30'a inebilir.\n\nÖneri 54 rezervi kapsıyor; TokenLogic yıllık yaklaşık 4 milyon dolar ek DAO geliri tahmin ediyor.",
-   "tarih": "2026-11-13T19:23:43.422Z"
-  },
-  {
-   "id": 2248,
-   "metin": "Fed Başkanı Kevin Warsh, yapay zekânın enflasyonu düşürüp düşürmeyeceğini tartışmak için 16 Kasım'da San Francisco'da herkese açık bir forum düzenleyecek.\n\nForumda teknoloji yöneticileri, ekonomistler ve işverenler bir araya gelecek. Bulgular Fed'in faiz yaklaşımını etkileyebilir.",
-   "tarih": "2026-11-13T18:49:17.321Z"
-  },
-  {
-   "id": 2247,
-   "metin": "Coffeezilla ile araştırmacı Molly White, Trump ailesinin kripto işlerini inceleyen kapsamlı bir rapor yayımladı.\n\nRapora göre World Liberty Financial'ın token satışları Trump'ın seçim zaferinden sonra 550 milyon dolara çıktı. Şirket suçlamaları reddetti.",
-   "tarih": "2026-11-13T18:06:49.622Z"
-  },
-  {
-   "id": 2246,
-   "metin": "ABD Hazinesi Temmuz'daki yen müdahalesini dolarla değil euro rezervleriyle finanse etti, New York Fed 12 Kasım raporunda doğruladı.\n\nEuro karşılığı 79,4 milyar yen alınan 31 Temmuz işlemi, Bitcoin (BTC) piyasasına yeni Fed doları girdiğini göstermiyor.",
-   "tarih": "2026-11-13T17:30:50.024Z"
-  },
-  {
-   "id": 2245,
-   "metin": "Strategy'nin kurucusu Michael Saylor, Bitcoin'in (BTC) bilerek sade tutulan temel yapısının yapay zekâ destekli saldırılara karşı avantaj sağladığını söyledi.\n\nSaylor, Oranje Summit 2026'da dünyanın en savunmasız alanının para taşıyan karmaşık ve kötü yazılmış yazılımlar olacağını belirterek uyardı.",
-   "tarih": "2026-11-13T16:46:55.724Z"
-  },
-  {
-   "id": 2244,
-   "metin": "🗣️ Bessent, enerji arzında yaşanan şok nedeniyle Fed'i faiz artırımı konusunda temkinli davranmaya çağırdı.",
-   "tarih": "2026-11-13T14:49:45.514Z"
-  },
-  {
-   "id": 2243,
-   "metin": "Bitcoin'de (BTC) düşüşe oynayan yatırımcılar, ekim ayı ABD ÜFE verisi beklentiden düşük gelince bir saat içinde yaklaşık 39 milyon dolarlık açık pozisyonunu kaybetti.\n\nCoinGlass verilerine göre, 52 milyon dolarlık düşüş bahsi yapan bir yatırımcı da zorunlu kapanışa yüzde 2'den az mesafede kaldı.",
-   "tarih": "2026-11-13T14:33:28.323Z"
   }
  ]
 }
