@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-16T17:21:26.738Z",
+ "guncelleme": "2026-11-17T01:00:06.590Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2278,
+   "metin": "Trump'ın eski kripto danışmanı Patrick Witt, Clarity Act'in Senato'da geçmemesini \"Amerikan liderliğinin başarısızlığı\" olarak niteledi.\n\nWitt, yeni kapsamlı yasanın geçme ihtimalini düşük görüyor; kuralların daha çok düzenleyici kurumlarca yazılmasını bekliyor.",
+   "tarih": "2026-11-16T20:07:31.327Z"
+  },
+  {
+   "id": 2277,
+   "metin": "Bullish'in NYSE'de işlem gören BLSH hissesi, Jupiter Lend'de teminat olarak kullanılacak.\n\nSolana'daki (SOL) en büyük işlem platformu Jupiter, izinli özel bir piyasa açacak. Piyasa her bölgede erişilebilir olmayacak, ardından başka ihraççı tokenları da eklenecek.",
+   "tarih": "2026-11-16T19:44:10.526Z"
+  },
+  {
+   "id": 2276,
+   "metin": "Fed Başkanı Kevin Warsh, Fed personelinin yapay zekânın ekonomiye etkisini modellemeye başladığını söyledi.\n\nSenaryolardan birinde yatırımlar beklentiyi karşılamıyor, hisseler düşüyor ve işsizlik artıyor. Warsh bunların tahmin değil, örnek senaryo olduğunu söyledi.",
+   "tarih": "2026-11-16T19:30:03.625Z"
+  },
+  {
+   "id": 2275,
+   "metin": "Kava, HARD Lend'den 53,9 milyon KAVA çalınınca borç verme ve borç alma hizmetini kapatmayı planlıyor.\n\nSaldırı 14 Kasım'daydı; Bitquery'ye göre tokenlerin değeri satıştan önce 3,7 milyon dolardı. Kapatma önerisi yedi günlük yönetişim oylamasından geçmeli.",
+   "tarih": "2026-11-16T18:24:18.124Z"
+  },
+  {
+   "id": 2274,
+   "metin": "📌 Kanada Merkez Bankası Başkanı Tiff Macklem, görev süresi 2027'de dolunca görevini bırakacak.",
+   "tarih": "2026-11-16T17:24:18.125Z"
+  },
   {
    "id": 2273,
    "metin": "Bitmine 7.653 ETH satın aldı.\n\nTom Lee, kurumsal alandaki gelişmeler iyileşirken Ethereum'un son dönemdeki düşüşünün hızını sorguladı. Lee'ye göre bu sert gerileme temel verilerle örtüşmüyor.",
@@ -76,31 +101,6 @@
    "id": 2259,
    "metin": "Bahreyn, Pazar günü İran'ın birkaç gün içindeki ikinci insansız hava aracı saldırısıyla karşılaştı.\n\nBahreyn Savunma Bakanlığı, birkaç \"İran'a ait hava tehdidini\" hedeflerine ulaşmadan önlediğini söyledi. Devrim Muhafızları ise bir Bahreyn hava üssündeki radar sistemini hedef aldığını öne sürdü.",
    "tarih": "2026-11-15T12:27:25.409Z"
-  },
-  {
-   "id": 2258,
-   "metin": "ABD'deki spot Bitcoin (BTC) fonlarından çıkışlar sürüyor; fonlar yedi işlem oturumunda toplam 1,91 milyar dolar kaybetti.",
-   "tarih": "2026-11-15T08:04:50.295Z"
-  },
-  {
-   "id": 2257,
-   "metin": "⚠️ İran, ABD üssüne yeni bir saldırı düzenlediğini öne sürdü.",
-   "tarih": "2026-11-15T07:43:33.310Z"
-  },
-  {
-   "id": 2256,
-   "metin": "Aave (AAVE) yöneticisi Luigi D'Onorio DeMeo, iki günde toplam 39 milyon dolarlık likidasyon bildirdi.\n\nBir gün için yaklaşık 18 milyon, ertesi gün için yaklaşık 21 milyon dolar verdi. Saat dilimini ve değerleme ölçüsünü belirtmedi.",
-   "tarih": "2026-11-15T05:02:09.458Z"
-  },
-  {
-   "id": 2255,
-   "metin": "Trump yönetimi SEC ve CFTC için dört aday gösterdi; listede CLARITY Act'in bazı bölümlerinin müzakeresine katılmış iki eski Kongre çalışanı da var.\n\nGazeteci Eleanor Terrett'e göre Cumhuriyetçi Senato liderleri, adayların 20 Kasım'a kadar komiteden geçmesini istiyor.",
-   "tarih": "2026-11-14T20:47:30.309Z"
-  },
-  {
-   "id": 2254,
-   "metin": "🗣️ Fed'den Collins, ekonomik riskleri yönetmek için faizlerin kademeli artırılmasının en iyi yol olduğunu söyledi.",
-   "tarih": "2026-11-14T17:29:58.459Z"
   }
  ]
 }
