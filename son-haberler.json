@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-17T01:00:06.590Z",
+ "guncelleme": "2026-11-17T09:00:04.969Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2281,
+   "metin": "Cathie Wood'un Ark Invest'i, Block Inc., Circle ve Coinbase hisselerinden pazartesi günü ek alım yaptı.\n\nArk, Nvidia tarafında ise 85 milyon dolarlık satış yaptı.",
+   "tarih": "2026-11-17T06:46:29.927Z"
+  },
+  {
+   "id": 2280,
+   "metin": "Ripple destekli Evernorth, listelenmeden önce elinde tuttuğu XRP'nin defter değerini yüzde 60 düşürdü.\n\nŞirketin muhasebe politikası fiyat düşüşlerinin kayda geçmesini şart koşuyor. XRP toparlansa bile bu indirimler geri alınmıyor.",
+   "tarih": "2026-11-17T06:22:34.226Z"
+  },
+  {
+   "id": 2279,
+   "metin": "Borç verme protokolü Aave'nin (AAVE) V4 sürümündeki mevduat 1,75 milyar dolarla bu sürüm için rekor seviyeye çıktı.\n\nV3 sürümünde ise yaklaşık 31 milyar dolar mevduat duruyor. AMBCrypto, V4'ün aktif kredilerde de yeni zirve gördüğünü yazdı.",
+   "tarih": "2026-11-17T05:06:05.827Z"
+  },
   {
    "id": 2278,
    "metin": "Trump'ın eski kripto danışmanı Patrick Witt, Clarity Act'in Senato'da geçmemesini \"Amerikan liderliğinin başarısızlığı\" olarak niteledi.\n\nWitt, yeni kapsamlı yasanın geçme ihtimalini düşük görüyor; kuralların daha çok düzenleyici kurumlarca yazılmasını bekliyor.",
@@ -86,21 +101,6 @@
    "id": 2262,
    "metin": "Franklin Templeton'ın spot XRP ETF'si eylül sonu itibarıyla yaklaşık 293 milyon XRP tuttu.\n\nSEC'e verilen yeni 10-Q dosyasına göre bu XRP'lerin değeri yaklaşık 440 milyon dolara denk geliyordu.",
    "tarih": "2026-11-16T05:22:22.426Z"
-  },
-  {
-   "id": 2261,
-   "metin": "🗣️ BOJ'tan Takata, faizlerin hızla \"iyi\" bir konuma yükseltilmesi gerektiğini söyledi.",
-   "tarih": "2026-11-16T05:00:41.426Z"
-  },
-  {
-   "id": 2260,
-   "metin": "🗣️ Kansas City Fed Başkanı, Fed'in enflasyon konusunda \"yapacak biraz işi olduğunu\" söyledi.",
-   "tarih": "2026-11-15T19:09:59.112Z"
-  },
-  {
-   "id": 2259,
-   "metin": "Bahreyn, Pazar günü İran'ın birkaç gün içindeki ikinci insansız hava aracı saldırısıyla karşılaştı.\n\nBahreyn Savunma Bakanlığı, birkaç \"İran'a ait hava tehdidini\" hedeflerine ulaşmadan önlediğini söyledi. Devrim Muhafızları ise bir Bahreyn hava üssündeki radar sistemini hedef aldığını öne sürdü.",
-   "tarih": "2026-11-15T12:27:25.409Z"
   }
  ]
 }
