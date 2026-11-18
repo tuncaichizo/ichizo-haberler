@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-17T18:24:27.907Z",
+ "guncelleme": "2026-11-18T01:13:17.235Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2292,
+   "metin": "Blockaid'e göre B18TimeBank saldırısında 404.540 USDC çekildi.\n\nZincir üstü kayıtlar Base üzerindeki ödemeyi doğruladı. Sonraki kontrolde takas sözleşmesinde yaklaşık 106.785 USDC duruyordu; saldırının durdurulup durdurulmadığı doğrulanmadı.",
+   "tarih": "2026-11-17T20:06:17.533Z"
+  },
+  {
+   "id": 2291,
+   "metin": "Brevan Howard'ın IBIT payı üç katına çıkarak 1,1 milyar dolara ulaştı.\n\nYatırım yöneticisi eylül sonunda 22,4 milyon IBIT hissesi bildirdi; bu, haziran dönemine göre yaklaşık yüzde 211 artış. Ayrı tutulan opsiyon pozisyonları bu toplama dahil değil.",
+   "tarih": "2026-11-17T19:50:33.634Z"
+  },
   {
    "id": 2290,
    "metin": "🗣️ Hammack, Fed'in tahvil piyasasına olası bir müdahaleye piyasalar sakinken hazırlanması gerektiğini söyledi.",
@@ -91,16 +101,6 @@
    "id": 2273,
    "metin": "Bitmine 7.653 ETH satın aldı.\n\nTom Lee, kurumsal alandaki gelişmeler iyileşirken Ethereum'un son dönemdeki düşüşünün hızını sorguladı. Lee'ye göre bu sert gerileme temel verilerle örtüşmüyor.",
    "tarih": "2026-11-16T17:08:43.424Z"
-  },
-  {
-   "id": 2272,
-   "metin": "ABD Yüksek Mahkemesi, Custodia Bank'ın Fed'den ana hesap (ödeme sistemine doğrudan erişim) alma davasını inceleme talebini reddetti.\n\nOnuncu Daire'nin kararı yürürlükte kalıyor; buna göre Fed bölge bankaları uygun başvurucuları bile reddedebiliyor.",
-   "tarih": "2026-11-16T16:45:06.027Z"
-  },
-  {
-   "id": 2271,
-   "metin": "Lighter'dan analiz firmalarına göre 15 milyon doları aşan fon çalındı; borsa çekimleri geçici olarak durdurdu.\n\nLighter, soruşturmanın sorunu akıllı sözleşmelerdeki açığa değil, dış bir tarafa ait ele geçirilmiş kimlik bilgilerine bağladığını söyledi.",
-   "tarih": "2026-11-16T16:30:48.894Z"
   }
  ]
 }
