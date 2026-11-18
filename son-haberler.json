@@ -1,7 +1,47 @@
 {
- "guncelleme": "2026-11-18T09:01:36.365Z",
+ "guncelleme": "2026-11-18T17:57:00.367Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2302,
+   "metin": "🗣️ Waller, Fed'in agresif adım atmasını destekleyerek şahin (sıkılaştırmacı) bir tutum sergiledi; dolar bu sırada yükselişte.",
+   "tarih": "2026-11-18T17:46:08.135Z"
+  },
+  {
+   "id": 2301,
+   "metin": "Fed Governörü Waller, yüzde 3 düzeyindeki enflasyonu kırmak için 50 baz puanlık faiz artırımı çağrısı yaptı.",
+   "tarih": "2026-11-18T17:42:29.136Z"
+  },
+  {
+   "id": 2300,
+   "metin": "XRPLF'e göre XRP Ledger, GL1 mimari ve dayanıklılık doğrulamasını alan ilk herkese açık, izinsiz blokzincir oldu.\n\nCertiK mimari ve dayanıklılık kanıtlarını bağımsız inceledi. GL1 araç setine göre değerlendirme, GL1 standartlarına uyum anlamına gelmiyor.",
+   "tarih": "2026-11-18T17:24:22.435Z"
+  },
+  {
+   "id": 2299,
+   "metin": "ABD'de ithal sermaye malı fiyatları ekimde yüzde 1,5 artarak, BLS'nin aylık yayına başladığı Aralık 1988'den bu yana en büyük artışı gösterdi.\n\nSanayi üretimi Fed'e göre yüzde 0,4 düşerken, CME'ye göre Aralık'ta çeyrek puanlık faiz artışı ihtimali yüzde 95.",
+   "tarih": "2026-11-18T15:16:48.535Z"
+  },
+  {
+   "id": 2298,
+   "metin": "APT bir haftada yüzde 24 değer kaybederek sonbahar yükselişini sildi.\n\nToken 28 günde yaklaşık yüzde 47 geriledi. Bu kayıp, benzer dönemlerde Bitcoin (BTC), ether, SOL ve SUI'de görülen kayıplardan daha sert.",
+   "tarih": "2026-11-18T13:49:06.135Z"
+  },
+  {
+   "id": 2297,
+   "metin": "Binance, 20 Kasım'da GAS, HIVE, KSM ve ZAMA'nın TRY çiftleriyle HBAR/BNB'yi kaldıracak.\n\nTokenlar başka çiftlerde işlem görmeye devam edecek. Çiftlerdeki botlar da kapanacağı için Binance, kullanıcılardan botlarını önceden güncellemesini ya da iptal etmesini istedi.",
+   "tarih": "2026-11-18T12:03:57.334Z"
+  },
+  {
+   "id": 2296,
+   "metin": "The Graph'te kürasyon yakımı, 300.000 GRT'lik yatırıma rağmen yüzde 1'de kaldı.\n\nLodestar'ın tahminine göre yatırım, bir dağıtımın modellenen indeksleme ödülü payını yüzde 6,2'ye çıkardı. Hakemler yalnızca kendi kendine kürasyon yaptığı için ceza vermeyi reddetti.",
+   "tarih": "2026-11-18T10:44:35.935Z"
+  },
+  {
+   "id": 2295,
+   "metin": "Cardano Foundation, ağın kullanımını artırmak için yaklaşık 25 milyon ADA talep etti.\n\nVakfın CEO'su Frederik Gregaard, 15 Kasım'daki açıklamasında kurucu Charles Hoskinson'ın \"orijinal yol haritası tamamlandı\" sözlerine gelen tepkilere yanıt verdi. Cardano'nun daha güçlü ve daha merkeziyetsiz hale geldiğini savundu, ancak çalışmaların gerçek kullanıma ve sürekli işlem hacmine dönüşmesi gerektiğini de kabul etti.",
+   "tarih": "2026-11-18T09:45:54.934Z"
+  },
   {
    "id": 2294,
    "metin": "Anthropic halka arzında 825 milyon A sınıfı hisse sunmayı öneriyor. Bunun 801.351.354'ünü şirket, 23.648.646'sını mevcut hissedarlar satacak.\n\nArthur Hayes, hissedar satışlarının kriptoyu destekleyen dolar likiditesini azaltabileceğini savunuyor. Haber ise hisse çıkış takviminin bunu kaçınılmaz kılmadığını yazıyor.",
@@ -61,46 +101,6 @@
    "id": 2283,
    "metin": "Cardano Foundation, 2027'de 12 konferansa katılmak için topluluk hazinesinden 5 milyon dolarlık hibe istedi. Vakıf bunun için 25.995.775 ADA çekmek istiyor.\n\nBütçe ADA'yı piyasa değerinin yaklaşık yüzde 33 üzerinden hesaplıyor. Bu fark topluluk temsilcilerinde endişe yarattı.",
    "tarih": "2026-11-17T11:27:33.725Z"
-  },
-  {
-   "id": 2282,
-   "metin": "Tether'in Bitcoin şirketi Twenty One Capital, 10 milyon dolarlık nakitle 154 Bitcoin satın aldı. Şirketin toplam Bitcoin varlığı 43.668 BTC'ye çıktı.\n\nSaylor ve Tether'in CEO'su alımı alkışladı.",
-   "tarih": "2026-11-17T09:49:24.225Z"
-  },
-  {
-   "id": 2281,
-   "metin": "Cathie Wood'un Ark Invest'i, Block Inc., Circle ve Coinbase hisselerinden pazartesi günü ek alım yaptı.\n\nArk, Nvidia tarafında ise 85 milyon dolarlık satış yaptı.",
-   "tarih": "2026-11-17T06:46:29.927Z"
-  },
-  {
-   "id": 2280,
-   "metin": "Ripple destekli Evernorth, listelenmeden önce elinde tuttuğu XRP'nin defter değerini yüzde 60 düşürdü.\n\nŞirketin muhasebe politikası fiyat düşüşlerinin kayda geçmesini şart koşuyor. XRP toparlansa bile bu indirimler geri alınmıyor.",
-   "tarih": "2026-11-17T06:22:34.226Z"
-  },
-  {
-   "id": 2279,
-   "metin": "Borç verme protokolü Aave'nin (AAVE) V4 sürümündeki mevduat 1,75 milyar dolarla bu sürüm için rekor seviyeye çıktı.\n\nV3 sürümünde ise yaklaşık 31 milyar dolar mevduat duruyor. AMBCrypto, V4'ün aktif kredilerde de yeni zirve gördüğünü yazdı.",
-   "tarih": "2026-11-17T05:06:05.827Z"
-  },
-  {
-   "id": 2278,
-   "metin": "Trump'ın eski kripto danışmanı Patrick Witt, Clarity Act'in Senato'da geçmemesini \"Amerikan liderliğinin başarısızlığı\" olarak niteledi.\n\nWitt, yeni kapsamlı yasanın geçme ihtimalini düşük görüyor; kuralların daha çok düzenleyici kurumlarca yazılmasını bekliyor.",
-   "tarih": "2026-11-16T20:07:31.327Z"
-  },
-  {
-   "id": 2277,
-   "metin": "Bullish'in NYSE'de işlem gören BLSH hissesi, Jupiter Lend'de teminat olarak kullanılacak.\n\nSolana'daki (SOL) en büyük işlem platformu Jupiter, izinli özel bir piyasa açacak. Piyasa her bölgede erişilebilir olmayacak, ardından başka ihraççı tokenları da eklenecek.",
-   "tarih": "2026-11-16T19:44:10.526Z"
-  },
-  {
-   "id": 2276,
-   "metin": "Fed Başkanı Kevin Warsh, Fed personelinin yapay zekânın ekonomiye etkisini modellemeye başladığını söyledi.\n\nSenaryolardan birinde yatırımlar beklentiyi karşılamıyor, hisseler düşüyor ve işsizlik artıyor. Warsh bunların tahmin değil, örnek senaryo olduğunu söyledi.",
-   "tarih": "2026-11-16T19:30:03.625Z"
-  },
-  {
-   "id": 2275,
-   "metin": "Kava, HARD Lend'den 53,9 milyon KAVA çalınınca borç verme ve borç alma hizmetini kapatmayı planlıyor.\n\nSaldırı 14 Kasım'daydı; Bitquery'ye göre tokenlerin değeri satıştan önce 3,7 milyon dolardı. Kapatma önerisi yedi günlük yönetişim oylamasından geçmeli.",
-   "tarih": "2026-11-16T18:24:18.124Z"
   }
  ]
 }
