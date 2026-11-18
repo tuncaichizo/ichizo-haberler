@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-18T01:13:17.235Z",
+ "guncelleme": "2026-11-18T09:01:36.365Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2294,
+   "metin": "Anthropic halka arzında 825 milyon A sınıfı hisse sunmayı öneriyor. Bunun 801.351.354'ünü şirket, 23.648.646'sını mevcut hissedarlar satacak.\n\nArthur Hayes, hissedar satışlarının kriptoyu destekleyen dolar likiditesini azaltabileceğini savunuyor. Haber ise hisse çıkış takviminin bunu kaçınılmaz kılmadığını yazıyor.",
+   "tarih": "2026-11-18T06:23:53.436Z"
+  },
+  {
+   "id": 2293,
+   "metin": "Cüzdanları 2020'deki bir Bitstamp çekimine uzanan bir XRP sahibi, üç hafta arayla iki kasaya toplam 281 milyon XRP taşıdı.\n\nCoinler borsalara gitmedi. Hareket, büyük bir yatırımcının çıkışından çok saklama düzenine işaret ediyor.",
+   "tarih": "2026-11-18T05:22:49.036Z"
+  },
   {
    "id": 2292,
    "metin": "Blockaid'e göre B18TimeBank saldırısında 404.540 USDC çekildi.\n\nZincir üstü kayıtlar Base üzerindeki ödemeyi doğruladı. Sonraki kontrolde takas sözleşmesinde yaklaşık 106.785 USDC duruyordu; saldırının durdurulup durdurulmadığı doğrulanmadı.",
@@ -91,16 +101,6 @@
    "id": 2275,
    "metin": "Kava, HARD Lend'den 53,9 milyon KAVA çalınınca borç verme ve borç alma hizmetini kapatmayı planlıyor.\n\nSaldırı 14 Kasım'daydı; Bitquery'ye göre tokenlerin değeri satıştan önce 3,7 milyon dolardı. Kapatma önerisi yedi günlük yönetişim oylamasından geçmeli.",
    "tarih": "2026-11-16T18:24:18.124Z"
-  },
-  {
-   "id": 2274,
-   "metin": "📌 Kanada Merkez Bankası Başkanı Tiff Macklem, görev süresi 2027'de dolunca görevini bırakacak.",
-   "tarih": "2026-11-16T17:24:18.125Z"
-  },
-  {
-   "id": 2273,
-   "metin": "Bitmine 7.653 ETH satın aldı.\n\nTom Lee, kurumsal alandaki gelişmeler iyileşirken Ethereum'un son dönemdeki düşüşünün hızını sorguladı. Lee'ye göre bu sert gerileme temel verilerle örtüşmüyor.",
-   "tarih": "2026-11-16T17:08:43.424Z"
   }
  ]
 }
