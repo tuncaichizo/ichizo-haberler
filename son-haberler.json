@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-11-19T07:49:08.362Z",
+ "guncelleme": "2026-11-19T17:16:26.624Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2322,
+   "metin": "Chainlink (LINK), UBS'le yürüttüğü pilot çalışmada yapılandırılmış notların yönetim sürecini CRE üzerinden Ethereum'da (ETH) otomatikleştirdiğini söyledi.\n\nDijital para ile takas entegrasyonu ise gelecek çalışmalara kaldı.",
+   "tarih": "2026-11-19T14:47:18.416Z"
+  },
+  {
+   "id": 2321,
+   "metin": "⚠️ İran Devrim Muhafızları, Hürmüz Boğazı'nda iki süper tankerin mayına çarptığını açıkladı.",
+   "tarih": "2026-11-19T14:33:05.717Z"
+  },
+  {
+   "id": 2320,
+   "metin": "Trump Media, 884 milyon dolarlık borcu bitcoin (BTC) satmadan kapatmak istiyor.\n\nTruth Social'ın sahibi şirket bu hafta 100 milyon dolarlık dönüştürülebilir tahvili geri aldı. Kalan tahvillerin sahipleri 30 Kasım'da nakit isteyebilir; şirketin bitcoin varlığı 1 milyar doların hemen altında.",
+   "tarih": "2026-11-19T13:32:14.121Z"
+  },
+  {
+   "id": 2319,
+   "metin": "NRW.BANK'ın Ethereum (ETH) tahvili merkez bankası takasına bağlandı.\n\nDZ BANK tahvili Eurosystem'in Pontes pilotunu kullanarak satın aldı. Bankalar işlemin bir saatten kısa sürede tamamlandığını söyledi.",
+   "tarih": "2026-11-19T12:50:16.611Z"
+  },
+  {
+   "id": 2318,
+   "metin": "ABD, dolandırıcılıkla bağlantılı kripto varlıkların izini sürmek için TRM Labs ile birlikte bir siber suç merkezi kurdu.\n\nThreat Disruption Center, soruşturmacıların mağdurların fonlarını izlemesine ve dolandırıcıların kullandığı kripto cüzdanlarını belirlemesine yardım edecek.",
+   "tarih": "2026-11-19T12:08:39.916Z"
+  },
+  {
+   "id": 2317,
+   "metin": "Roundhill, Solana (SOL) ve XRP'den gelir üretmeyi hedefleyen iki ETF planından vazgeçti.\n\nSpot kripto ETF'lerine milyarlarca dolar yatırılırken daha özel stratejilere talep sınırlı kalıyor. Rakip fonlar da düşük talebe işaret ediyor.",
+   "tarih": "2026-11-19T11:09:42.817Z"
+  },
+  {
+   "id": 2316,
+   "metin": "Hong Kong düzenleyicisi SFC, Hyperliquid'in (HYPE) işlem sitesini platform uyarı listesine ekledi.\n\nSFC yatırımcılara, lisanssız platformların kendi denetimi altında olmadığı uyarısında bulundu.",
+   "tarih": "2026-11-19T10:50:16.316Z"
+  },
+  {
+   "id": 2315,
+   "metin": "Anthropic’in rekor kıran halka arzı ve Fed tutanakları piyasaları hareket ettiriyor.",
+   "tarih": "2026-11-19T10:28:50.014Z"
+  },
+  {
+   "id": 2314,
+   "metin": "Singapur Merkez Bankası MAS, 100 milyon Singapur dolarlık (77,5 milyon dolar) tokenize bonoyu toptan CBDC karşılığında bankalara sattı.\n\nBeş bankanın teklifi tutarın iki katını aştı. MAS, test ağını SG Digital Ledger adıyla takas sistemine çevirmeyi planlıyor.",
+   "tarih": "2026-11-19T09:27:56.419Z"
+  },
+  {
+   "id": 2313,
+   "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden çarşamba günü 306,4 milyon dolar net çıkış oldu, toplam varlıkları 77,7 milyar dolarla üç ayın en düşüğüne indi.\n\nBu yılki net çıkış 2,5 milyar doları aştı. Spot Ether ETF'lerinden de yaklaşık 40 milyon dolar çıktı.",
+   "tarih": "2026-11-19T08:45:46.018Z"
+  },
   {
    "id": 2312,
    "metin": "Aave (AAVE) Labs, Android'de erken erişime açtığı Aave App'e 17 Kasım'da Tron (TRX) üzerinden USDT yatırma desteği ekledi.\n\nUygun kullanıcılar tasarruf kasasını USDT ile fonlayabiliyor. Çekim için Arbitrum (ARB) listelendi; Tron'da yerel USDT ödemesi teyit edilmedi.",
@@ -51,56 +101,6 @@
    "id": 2303,
    "metin": "⚠️ Binance, 6,3 milyar dolarlık soygunun ardından dondurulan kripto varlıkları geri almak için mahkeme kararı olduğunu söyledi.",
    "tarih": "2026-11-18T18:50:17.735Z"
-  },
-  {
-   "id": 2302,
-   "metin": "🗣️ Waller, Fed'in agresif adım atmasını destekleyerek şahin (sıkılaştırmacı) bir tutum sergiledi; dolar bu sırada yükselişte.",
-   "tarih": "2026-11-18T17:46:08.135Z"
-  },
-  {
-   "id": 2301,
-   "metin": "Fed Governörü Waller, yüzde 3 düzeyindeki enflasyonu kırmak için 50 baz puanlık faiz artırımı çağrısı yaptı.",
-   "tarih": "2026-11-18T17:42:29.136Z"
-  },
-  {
-   "id": 2300,
-   "metin": "XRPLF'e göre XRP Ledger, GL1 mimari ve dayanıklılık doğrulamasını alan ilk herkese açık, izinsiz blokzincir oldu.\n\nCertiK mimari ve dayanıklılık kanıtlarını bağımsız inceledi. GL1 araç setine göre değerlendirme, GL1 standartlarına uyum anlamına gelmiyor.",
-   "tarih": "2026-11-18T17:24:22.435Z"
-  },
-  {
-   "id": 2299,
-   "metin": "ABD'de ithal sermaye malı fiyatları ekimde yüzde 1,5 artarak, BLS'nin aylık yayına başladığı Aralık 1988'den bu yana en büyük artışı gösterdi.\n\nSanayi üretimi Fed'e göre yüzde 0,4 düşerken, CME'ye göre Aralık'ta çeyrek puanlık faiz artışı ihtimali yüzde 95.",
-   "tarih": "2026-11-18T15:16:48.535Z"
-  },
-  {
-   "id": 2298,
-   "metin": "APT bir haftada yüzde 24 değer kaybederek sonbahar yükselişini sildi.\n\nToken 28 günde yaklaşık yüzde 47 geriledi. Bu kayıp, benzer dönemlerde Bitcoin (BTC), ether, SOL ve SUI'de görülen kayıplardan daha sert.",
-   "tarih": "2026-11-18T13:49:06.135Z"
-  },
-  {
-   "id": 2297,
-   "metin": "Binance, 20 Kasım'da GAS, HIVE, KSM ve ZAMA'nın TRY çiftleriyle HBAR/BNB'yi kaldıracak.\n\nTokenlar başka çiftlerde işlem görmeye devam edecek. Çiftlerdeki botlar da kapanacağı için Binance, kullanıcılardan botlarını önceden güncellemesini ya da iptal etmesini istedi.",
-   "tarih": "2026-11-18T12:03:57.334Z"
-  },
-  {
-   "id": 2296,
-   "metin": "The Graph'te kürasyon yakımı, 300.000 GRT'lik yatırıma rağmen yüzde 1'de kaldı.\n\nLodestar'ın tahminine göre yatırım, bir dağıtımın modellenen indeksleme ödülü payını yüzde 6,2'ye çıkardı. Hakemler yalnızca kendi kendine kürasyon yaptığı için ceza vermeyi reddetti.",
-   "tarih": "2026-11-18T10:44:35.935Z"
-  },
-  {
-   "id": 2295,
-   "metin": "Cardano Foundation, ağın kullanımını artırmak için yaklaşık 25 milyon ADA talep etti.\n\nVakfın CEO'su Frederik Gregaard, 15 Kasım'daki açıklamasında kurucu Charles Hoskinson'ın \"orijinal yol haritası tamamlandı\" sözlerine gelen tepkilere yanıt verdi. Cardano'nun daha güçlü ve daha merkeziyetsiz hale geldiğini savundu, ancak çalışmaların gerçek kullanıma ve sürekli işlem hacmine dönüşmesi gerektiğini de kabul etti.",
-   "tarih": "2026-11-18T09:45:54.934Z"
-  },
-  {
-   "id": 2294,
-   "metin": "Anthropic halka arzında 825 milyon A sınıfı hisse sunmayı öneriyor. Bunun 801.351.354'ünü şirket, 23.648.646'sını mevcut hissedarlar satacak.\n\nArthur Hayes, hissedar satışlarının kriptoyu destekleyen dolar likiditesini azaltabileceğini savunuyor. Haber ise hisse çıkış takviminin bunu kaçınılmaz kılmadığını yazıyor.",
-   "tarih": "2026-11-18T06:23:53.436Z"
-  },
-  {
-   "id": 2293,
-   "metin": "Cüzdanları 2020'deki bir Bitstamp çekimine uzanan bir XRP sahibi, üç hafta arayla iki kasaya toplam 281 milyon XRP taşıdı.\n\nCoinler borsalara gitmedi. Hareket, büyük bir yatırımcının çıkışından çok saklama düzenine işaret ediyor.",
-   "tarih": "2026-11-18T05:22:49.036Z"
   }
  ]
 }
