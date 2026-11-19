@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-19T17:16:26.624Z",
+ "guncelleme": "2026-11-19T23:44:48.112Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2324,
+   "metin": "Kurumsal yatırımcıların spot Bitcoin ETF'lerindeki toplam varlığı üçüncü çeyrekte rekor 356.491 BTC'ye ulaştı. Galaxy Research'e göre 13F bildiren yöneticiler çeyrekte net 49.229 BTC aldı.\n\nWells Fargo 30.553 BTC ile ilk kez en büyük 13F sahibi oldu.",
+   "tarih": "2026-11-19T20:10:08.615Z"
+  },
+  {
+   "id": 2323,
+   "metin": "BlackRock'ın IBIT fonu, çarşamba günü spot Bitcoin (BTC) ETF'lerinden çıkan 306,42 milyon doların 148,66 milyonunu oluşturdu.\n\nAnthropic'in Nasdaq'ta işlem göreceği gün yedi üründe çıkış yaşandı. Kasım'daki toplam çıkış yaklaşık 2,9 milyar dolar.",
+   "tarih": "2026-11-19T18:10:13.316Z"
+  },
   {
    "id": 2322,
    "metin": "Chainlink (LINK), UBS'le yürüttüğü pilot çalışmada yapılandırılmış notların yönetim sürecini CRE üzerinden Ethereum'da (ETH) otomatikleştirdiğini söyledi.\n\nDijital para ile takas entegrasyonu ise gelecek çalışmalara kaldı.",
@@ -91,16 +101,6 @@
    "id": 2305,
    "metin": "🗣️ Fed'den Barr, ekonomi için önümüzdeki dönemde faiz artışlarının büyük olasılıkla gündeme geleceğini söyledi.",
    "tarih": "2026-11-18T20:04:04.933Z"
-  },
-  {
-   "id": 2304,
-   "metin": "Binance'e göre ADGM'nin emri, hack kaynaklı fonların geri alınmasına destek oluyor.\n\nŞirket, hack kayıplarını karşılamak için kendi kaynaklarından 6,34 milyar dolardan fazlasını taahhüt ettikten sonra dondurulan varlıkların peşine düştüğünü söyledi.",
-   "tarih": "2026-11-18T19:28:33.534Z"
-  },
-  {
-   "id": 2303,
-   "metin": "⚠️ Binance, 6,3 milyar dolarlık soygunun ardından dondurulan kripto varlıkları geri almak için mahkeme kararı olduğunu söyledi.",
-   "tarih": "2026-11-18T18:50:17.735Z"
   }
  ]
 }
