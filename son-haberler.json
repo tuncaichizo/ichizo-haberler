@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-19T00:12:02.637Z",
+ "guncelleme": "2026-11-19T07:49:08.362Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2312,
+   "metin": "Aave (AAVE) Labs, Android'de erken erişime açtığı Aave App'e 17 Kasım'da Tron (TRX) üzerinden USDT yatırma desteği ekledi.\n\nUygun kullanıcılar tasarruf kasasını USDT ile fonlayabiliyor. Çekim için Arbitrum (ARB) listelendi; Tron'da yerel USDT ödemesi teyit edilmedi.",
+   "tarih": "2026-11-19T07:45:04.412Z"
+  },
+  {
+   "id": 2311,
+   "metin": "COTI, DJED ve SHEN hizmetlerini yıl sonunda kapatacak; kesinti tarihi 31 Aralık.\n\nCOTI, token sahiplerini 31 Aralık'a kadar harekete geçmeye çağırdı. Önce merkeziyetsiz finans (DeFi) uygulamalarına yatırılan tokenların çekilmesi gerekiyor. Dolaşımda yaklaşık 1 milyon DJED bulunuyor.",
+   "tarih": "2026-11-19T06:23:41.716Z"
+  },
+  {
+   "id": 2310,
+   "metin": "Abu Dhabi'deki bir mahkeme, Binance'in talebi üzerine 6,5 milyar dolarlık dondurma emri çıkardı.\n\nHaber yalnızca bülten özetinde yer aldı; emrin ayrıntıları paylaşılmadı.",
+   "tarih": "2026-11-19T06:07:06.615Z"
+  },
+  {
+   "id": 2309,
+   "metin": "BNB Chain Jenner için tarih belirledi, bir forum analizi ise BEP-706'nın örnek kodunda zaman kontrolünün atlanabileceği riskine işaret etti.\n\nAnalize göre zaman damgası çağrısı başarılı olup veri döndürmezse süresi dolmuş teklifler kontrolü geçebilir.",
+   "tarih": "2026-11-19T05:03:03.716Z"
+  },
+  {
+   "id": 2308,
+   "metin": "Fed tutanaklarına göre, Ekim'de faizi sabit tutmaya oy veren birkaç yetkili kararı \"kıl payı\" bir tercih olarak gördü.\n\nKomite 10-2 oyla faizi yüzde 3,75-4'te tuttu. CME FedWatch, Aralık'ta çeyrek puanlık artırım ihtimalini yaklaşık yüzde 90 görüyor.",
+   "tarih": "2026-11-19T00:44:53.918Z"
+  },
   {
    "id": 2307,
    "metin": "🗣️ Fed toplantı tutanakları, politika yapıcıların finansal sistemdeki risklerden endişe duyduğunu gösterdi.",
@@ -76,31 +101,6 @@
    "id": 2293,
    "metin": "Cüzdanları 2020'deki bir Bitstamp çekimine uzanan bir XRP sahibi, üç hafta arayla iki kasaya toplam 281 milyon XRP taşıdı.\n\nCoinler borsalara gitmedi. Hareket, büyük bir yatırımcının çıkışından çok saklama düzenine işaret ediyor.",
    "tarih": "2026-11-18T05:22:49.036Z"
-  },
-  {
-   "id": 2292,
-   "metin": "Blockaid'e göre B18TimeBank saldırısında 404.540 USDC çekildi.\n\nZincir üstü kayıtlar Base üzerindeki ödemeyi doğruladı. Sonraki kontrolde takas sözleşmesinde yaklaşık 106.785 USDC duruyordu; saldırının durdurulup durdurulmadığı doğrulanmadı.",
-   "tarih": "2026-11-17T20:06:17.533Z"
-  },
-  {
-   "id": 2291,
-   "metin": "Brevan Howard'ın IBIT payı üç katına çıkarak 1,1 milyar dolara ulaştı.\n\nYatırım yöneticisi eylül sonunda 22,4 milyon IBIT hissesi bildirdi; bu, haziran dönemine göre yaklaşık yüzde 211 artış. Ayrı tutulan opsiyon pozisyonları bu toplama dahil değil.",
-   "tarih": "2026-11-17T19:50:33.634Z"
-  },
-  {
-   "id": 2290,
-   "metin": "🗣️ Hammack, Fed'in tahvil piyasasına olası bir müdahaleye piyasalar sakinken hazırlanması gerektiğini söyledi.",
-   "tarih": "2026-11-17T17:28:52.636Z"
-  },
-  {
-   "id": 2289,
-   "metin": "Ripio'ya göre, Arjantin pesosu ve Brezilya reali stablecoin'leri Hyperliquid'de (HYPE) artık USDC karşısında günün 24 saati işlem görüyor.\n\nAçıklamada yeni bir Ripio Trade beta sürümü de yer aldı.",
-   "tarih": "2026-11-17T17:08:10.282Z"
-  },
-  {
-   "id": 2288,
-   "metin": "Rusya'da bireysel yatırımcılar Bitcoin (BTC), ether ve USDT'yi yasal olarak alabiliyor, ancak T-Bank ve VTB hizmeti henüz açmadı.\n\nHer aracıda yıllık alım sınırı 300.000 ruble. T-Bank, Merkez Bankası'nın bilgi testi standardını yayımlamasını bekliyor.",
-   "tarih": "2026-11-17T16:18:53.836Z"
   }
  ]
 }
