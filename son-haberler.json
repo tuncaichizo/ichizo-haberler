@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-18T17:57:00.367Z",
+ "guncelleme": "2026-11-19T00:12:02.637Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2307,
+   "metin": "🗣️ Fed toplantı tutanakları, politika yapıcıların finansal sistemdeki risklerden endişe duyduğunu gösterdi.",
+   "tarih": "2026-11-18T21:29:06.843Z"
+  },
+  {
+   "id": 2306,
+   "metin": "Bundestag, gümrüğe şüpheli kripto varlıkları, kendi cüzdanındakiler dahil, 180 güne kadar dondurma yetkisi veren yasayı 12 Kasım'da kabul etti.\n\nBundesrat onayı ve Federal Kanun Gazetesi'nde yayım henüz tamamlanmadı. Genel ölçüt 100.000 euro üstü varlıklar.",
+   "tarih": "2026-11-18T20:55:11.541Z"
+  },
+  {
+   "id": 2305,
+   "metin": "🗣️ Fed'den Barr, ekonomi için önümüzdeki dönemde faiz artışlarının büyük olasılıkla gündeme geleceğini söyledi.",
+   "tarih": "2026-11-18T20:04:04.933Z"
+  },
+  {
+   "id": 2304,
+   "metin": "Binance'e göre ADGM'nin emri, hack kaynaklı fonların geri alınmasına destek oluyor.\n\nŞirket, hack kayıplarını karşılamak için kendi kaynaklarından 6,34 milyar dolardan fazlasını taahhüt ettikten sonra dondurulan varlıkların peşine düştüğünü söyledi.",
+   "tarih": "2026-11-18T19:28:33.534Z"
+  },
+  {
+   "id": 2303,
+   "metin": "⚠️ Binance, 6,3 milyar dolarlık soygunun ardından dondurulan kripto varlıkları geri almak için mahkeme kararı olduğunu söyledi.",
+   "tarih": "2026-11-18T18:50:17.735Z"
+  },
   {
    "id": 2302,
    "metin": "🗣️ Waller, Fed'in agresif adım atmasını destekleyerek şahin (sıkılaştırmacı) bir tutum sergiledi; dolar bu sırada yükselişte.",
@@ -76,31 +101,6 @@
    "id": 2288,
    "metin": "Rusya'da bireysel yatırımcılar Bitcoin (BTC), ether ve USDT'yi yasal olarak alabiliyor, ancak T-Bank ve VTB hizmeti henüz açmadı.\n\nHer aracıda yıllık alım sınırı 300.000 ruble. T-Bank, Merkez Bankası'nın bilgi testi standardını yayımlamasını bekliyor.",
    "tarih": "2026-11-17T16:18:53.836Z"
-  },
-  {
-   "id": 2287,
-   "metin": "Crossmint, Solana (SOL) üzerindeki özel bakiyeler için fiat (banka parası) ile fonlama desteği ekledi.\n\nABD dışındaki uygun alıcılar USDC ve EURC'yi doğrudan Helius Privacy Rings'e yatırabiliyor, ancak yatırma ayrıntıları herkese açık kalıyor.",
-   "tarih": "2026-11-17T15:54:23.233Z"
-  },
-  {
-   "id": 2286,
-   "metin": "Goldman Sachs'ın spot Bitcoin (BTC) ETF varlıkları üçüncü çeyrekte iki katından fazla artarak yaklaşık 1,28 milyar dolara çıktı.\n\nArtışı Fidelity fonundaki 52 katlık sıçrama taşıdı. Banka aynı dönemde Strategy (MSTR) hissesindeki payını yarıdan fazla azalttı.",
-   "tarih": "2026-11-17T15:31:01.644Z"
-  },
-  {
-   "id": 2285,
-   "metin": "Coinbase, ChatGPT içinden kullanıcı onaylı işlem yapmayı sağlayan resmî eklentiyi kullanıma açtı.\n\nEklenti ABD'deki Coinbase kullanıcılarına açık ve hesabın uygunluğuna bağlı. Emir verme, emri düzenleme ve iptal etme için kullanıcının onayı gerekiyor.",
-   "tarih": "2026-11-17T14:44:51.640Z"
-  },
-  {
-   "id": 2284,
-   "metin": "Fed Guvernörü Waller, tokenlaştırılmış piyasalarda geleneksel altyapıyı destekledi; programlanabilir paranın geleneksel takasla birlikte var olabileceğini söyledi.\n\nWaller'a göre kurumlar likiditeyi korumak istediğinde netleştirme (işlemleri karşılıklı mahsup etme) hâlâ işe yarıyor.",
-   "tarih": "2026-11-17T14:37:10.639Z"
-  },
-  {
-   "id": 2283,
-   "metin": "Cardano Foundation, 2027'de 12 konferansa katılmak için topluluk hazinesinden 5 milyon dolarlık hibe istedi. Vakıf bunun için 25.995.775 ADA çekmek istiyor.\n\nBütçe ADA'yı piyasa değerinin yaklaşık yüzde 33 üzerinden hesaplıyor. Bu fark topluluk temsilcilerinde endişe yarattı.",
-   "tarih": "2026-11-17T11:27:33.725Z"
   }
  ]
 }
