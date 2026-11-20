@@ -1,7 +1,27 @@
 {
- "guncelleme": "2026-11-20T16:01:21.252Z",
+ "guncelleme": "2026-11-20T22:35:48.831Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2333,
+   "metin": "Ethereum'un (ETH) büyük güncellemesi Glamsterdam 2027'ye kaydı. Geliştiriciler en erken çıkış tarihinin Ocak olduğunu söylüyor.\n\nGüncelleme başta Aralık için hedefleniyordu. Güncellemenin bozacağı uygulamalar var; şirketler etkilenen akıllı sözleşmeleri düzeltmeye çalışıyor.",
+   "tarih": "2026-11-20T19:10:20.114Z"
+  },
+  {
+   "id": 2332,
+   "metin": "LayerZero, ZRO stake etme (coin kilitleyip getiri alma) başlangıcını Zero öncesinde 23 Kasım olarak belirledi.\n\nÖdüller yeni ZRO ihracından gelecek, erken çıkış olmayacak. Koşullara göre kilidin 31 Mart 2027'ye kadar açılması bekleniyor, ancak zamanlama değişebilir.",
+   "tarih": "2026-11-20T17:28:12.056Z"
+  },
+  {
+   "id": 2331,
+   "metin": "Deribit, platformdaki sorunları incelemek için işlemleri durdurdu.\n\nBorsa, ET saatiyle 11.17'de bir olay kaydı oluşturdu. İşlem ekranındaki mesaja göre müşteriler açık emirlerini iptal edebiliyor.",
+   "tarih": "2026-11-20T16:44:34.113Z"
+  },
+  {
+   "id": 2330,
+   "metin": "🗣️ Bessent, enerji şokunu gerekçe göstererek Fed'in daha düşük bir faiz artışı yapmasını savundu.",
+   "tarih": "2026-11-20T16:06:46.414Z"
+  },
   {
    "id": 2329,
    "metin": "Temsilciler Meclisi Üyesi Steven Horsford, iki partili kripto vergi tasarısının mevcut Kongre dönemi sona ermeden Meclis'ten geçebileceğini söyledi.\n\nHorsford, tasarının Temsilciler Meclisi'nde oylanması için bir fırsat görüyor.",
@@ -81,26 +101,6 @@
    "id": 2314,
    "metin": "Singapur Merkez Bankası MAS, 100 milyon Singapur dolarlık (77,5 milyon dolar) tokenize bonoyu toptan CBDC karşılığında bankalara sattı.\n\nBeş bankanın teklifi tutarın iki katını aştı. MAS, test ağını SG Digital Ledger adıyla takas sistemine çevirmeyi planlıyor.",
    "tarih": "2026-11-19T09:27:56.419Z"
-  },
-  {
-   "id": 2313,
-   "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden çarşamba günü 306,4 milyon dolar net çıkış oldu, toplam varlıkları 77,7 milyar dolarla üç ayın en düşüğüne indi.\n\nBu yılki net çıkış 2,5 milyar doları aştı. Spot Ether ETF'lerinden de yaklaşık 40 milyon dolar çıktı.",
-   "tarih": "2026-11-19T08:45:46.018Z"
-  },
-  {
-   "id": 2312,
-   "metin": "Aave (AAVE) Labs, Android'de erken erişime açtığı Aave App'e 17 Kasım'da Tron (TRX) üzerinden USDT yatırma desteği ekledi.\n\nUygun kullanıcılar tasarruf kasasını USDT ile fonlayabiliyor. Çekim için Arbitrum (ARB) listelendi; Tron'da yerel USDT ödemesi teyit edilmedi.",
-   "tarih": "2026-11-19T07:45:04.412Z"
-  },
-  {
-   "id": 2311,
-   "metin": "COTI, DJED ve SHEN hizmetlerini yıl sonunda kapatacak; kesinti tarihi 31 Aralık.\n\nCOTI, token sahiplerini 31 Aralık'a kadar harekete geçmeye çağırdı. Önce merkeziyetsiz finans (DeFi) uygulamalarına yatırılan tokenların çekilmesi gerekiyor. Dolaşımda yaklaşık 1 milyon DJED bulunuyor.",
-   "tarih": "2026-11-19T06:23:41.716Z"
-  },
-  {
-   "id": 2310,
-   "metin": "Abu Dhabi'deki bir mahkeme, Binance'in talebi üzerine 6,5 milyar dolarlık dondurma emri çıkardı.\n\nHaber yalnızca bülten özetinde yer aldı; emrin ayrıntıları paylaşılmadı.",
-   "tarih": "2026-11-19T06:07:06.615Z"
   }
  ]
 }
