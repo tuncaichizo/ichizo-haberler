@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-19T23:44:48.112Z",
+ "guncelleme": "2026-11-20T06:57:51.928Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2325,
+   "metin": "Çin Merkez Bankası, kilit kredi faizlerini Cuma günü üst üste 18. ayda da sabit bıraktı.\n\nBir yıllık faiz yüzde 3,0'da, mortgage faizlerine ölçü olan beş yıllık faiz yüzde 3,50'de kaldı. Karar beklentilerle uyumluydu.",
+   "tarih": "2026-11-20T06:25:12.213Z"
+  },
   {
    "id": 2324,
    "metin": "Kurumsal yatırımcıların spot Bitcoin ETF'lerindeki toplam varlığı üçüncü çeyrekte rekor 356.491 BTC'ye ulaştı. Galaxy Research'e göre 13F bildiren yöneticiler çeyrekte net 49.229 BTC aldı.\n\nWells Fargo 30.553 BTC ile ilk kez en büyük 13F sahibi oldu.",
@@ -96,11 +101,6 @@
    "id": 2306,
    "metin": "Bundestag, gümrüğe şüpheli kripto varlıkları, kendi cüzdanındakiler dahil, 180 güne kadar dondurma yetkisi veren yasayı 12 Kasım'da kabul etti.\n\nBundesrat onayı ve Federal Kanun Gazetesi'nde yayım henüz tamamlanmadı. Genel ölçüt 100.000 euro üstü varlıklar.",
    "tarih": "2026-11-18T20:55:11.541Z"
-  },
-  {
-   "id": 2305,
-   "metin": "🗣️ Fed'den Barr, ekonomi için önümüzdeki dönemde faiz artışlarının büyük olasılıkla gündeme geleceğini söyledi.",
-   "tarih": "2026-11-18T20:04:04.933Z"
   }
  ]
 }
