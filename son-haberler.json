@@ -1,7 +1,27 @@
 {
- "guncelleme": "2026-11-20T06:57:51.928Z",
+ "guncelleme": "2026-11-20T16:01:21.252Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2329,
+   "metin": "Temsilciler Meclisi Üyesi Steven Horsford, iki partili kripto vergi tasarısının mevcut Kongre dönemi sona ermeden Meclis'ten geçebileceğini söyledi.\n\nHorsford, tasarının Temsilciler Meclisi'nde oylanması için bir fırsat görüyor.",
+   "tarih": "2026-11-20T15:29:41.523Z"
+  },
+  {
+   "id": 2328,
+   "metin": "📊 ABD'deki spot Bitcoin (BTC) Borsa Yatırım Fonları (ETF) günlük bazda 582 milyon dolar net çıkış gördü; kasım ayındaki toplam net çıkış 3,5 milyar dolara yaklaştı.",
+   "tarih": "2026-11-20T12:39:43.513Z"
+  },
+  {
+   "id": 2327,
+   "metin": "📰 ABD Kongresi, hükümetin kapanmasını önlemekte zorlanıyor; İran savaşı konusunda milletvekilleri arasında görüş ayrılığı var.",
+   "tarih": "2026-11-20T11:32:52.413Z"
+  },
+  {
+   "id": 2326,
+   "metin": "Bitcoin (BTC) cuma sabahı yaklaşık 61.300 dolara inerek temmuz başından bu yana en düşük seviyeyi gördü.\n\nDört saatte 175 milyon dolardan fazla kaldıraçlı uzun pozisyon tasfiye edildi. Kore borsası, KOSPI'nin yüzde 5 düşmesi üzerine program satışlarını beş dakika durdurdu.",
+   "tarih": "2026-11-20T07:25:30.319Z"
+  },
   {
    "id": 2325,
    "metin": "Çin Merkez Bankası, kilit kredi faizlerini Cuma günü üst üste 18. ayda da sabit bıraktı.\n\nBir yıllık faiz yüzde 3,0'da, mortgage faizlerine ölçü olan beş yıllık faiz yüzde 3,50'de kaldı. Karar beklentilerle uyumluydu.",
@@ -81,26 +101,6 @@
    "id": 2310,
    "metin": "Abu Dhabi'deki bir mahkeme, Binance'in talebi üzerine 6,5 milyar dolarlık dondurma emri çıkardı.\n\nHaber yalnızca bülten özetinde yer aldı; emrin ayrıntıları paylaşılmadı.",
    "tarih": "2026-11-19T06:07:06.615Z"
-  },
-  {
-   "id": 2309,
-   "metin": "BNB Chain Jenner için tarih belirledi, bir forum analizi ise BEP-706'nın örnek kodunda zaman kontrolünün atlanabileceği riskine işaret etti.\n\nAnalize göre zaman damgası çağrısı başarılı olup veri döndürmezse süresi dolmuş teklifler kontrolü geçebilir.",
-   "tarih": "2026-11-19T05:03:03.716Z"
-  },
-  {
-   "id": 2308,
-   "metin": "Fed tutanaklarına göre, Ekim'de faizi sabit tutmaya oy veren birkaç yetkili kararı \"kıl payı\" bir tercih olarak gördü.\n\nKomite 10-2 oyla faizi yüzde 3,75-4'te tuttu. CME FedWatch, Aralık'ta çeyrek puanlık artırım ihtimalini yaklaşık yüzde 90 görüyor.",
-   "tarih": "2026-11-19T00:44:53.918Z"
-  },
-  {
-   "id": 2307,
-   "metin": "🗣️ Fed toplantı tutanakları, politika yapıcıların finansal sistemdeki risklerden endişe duyduğunu gösterdi.",
-   "tarih": "2026-11-18T21:29:06.843Z"
-  },
-  {
-   "id": 2306,
-   "metin": "Bundestag, gümrüğe şüpheli kripto varlıkları, kendi cüzdanındakiler dahil, 180 güne kadar dondurma yetkisi veren yasayı 12 Kasım'da kabul etti.\n\nBundesrat onayı ve Federal Kanun Gazetesi'nde yayım henüz tamamlanmadı. Genel ölçüt 100.000 euro üstü varlıklar.",
-   "tarih": "2026-11-18T20:55:11.541Z"
   }
  ]
 }
