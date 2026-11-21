@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-21T11:39:21.350Z",
+ "guncelleme": "2026-11-21T19:03:30.645Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2337,
+   "metin": "⚠️ İran, bir ABD F-16 savaş uçağına hasar verdiğini ve drone düşürdüğünü öne sürdü. Aynı sırada Umman açıklarında tankerler vuruldu.",
+   "tarih": "2026-11-21T14:25:15.116Z"
+  },
   {
    "id": 2336,
    "metin": "Aave (AAVE) oy verenleri, V3 Core piyasasında kabul edilen teminat çeşitlerini daraltan öneriyi destekledi.\n\nMevcut krediler açık kalacak. LlamaRisk'in planı borçlananları teminat olarak kalan varlıklara ya da Aave V4'e yönlendiriyor.",
@@ -96,11 +101,6 @@
    "id": 2318,
    "metin": "ABD, dolandırıcılıkla bağlantılı kripto varlıkların izini sürmek için TRM Labs ile birlikte bir siber suç merkezi kurdu.\n\nThreat Disruption Center, soruşturmacıların mağdurların fonlarını izlemesine ve dolandırıcıların kullandığı kripto cüzdanlarını belirlemesine yardım edecek.",
    "tarih": "2026-11-19T12:08:39.916Z"
-  },
-  {
-   "id": 2317,
-   "metin": "Roundhill, Solana (SOL) ve XRP'den gelir üretmeyi hedefleyen iki ETF planından vazgeçti.\n\nSpot kripto ETF'lerine milyarlarca dolar yatırılırken daha özel stratejilere talep sınırlı kalıyor. Rakip fonlar da düşük talebe işaret ediyor.",
-   "tarih": "2026-11-19T11:09:42.817Z"
   }
  ]
 }
