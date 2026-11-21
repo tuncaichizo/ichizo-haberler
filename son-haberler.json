@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-21T19:03:30.645Z",
+ "guncelleme": "2026-11-21T23:45:03.489Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2340,
+   "metin": "⚠️ Bahreyn, bir sanayi tesisine düzenlenen saldırıdan İran'ı sorumlu tuttu.\n\n- ABD Başkanı Donald Trump \"kalıcı\" bir anlaşma istiyor.",
+   "tarih": "2026-11-21T20:44:43.142Z"
+  },
+  {
+   "id": 2339,
+   "metin": "Rus borsaları, merkez bankası kuralları onaylarsa 22 Kasım'dan itibaren Bitcoin (BTC) işlemine başlayabilecek.\n\nMoscow Exchange 1 Aralık'ta pilot başlatmayı planlıyor. Bireysel yatırımcı aracı kurum başına yılda 300.000 rubleye kadar alabilecek; ödemede kullanım yasak.",
+   "tarih": "2026-11-21T20:11:14.715Z"
+  },
+  {
+   "id": 2338,
+   "metin": "Güney Koreli borsalar Upbit ve Bithumb, şüpheli bir güvenlik olayı gerekçesiyle CYBER'in yatırma ve çekme işlemlerini durdurdu.\n\nCyber, 1 milyon dolarlık olduğu düşünülen şüpheli köprü saldırısını inceliyor.",
+   "tarih": "2026-11-21T19:27:18.515Z"
+  },
   {
    "id": 2337,
    "metin": "⚠️ İran, bir ABD F-16 savaş uçağına hasar verdiğini ve drone düşürdüğünü öne sürdü. Aynı sırada Umman açıklarında tankerler vuruldu.",
@@ -86,21 +101,6 @@
    "id": 2321,
    "metin": "⚠️ İran Devrim Muhafızları, Hürmüz Boğazı'nda iki süper tankerin mayına çarptığını açıkladı.",
    "tarih": "2026-11-19T14:33:05.717Z"
-  },
-  {
-   "id": 2320,
-   "metin": "Trump Media, 884 milyon dolarlık borcu bitcoin (BTC) satmadan kapatmak istiyor.\n\nTruth Social'ın sahibi şirket bu hafta 100 milyon dolarlık dönüştürülebilir tahvili geri aldı. Kalan tahvillerin sahipleri 30 Kasım'da nakit isteyebilir; şirketin bitcoin varlığı 1 milyar doların hemen altında.",
-   "tarih": "2026-11-19T13:32:14.121Z"
-  },
-  {
-   "id": 2319,
-   "metin": "NRW.BANK'ın Ethereum (ETH) tahvili merkez bankası takasına bağlandı.\n\nDZ BANK tahvili Eurosystem'in Pontes pilotunu kullanarak satın aldı. Bankalar işlemin bir saatten kısa sürede tamamlandığını söyledi.",
-   "tarih": "2026-11-19T12:50:16.611Z"
-  },
-  {
-   "id": 2318,
-   "metin": "ABD, dolandırıcılıkla bağlantılı kripto varlıkların izini sürmek için TRM Labs ile birlikte bir siber suç merkezi kurdu.\n\nThreat Disruption Center, soruşturmacıların mağdurların fonlarını izlemesine ve dolandırıcıların kullandığı kripto cüzdanlarını belirlemesine yardım edecek.",
-   "tarih": "2026-11-19T12:08:39.916Z"
   }
  ]
 }
