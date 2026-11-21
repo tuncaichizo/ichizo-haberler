@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-20T22:35:48.831Z",
+ "guncelleme": "2026-11-21T11:39:21.350Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2336,
+   "metin": "Aave (AAVE) oy verenleri, V3 Core piyasasında kabul edilen teminat çeşitlerini daraltan öneriyi destekledi.\n\nMevcut krediler açık kalacak. LlamaRisk'in planı borçlananları teminat olarak kalan varlıklara ya da Aave V4'e yönlendiriyor.",
+   "tarih": "2026-11-21T09:25:30.116Z"
+  },
+  {
+   "id": 2335,
+   "metin": "Bitcoin (BTC), Coinbase'te 55.106 dolara inerek Eylül 2024'ten bu yana en düşük seviyeyi gördü.\n\nCoinbase'teki dip, bitcoini 21 Ekim'deki gün içi zirvenin yüzde 35,1 altında bıraktı. Kraken'da aynı dakikada 55.100 dolar kaydedildi.",
+   "tarih": "2026-11-21T07:23:38.116Z"
+  },
+  {
+   "id": 2334,
+   "metin": "Kripto borsalarında 24 saatte 1,76 milyar dolarlık tasfiye yaşandı; Bitcoin (BTC) pozisyonlarının yanında Nvidia ve SanDisk bahisleri de bu tutarın içinde yer aldı.\n\nBazı kripto yatırımcıları Wall Street'e hiç girmeden çip hisselerinde para kaybetti.",
+   "tarih": "2026-11-21T05:07:55.916Z"
+  },
   {
    "id": 2333,
    "metin": "Ethereum'un (ETH) büyük güncellemesi Glamsterdam 2027'ye kaydı. Geliştiriciler en erken çıkış tarihinin Ocak olduğunu söylüyor.\n\nGüncelleme başta Aralık için hedefleniyordu. Güncellemenin bozacağı uygulamalar var; şirketler etkilenen akıllı sözleşmeleri düzeltmeye çalışıyor.",
@@ -86,21 +101,6 @@
    "id": 2317,
    "metin": "Roundhill, Solana (SOL) ve XRP'den gelir üretmeyi hedefleyen iki ETF planından vazgeçti.\n\nSpot kripto ETF'lerine milyarlarca dolar yatırılırken daha özel stratejilere talep sınırlı kalıyor. Rakip fonlar da düşük talebe işaret ediyor.",
    "tarih": "2026-11-19T11:09:42.817Z"
-  },
-  {
-   "id": 2316,
-   "metin": "Hong Kong düzenleyicisi SFC, Hyperliquid'in (HYPE) işlem sitesini platform uyarı listesine ekledi.\n\nSFC yatırımcılara, lisanssız platformların kendi denetimi altında olmadığı uyarısında bulundu.",
-   "tarih": "2026-11-19T10:50:16.316Z"
-  },
-  {
-   "id": 2315,
-   "metin": "Anthropic’in rekor kıran halka arzı ve Fed tutanakları piyasaları hareket ettiriyor.",
-   "tarih": "2026-11-19T10:28:50.014Z"
-  },
-  {
-   "id": 2314,
-   "metin": "Singapur Merkez Bankası MAS, 100 milyon Singapur dolarlık (77,5 milyon dolar) tokenize bonoyu toptan CBDC karşılığında bankalara sattı.\n\nBeş bankanın teklifi tutarın iki katını aştı. MAS, test ağını SG Digital Ledger adıyla takas sistemine çevirmeyi planlıyor.",
-   "tarih": "2026-11-19T09:27:56.419Z"
   }
  ]
 }
