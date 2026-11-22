@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-21T23:45:03.489Z",
+ "guncelleme": "2026-11-22T14:49:54.843Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2342,
+   "metin": "Deribit'in 20 Kasım'daki kesintisi, Coinbase üzerinden BTC ve ETH vadesiz vadeli işlemlerle risk dengeleyenleri de etkiledi; işlem iki kez durdu.\n\nEmirler iki arayüzde de Deribit'te eşleştiği için geçiş çare olmadı. Coinbase'e göre ABD türevleri etkilenmedi.",
+   "tarih": "2026-11-22T14:30:58.015Z"
+  },
+  {
+   "id": 2341,
+   "metin": "Rich Dad, Poor Dad yazarı Robert Kiyosaki, Bitcoin'deki sert düşüşün ardından daha fazla BTC almak için fırsat beklediğini söyledi.\n\nKiyosaki, Bitcoin'in 21 milyonluk sabit arzını gerekçe gösterdi. Düşüşte \"zayıf ellerin\" sattığını, güçlü yatırımcıların ise beklediğini yazdı.",
+   "tarih": "2026-11-22T10:07:22.831Z"
+  },
   {
    "id": 2340,
    "metin": "⚠️ Bahreyn, bir sanayi tesisine düzenlenen saldırıdan İran'ı sorumlu tuttu.\n\n- ABD Başkanı Donald Trump \"kalıcı\" bir anlaşma istiyor.",
@@ -91,16 +101,6 @@
    "id": 2323,
    "metin": "BlackRock'ın IBIT fonu, çarşamba günü spot Bitcoin (BTC) ETF'lerinden çıkan 306,42 milyon doların 148,66 milyonunu oluşturdu.\n\nAnthropic'in Nasdaq'ta işlem göreceği gün yedi üründe çıkış yaşandı. Kasım'daki toplam çıkış yaklaşık 2,9 milyar dolar.",
    "tarih": "2026-11-19T18:10:13.316Z"
-  },
-  {
-   "id": 2322,
-   "metin": "Chainlink (LINK), UBS'le yürüttüğü pilot çalışmada yapılandırılmış notların yönetim sürecini CRE üzerinden Ethereum'da (ETH) otomatikleştirdiğini söyledi.\n\nDijital para ile takas entegrasyonu ise gelecek çalışmalara kaldı.",
-   "tarih": "2026-11-19T14:47:18.416Z"
-  },
-  {
-   "id": 2321,
-   "metin": "⚠️ İran Devrim Muhafızları, Hürmüz Boğazı'nda iki süper tankerin mayına çarptığını açıkladı.",
-   "tarih": "2026-11-19T14:33:05.717Z"
   }
  ]
 }
