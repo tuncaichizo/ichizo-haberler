@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-22T14:49:54.843Z",
+ "guncelleme": "2026-11-22T20:59:21.319Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2345,
+   "metin": "Blur, güncellemeleri devre dışı bırakarak 545,6 ETH için bir kurtarma yolunu kapattı.\n\nGeliştirici Quit, bu tutarı doğrudan çekim yolu bulunmayan 315 sözleşmede tespit etti. Normal cüzdan çekimleri açık kalıyor.",
+   "tarih": "2026-11-22T19:48:55.614Z"
+  },
+  {
+   "id": 2344,
+   "metin": "İngiltere'de düzenleyici kurum FCA'nın nihai kuralları, kripto platformu işletenlerin kendi borsalarında piyasa yapıcılık yapmasını yasaklıyor.\n\nÜçüncü taraf firmalar ise 25 Ekim 2027'den itibaren spot Bitcoin (BTC) dahil bu işi, kendi adına alım satım izni almadan yapabilecek.",
+   "tarih": "2026-11-22T19:28:31.839Z"
+  },
+  {
+   "id": 2343,
+   "metin": "Spot Bitcoin (BTC) ETF'lerinde çıkışlar bir hafta daha milyarlarca dolar düzeyinde sürdü; Cuma günü tek başına 582,19 milyon dolar çıktı. Haftanın tek net girişi 8 milyon dolarda kaldı.\n\nEthereum (ETH) ETF'leri ise üst üste sekizinci haftayı net çıkışla kapattı.",
+   "tarih": "2026-11-22T18:32:06.014Z"
+  },
   {
    "id": 2342,
    "metin": "Deribit'in 20 Kasım'daki kesintisi, Coinbase üzerinden BTC ve ETH vadesiz vadeli işlemlerle risk dengeleyenleri de etkiledi; işlem iki kez durdu.\n\nEmirler iki arayüzde de Deribit'te eşleştiği için geçiş çare olmadı. Coinbase'e göre ABD türevleri etkilenmedi.",
@@ -86,21 +101,6 @@
    "id": 2326,
    "metin": "Bitcoin (BTC) cuma sabahı yaklaşık 61.300 dolara inerek temmuz başından bu yana en düşük seviyeyi gördü.\n\nDört saatte 175 milyon dolardan fazla kaldıraçlı uzun pozisyon tasfiye edildi. Kore borsası, KOSPI'nin yüzde 5 düşmesi üzerine program satışlarını beş dakika durdurdu.",
    "tarih": "2026-11-20T07:25:30.319Z"
-  },
-  {
-   "id": 2325,
-   "metin": "Çin Merkez Bankası, kilit kredi faizlerini Cuma günü üst üste 18. ayda da sabit bıraktı.\n\nBir yıllık faiz yüzde 3,0'da, mortgage faizlerine ölçü olan beş yıllık faiz yüzde 3,50'de kaldı. Karar beklentilerle uyumluydu.",
-   "tarih": "2026-11-20T06:25:12.213Z"
-  },
-  {
-   "id": 2324,
-   "metin": "Kurumsal yatırımcıların spot Bitcoin ETF'lerindeki toplam varlığı üçüncü çeyrekte rekor 356.491 BTC'ye ulaştı. Galaxy Research'e göre 13F bildiren yöneticiler çeyrekte net 49.229 BTC aldı.\n\nWells Fargo 30.553 BTC ile ilk kez en büyük 13F sahibi oldu.",
-   "tarih": "2026-11-19T20:10:08.615Z"
-  },
-  {
-   "id": 2323,
-   "metin": "BlackRock'ın IBIT fonu, çarşamba günü spot Bitcoin (BTC) ETF'lerinden çıkan 306,42 milyon doların 148,66 milyonunu oluşturdu.\n\nAnthropic'in Nasdaq'ta işlem göreceği gün yedi üründe çıkış yaşandı. Kasım'daki toplam çıkış yaklaşık 2,9 milyar dolar.",
-   "tarih": "2026-11-19T18:10:13.316Z"
   }
  ]
 }
