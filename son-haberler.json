@@ -1,7 +1,62 @@
 {
- "guncelleme": "2026-11-23T09:40:56.977Z",
+ "guncelleme": "2026-11-23T21:58:57.144Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2359,
+   "metin": "ABD mahkemesi, Binance'teki hesap dondurma kararını 17 Aralık'a kadar uzattı.\n\nBinance, etkilenen fonları tek başına serbest bırakamayacağını söyledi. Davacıların bildiriminde avukatla iletişime geçmek için istenen tarih hâlâ 24 Kasım olarak yer alıyor.",
+   "tarih": "2026-11-23T20:10:38.715Z"
+  },
+  {
+   "id": 2358,
+   "metin": "AB, Rusya'ya yönelik 22. yaptırım paketinde yeni kripto kısıtlamaları öneriyor.\n\nÖnerilen paket, işlem yasaklarını yaklaşık 60 Rus bankasına da yaymayı öngörüyor. AB bu ayın başında kripto yaptırımları için bir görev gücü açıklamıştı.",
+   "tarih": "2026-11-23T18:50:57.407Z"
+  },
+  {
+   "id": 2357,
+   "metin": "Nvidia hissesi, yönetim kurulunun Jensen Huang'ı yeniden başkan ve CEO yapmasının ardından pazartesi sabahı yaklaşık yüzde 35 yükseldi.\n\nKripto bağlantılı hisselerde Strategy yaklaşık yüzde 13, Coinbase yüzde 9, madenci IREN ise yüzde 31 arttı.",
+   "tarih": "2026-11-23T16:45:58.656Z"
+  },
+  {
+   "id": 2356,
+   "metin": "DeFi Development üst üste 11. haftada da Solana alarak yaklaşık 5.180 SOL ekledi ve hazinesindeki toplam SOL miktarını 2,62 milyona çıkardı.\n\nŞirketin haftalık alım serisi 14 Eylül'den bu yana sürüyor.",
+   "tarih": "2026-11-23T16:26:47.227Z"
+  },
+  {
+   "id": 2355,
+   "metin": "📊 Truflation'a göre Fed'in tercih ettiği enflasyon göstergesi, fiyat artışlarının Fed'in hedefinin çok üzerinde seyrettiğini gösterecek.",
+   "tarih": "2026-11-23T16:06:24.314Z"
+  },
+  {
+   "id": 2354,
+   "metin": "Bitmine geçen hafta 7.819 ETH daha satın alarak elindeki Ethereum'u toplam arzın yüzde 4,98'ine çıkardı.\n\nEthereum varlık şirketi Bitmine'ın kasasında şimdi 6.085.564 ETH var. Bunun 5.227.037 ETH'si stake edilmiş durumda (coin kilitleyip getiri alma).",
+   "tarih": "2026-11-23T14:44:01.613Z"
+  },
+  {
+   "id": 2353,
+   "metin": "Eric Trump'ın kurucu ortağı olduğu madenci American Bitcoin, elindeki Bitcoin'in bir kısmını teminat göstererek FalconX'ten 150 milyon dolarlık kredi limiti aldı.\n\nŞirket, bu kaynağı Bitcoin satmadan kullanabileceğini bildirdi; üçüncü çeyrekte giderler için 465 BTC satmıştı.",
+   "tarih": "2026-11-23T14:33:54.813Z"
+  },
+  {
+   "id": 2352,
+   "metin": "Chainflip 10 hafta içinde ikinci kez hacklendi; 21 Kasım'da kasalardan 12 milyon dolar çalındı.\n\nChainflip, saldırgana 110,575 BTC ve 2.618,1 ETH'i geri vermesi halinde yüzde 10 ödül önerdi. Kurucu Simon Harman, ağın toparlanabileceğinden nispeten emin.",
+   "tarih": "2026-11-23T14:06:02.614Z"
+  },
+  {
+   "id": 2351,
+   "metin": "Sky'ın stUSDS oranları yüzde 50'ye yaklaşırken çekim sıkışıklığı sürüyor. Borç verme havuzu hâlâ tam doluluk gösteriyor ve çekilebilir likidite yok.\n\nBir stUSDS sahibi yönetişimden çekim planı ve geri ödemelere adil erişim istedi.",
+   "tarih": "2026-11-23T11:26:29.913Z"
+  },
+  {
+   "id": 2350,
+   "metin": "Güney Kore'nin önerdiği tedbirler, kripto hesaplarının dondurulmasını genişletmeyi ve yurt dışına yapılan yasa dışı transferleri sınırlamayı hedefliyor.\n\nHaziran'daki kimlik avı hesaplarını askıya alma sistemi şimdiye kadar 11.500'den fazla hesabı dondurdu. Öneri, bu sistemi diğer ciddi mali suçları da kapsayacak şekilde genişletmeyi içeriyor.",
+   "tarih": "2026-11-23T11:06:56.214Z"
+  },
+  {
+   "id": 2349,
+   "metin": "ECB Yönetim Konseyi, DLT Pilot Rejimi'yle lisanslı dağıtık defter platformlarında ihraç edilen varlıkları Eurosystem kredi işlemlerinde teminat olarak kabul etmeyi onayladı.\n\nŞartların ayrıntılarının 2027 baharında duyurulması bekleniyor, uygulama Haziran 2027 için planlanıyor.",
+   "tarih": "2026-11-23T10:30:09.014Z"
+  },
   {
    "id": 2348,
    "metin": "ABD'deki Bitcoin ETF'leri bir haftada 1,79 milyar dolarlık çıkış yaşadı.\n\nBlackRock'ın IBIT fonu çıkışları başı çekerken Morgan Stanley'nin Bitcoin (BTC) fonu alım yapmaya devam etti.",
@@ -46,61 +101,6 @@
    "id": 2340,
    "metin": "⚠️ Bahreyn, bir sanayi tesisine düzenlenen saldırıdan İran'ı sorumlu tuttu.\n\n- ABD Başkanı Donald Trump \"kalıcı\" bir anlaşma istiyor.",
    "tarih": "2026-11-21T20:44:43.142Z"
-  },
-  {
-   "id": 2339,
-   "metin": "Rus borsaları, merkez bankası kuralları onaylarsa 22 Kasım'dan itibaren Bitcoin (BTC) işlemine başlayabilecek.\n\nMoscow Exchange 1 Aralık'ta pilot başlatmayı planlıyor. Bireysel yatırımcı aracı kurum başına yılda 300.000 rubleye kadar alabilecek; ödemede kullanım yasak.",
-   "tarih": "2026-11-21T20:11:14.715Z"
-  },
-  {
-   "id": 2338,
-   "metin": "Güney Koreli borsalar Upbit ve Bithumb, şüpheli bir güvenlik olayı gerekçesiyle CYBER'in yatırma ve çekme işlemlerini durdurdu.\n\nCyber, 1 milyon dolarlık olduğu düşünülen şüpheli köprü saldırısını inceliyor.",
-   "tarih": "2026-11-21T19:27:18.515Z"
-  },
-  {
-   "id": 2337,
-   "metin": "⚠️ İran, bir ABD F-16 savaş uçağına hasar verdiğini ve drone düşürdüğünü öne sürdü. Aynı sırada Umman açıklarında tankerler vuruldu.",
-   "tarih": "2026-11-21T14:25:15.116Z"
-  },
-  {
-   "id": 2336,
-   "metin": "Aave (AAVE) oy verenleri, V3 Core piyasasında kabul edilen teminat çeşitlerini daraltan öneriyi destekledi.\n\nMevcut krediler açık kalacak. LlamaRisk'in planı borçlananları teminat olarak kalan varlıklara ya da Aave V4'e yönlendiriyor.",
-   "tarih": "2026-11-21T09:25:30.116Z"
-  },
-  {
-   "id": 2335,
-   "metin": "Bitcoin (BTC), Coinbase'te 55.106 dolara inerek Eylül 2024'ten bu yana en düşük seviyeyi gördü.\n\nCoinbase'teki dip, bitcoini 21 Ekim'deki gün içi zirvenin yüzde 35,1 altında bıraktı. Kraken'da aynı dakikada 55.100 dolar kaydedildi.",
-   "tarih": "2026-11-21T07:23:38.116Z"
-  },
-  {
-   "id": 2334,
-   "metin": "Kripto borsalarında 24 saatte 1,76 milyar dolarlık tasfiye yaşandı; Bitcoin (BTC) pozisyonlarının yanında Nvidia ve SanDisk bahisleri de bu tutarın içinde yer aldı.\n\nBazı kripto yatırımcıları Wall Street'e hiç girmeden çip hisselerinde para kaybetti.",
-   "tarih": "2026-11-21T05:07:55.916Z"
-  },
-  {
-   "id": 2333,
-   "metin": "Ethereum'un (ETH) büyük güncellemesi Glamsterdam 2027'ye kaydı. Geliştiriciler en erken çıkış tarihinin Ocak olduğunu söylüyor.\n\nGüncelleme başta Aralık için hedefleniyordu. Güncellemenin bozacağı uygulamalar var; şirketler etkilenen akıllı sözleşmeleri düzeltmeye çalışıyor.",
-   "tarih": "2026-11-20T19:10:20.114Z"
-  },
-  {
-   "id": 2332,
-   "metin": "LayerZero, ZRO stake etme (coin kilitleyip getiri alma) başlangıcını Zero öncesinde 23 Kasım olarak belirledi.\n\nÖdüller yeni ZRO ihracından gelecek, erken çıkış olmayacak. Koşullara göre kilidin 31 Mart 2027'ye kadar açılması bekleniyor, ancak zamanlama değişebilir.",
-   "tarih": "2026-11-20T17:28:12.056Z"
-  },
-  {
-   "id": 2331,
-   "metin": "Deribit, platformdaki sorunları incelemek için işlemleri durdurdu.\n\nBorsa, ET saatiyle 11.17'de bir olay kaydı oluşturdu. İşlem ekranındaki mesaja göre müşteriler açık emirlerini iptal edebiliyor.",
-   "tarih": "2026-11-20T16:44:34.113Z"
-  },
-  {
-   "id": 2330,
-   "metin": "🗣️ Bessent, enerji şokunu gerekçe göstererek Fed'in daha düşük bir faiz artışı yapmasını savundu.",
-   "tarih": "2026-11-20T16:06:46.414Z"
-  },
-  {
-   "id": 2329,
-   "metin": "Temsilciler Meclisi Üyesi Steven Horsford, iki partili kripto vergi tasarısının mevcut Kongre dönemi sona ermeden Meclis'ten geçebileceğini söyledi.\n\nHorsford, tasarının Temsilciler Meclisi'nde oylanması için bir fırsat görüyor.",
-   "tarih": "2026-11-20T15:29:41.523Z"
   }
  ]
 }
