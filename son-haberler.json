@@ -1,7 +1,22 @@
 {
- "guncelleme": "2026-11-22T20:59:21.319Z",
+ "guncelleme": "2026-11-23T09:40:56.977Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2348,
+   "metin": "ABD'deki Bitcoin ETF'leri bir haftada 1,79 milyar dolarlık çıkış yaşadı.\n\nBlackRock'ın IBIT fonu çıkışları başı çekerken Morgan Stanley'nin Bitcoin (BTC) fonu alım yapmaya devam etti.",
+   "tarih": "2026-11-23T07:28:12.715Z"
+  },
+  {
+   "id": 2347,
+   "metin": "Flare Baş Ürün Sorumlusu Filip Koprivec'e göre, XRP sahipleri Flare'in FXRP varlığını teminat gösterip XRP'lerini satmadan RLUSD borçlanıyor.\n\nFXRP arzı yaklaşık 145 milyon oldu. Bunun yaklaşık 20 milyonu, yani yüzde 14'ü, çoğunlukla Ethereum'a (ETH) taşındı.",
+   "tarih": "2026-11-23T06:05:10.813Z"
+  },
+  {
+   "id": 2346,
+   "metin": "21shares, 19 Kasım tarihli raporunda Bitcoin'in (BTC) 2027'de 2025 rekorunu aşmasını, döngü zirvesinin ise daha sonra gelmesini bekliyor.\n\nRapor, 2027 sonuna dek G20'nin 21 üyesinden 15'inin kripto kurallarına sahip olacağını öngörüyor.",
+   "tarih": "2026-11-23T05:04:15.812Z"
+  },
   {
    "id": 2345,
    "metin": "Blur, güncellemeleri devre dışı bırakarak 545,6 ETH için bir kurtarma yolunu kapattı.\n\nGeliştirici Quit, bu tutarı doğrudan çekim yolu bulunmayan 315 sözleşmede tespit etti. Normal cüzdan çekimleri açık kalıyor.",
@@ -86,21 +101,6 @@
    "id": 2329,
    "metin": "Temsilciler Meclisi Üyesi Steven Horsford, iki partili kripto vergi tasarısının mevcut Kongre dönemi sona ermeden Meclis'ten geçebileceğini söyledi.\n\nHorsford, tasarının Temsilciler Meclisi'nde oylanması için bir fırsat görüyor.",
    "tarih": "2026-11-20T15:29:41.523Z"
-  },
-  {
-   "id": 2328,
-   "metin": "📊 ABD'deki spot Bitcoin (BTC) Borsa Yatırım Fonları (ETF) günlük bazda 582 milyon dolar net çıkış gördü; kasım ayındaki toplam net çıkış 3,5 milyar dolara yaklaştı.",
-   "tarih": "2026-11-20T12:39:43.513Z"
-  },
-  {
-   "id": 2327,
-   "metin": "📰 ABD Kongresi, hükümetin kapanmasını önlemekte zorlanıyor; İran savaşı konusunda milletvekilleri arasında görüş ayrılığı var.",
-   "tarih": "2026-11-20T11:32:52.413Z"
-  },
-  {
-   "id": 2326,
-   "metin": "Bitcoin (BTC) cuma sabahı yaklaşık 61.300 dolara inerek temmuz başından bu yana en düşük seviyeyi gördü.\n\nDört saatte 175 milyon dolardan fazla kaldıraçlı uzun pozisyon tasfiye edildi. Kore borsası, KOSPI'nin yüzde 5 düşmesi üzerine program satışlarını beş dakika durdurdu.",
-   "tarih": "2026-11-20T07:25:30.319Z"
   }
  ]
 }
