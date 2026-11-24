@@ -1,7 +1,57 @@
 {
- "guncelleme": "2026-11-24T05:52:39.093Z",
+ "guncelleme": "2026-11-24T17:27:57.223Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2370,
+   "metin": "Wall Street Journal'a göre Trump yönetimi Çin, Avrupa Birliği ve başka ülkelere yeni gümrük vergileri getirmeyi planlıyor. ABD Ticaret Temsilcisi Jamieson Greer'in yabancı sanayi sübvansiyonlarına yönelik soruşturmanın sonuçlarını açıklaması bekleniyor.\n\nRapora göre AB, Japonya ve Güney Kore'ye yüzde 15 veya daha düşük oranlı vergiler gelebilir. Çin, Hindistan ve Vietnam daha yüksek oranlarla karşılaşabilir. Soruşturma sonuçları vergi duyurularından önce gelebilir.",
+   "tarih": "2026-11-24T17:07:41.913Z"
+  },
+  {
+   "id": 2369,
+   "metin": "Emtia Vadeli İşlem Komisyonu (CFTC), 23 Kasım'daki tavsiye notuyla BTC, ETH ve ödeme stablecoin'lerinin, düzenlenen türev işlem ve takas platformlarının 12 aylık işletme gideri şartında sayılmasına izin verdi.\n\nPlatformlar bu varlıkların değerinden uygun oranda kesinti yapacak. CLARITY Act bu yıl Senato'dan geçemedi.\n\nBTC ya da ETH platformun mali gücünü kanıtlamaya yarıyor, ama anlık ödemeler için gereken nakdin yerini tutmuyor. Muhasebe kurallarında kripto nakit sayılmadığı için likidite şartında geçmiyor.",
+   "tarih": "2026-11-24T16:26:43.214Z"
+  },
+  {
+   "id": 2368,
+   "metin": "UniCredit, İtalya'daki uygun perakende müşterilerine vade korumalı bir Bitcoin (BTC) notu sunuyor.\n\nMüşteriler bankanın danışmanlık hizmeti üzerinden 1.000 euro'dan başlayarak abone olabiliyor. Standart vade koşullarında kazanç altı yılda yüzde 65 ile sınırlı; geri ödeme UniCredit'in ödeme gücüne bağlı.",
+   "tarih": "2026-11-24T14:46:46.043Z"
+  },
+  {
+   "id": 2367,
+   "metin": "Polygon (POL) PoS ağı, işlemlerin daha hızlı bloğa girmesi için \"mini bloklar\" planlıyor. Blok üreticileri yaklaşık her 100-200 milisaniyede bir yeni işlem olup olmadığına bakacak.\n\nSonradan gelip daha yüksek bahşiş ödeyen işlemler, önceki gruplarda yer alan işlemlerin önüne geçmeyecek.",
+   "tarih": "2026-11-24T14:38:07.643Z"
+  },
+  {
+   "id": 2366,
+   "metin": "Huang'ın geri dönüşü odakta; New York Fed Başkanı Williams'ın faiz açıklamaları piyasalarda hareketliliğe neden olan gelişmeler arasında bulunuyor.",
+   "tarih": "2026-11-24T11:10:42.922Z"
+  },
+  {
+   "id": 2365,
+   "metin": "Michael Saylor'ın şirketi Strategy, 16-22 Kasım'da hisse satarak elde ettiği 176,7 milyon doların yalnızca 29,6 milyon dolarını Bitcoin'e ayırdı.\n\nŞirket bu tutarla 457 BTC aldı. Geri kalanın büyük bölümü olan 147 milyon doları STRC tercihli hisselerini geri almak için harcadı. Yönetim kurulu tercihli hisse geri alım yetkisini 3 milyar dolardan 4 milyar dolara çıkardı.",
+   "tarih": "2026-11-24T09:48:46.819Z"
+  },
+  {
+   "id": 2364,
+   "metin": "📌 DB, Fed'in tonunun giderek daha şahin (sıkılaştırmacı) hale geldiğini bildirdi; Fed yetkilileri yeni faiz artırımlarına işaret ediyor.",
+   "tarih": "2026-11-24T09:25:04.521Z"
+  },
+  {
+   "id": 2363,
+   "metin": "🗣️ Merkez bankasının eski bir politika yapıcısı, BOJ'un faiz artırımlarını sürdüreceğini ancak zayıf harcamaların bu yolu belirsizleştirdiğini söyledi.",
+   "tarih": "2026-11-24T08:25:04.320Z"
+  },
+  {
+   "id": 2362,
+   "metin": "Reuters'a göre ADGM'nin bir emri, Circle ve World Liberty'nin de yer aldığı 18 şirketin Binance hack'iyle bağlantılı tokenları dondurulmuş halde tutmasını zorunlu kılıyor.\n\nKısıtlamaların sürüp sürmeyeceğini 1 Aralık'taki duruşma değerlendirecek.",
+   "tarih": "2026-11-24T07:50:20.180Z"
+  },
+  {
+   "id": 2361,
+   "metin": "Bitmart, 319,5 milyon dolarlık açık bildirdi. Müşterilere ödeme yapmak için elindeki likit varlık yalnızca 1,9 milyon dolar.\n\nNikkei Asia'ya göre aralarında Çinli yatırımcıların da bulunduğu bazı müşteriler, yıllık yüzde 18,8'e varan getiri ilan eden 14 günlük ürünlere para yatırdı.",
+   "tarih": "2026-11-24T07:07:44.081Z"
+  },
   {
    "id": 2360,
    "metin": "Aave (AAVE) Horizon'daki USCC bakiyesi yüzde 74 geriledi.\n\nDüşüşün büyük bölümü kasım başına kadar yaşandı. Toplam kilitli değer (TVL) 23 Kasım'da toparlanırken açık borç, ekim sonundaki seviyenin yaklaşık yüzde 24 altında kaldı.",
@@ -51,56 +101,6 @@
    "id": 2351,
    "metin": "Sky'ın stUSDS oranları yüzde 50'ye yaklaşırken çekim sıkışıklığı sürüyor. Borç verme havuzu hâlâ tam doluluk gösteriyor ve çekilebilir likidite yok.\n\nBir stUSDS sahibi yönetişimden çekim planı ve geri ödemelere adil erişim istedi.",
    "tarih": "2026-11-23T11:26:29.913Z"
-  },
-  {
-   "id": 2350,
-   "metin": "Güney Kore'nin önerdiği tedbirler, kripto hesaplarının dondurulmasını genişletmeyi ve yurt dışına yapılan yasa dışı transferleri sınırlamayı hedefliyor.\n\nHaziran'daki kimlik avı hesaplarını askıya alma sistemi şimdiye kadar 11.500'den fazla hesabı dondurdu. Öneri, bu sistemi diğer ciddi mali suçları da kapsayacak şekilde genişletmeyi içeriyor.",
-   "tarih": "2026-11-23T11:06:56.214Z"
-  },
-  {
-   "id": 2349,
-   "metin": "ECB Yönetim Konseyi, DLT Pilot Rejimi'yle lisanslı dağıtık defter platformlarında ihraç edilen varlıkları Eurosystem kredi işlemlerinde teminat olarak kabul etmeyi onayladı.\n\nŞartların ayrıntılarının 2027 baharında duyurulması bekleniyor, uygulama Haziran 2027 için planlanıyor.",
-   "tarih": "2026-11-23T10:30:09.014Z"
-  },
-  {
-   "id": 2348,
-   "metin": "ABD'deki Bitcoin ETF'leri bir haftada 1,79 milyar dolarlık çıkış yaşadı.\n\nBlackRock'ın IBIT fonu çıkışları başı çekerken Morgan Stanley'nin Bitcoin (BTC) fonu alım yapmaya devam etti.",
-   "tarih": "2026-11-23T07:28:12.715Z"
-  },
-  {
-   "id": 2347,
-   "metin": "Flare Baş Ürün Sorumlusu Filip Koprivec'e göre, XRP sahipleri Flare'in FXRP varlığını teminat gösterip XRP'lerini satmadan RLUSD borçlanıyor.\n\nFXRP arzı yaklaşık 145 milyon oldu. Bunun yaklaşık 20 milyonu, yani yüzde 14'ü, çoğunlukla Ethereum'a (ETH) taşındı.",
-   "tarih": "2026-11-23T06:05:10.813Z"
-  },
-  {
-   "id": 2346,
-   "metin": "21shares, 19 Kasım tarihli raporunda Bitcoin'in (BTC) 2027'de 2025 rekorunu aşmasını, döngü zirvesinin ise daha sonra gelmesini bekliyor.\n\nRapor, 2027 sonuna dek G20'nin 21 üyesinden 15'inin kripto kurallarına sahip olacağını öngörüyor.",
-   "tarih": "2026-11-23T05:04:15.812Z"
-  },
-  {
-   "id": 2345,
-   "metin": "Blur, güncellemeleri devre dışı bırakarak 545,6 ETH için bir kurtarma yolunu kapattı.\n\nGeliştirici Quit, bu tutarı doğrudan çekim yolu bulunmayan 315 sözleşmede tespit etti. Normal cüzdan çekimleri açık kalıyor.",
-   "tarih": "2026-11-22T19:48:55.614Z"
-  },
-  {
-   "id": 2344,
-   "metin": "İngiltere'de düzenleyici kurum FCA'nın nihai kuralları, kripto platformu işletenlerin kendi borsalarında piyasa yapıcılık yapmasını yasaklıyor.\n\nÜçüncü taraf firmalar ise 25 Ekim 2027'den itibaren spot Bitcoin (BTC) dahil bu işi, kendi adına alım satım izni almadan yapabilecek.",
-   "tarih": "2026-11-22T19:28:31.839Z"
-  },
-  {
-   "id": 2343,
-   "metin": "Spot Bitcoin (BTC) ETF'lerinde çıkışlar bir hafta daha milyarlarca dolar düzeyinde sürdü; Cuma günü tek başına 582,19 milyon dolar çıktı. Haftanın tek net girişi 8 milyon dolarda kaldı.\n\nEthereum (ETH) ETF'leri ise üst üste sekizinci haftayı net çıkışla kapattı.",
-   "tarih": "2026-11-22T18:32:06.014Z"
-  },
-  {
-   "id": 2342,
-   "metin": "Deribit'in 20 Kasım'daki kesintisi, Coinbase üzerinden BTC ve ETH vadesiz vadeli işlemlerle risk dengeleyenleri de etkiledi; işlem iki kez durdu.\n\nEmirler iki arayüzde de Deribit'te eşleştiği için geçiş çare olmadı. Coinbase'e göre ABD türevleri etkilenmedi.",
-   "tarih": "2026-11-22T14:30:58.015Z"
-  },
-  {
-   "id": 2341,
-   "metin": "Rich Dad, Poor Dad yazarı Robert Kiyosaki, Bitcoin'deki sert düşüşün ardından daha fazla BTC almak için fırsat beklediğini söyledi.\n\nKiyosaki, Bitcoin'in 21 milyonluk sabit arzını gerekçe gösterdi. Düşüşte \"zayıf ellerin\" sattığını, güçlü yatırımcıların ise beklediğini yazdı.",
-   "tarih": "2026-11-22T10:07:22.831Z"
   }
  ]
 }
