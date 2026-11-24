@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-23T21:58:57.144Z",
+ "guncelleme": "2026-11-24T05:52:39.093Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2360,
+   "metin": "Aave (AAVE) Horizon'daki USCC bakiyesi yüzde 74 geriledi.\n\nDüşüşün büyük bölümü kasım başına kadar yaşandı. Toplam kilitli değer (TVL) 23 Kasım'da toparlanırken açık borç, ekim sonundaki seviyenin yaklaşık yüzde 24 altında kaldı.",
+   "tarih": "2026-11-24T05:04:31.112Z"
+  },
   {
    "id": 2359,
    "metin": "ABD mahkemesi, Binance'teki hesap dondurma kararını 17 Aralık'a kadar uzattı.\n\nBinance, etkilenen fonları tek başına serbest bırakamayacağını söyledi. Davacıların bildiriminde avukatla iletişime geçmek için istenen tarih hâlâ 24 Kasım olarak yer alıyor.",
@@ -96,11 +101,6 @@
    "id": 2341,
    "metin": "Rich Dad, Poor Dad yazarı Robert Kiyosaki, Bitcoin'deki sert düşüşün ardından daha fazla BTC almak için fırsat beklediğini söyledi.\n\nKiyosaki, Bitcoin'in 21 milyonluk sabit arzını gerekçe gösterdi. Düşüşte \"zayıf ellerin\" sattığını, güçlü yatırımcıların ise beklediğini yazdı.",
    "tarih": "2026-11-22T10:07:22.831Z"
-  },
-  {
-   "id": 2340,
-   "metin": "⚠️ Bahreyn, bir sanayi tesisine düzenlenen saldırıdan İran'ı sorumlu tuttu.\n\n- ABD Başkanı Donald Trump \"kalıcı\" bir anlaşma istiyor.",
-   "tarih": "2026-11-21T20:44:43.142Z"
   }
  ]
 }
