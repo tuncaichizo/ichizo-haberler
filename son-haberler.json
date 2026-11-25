@@ -1,7 +1,82 @@
 {
- "guncelleme": "2026-11-25T10:22:04.946Z",
+ "guncelleme": "2026-11-25T20:05:56.956Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2394,
+   "metin": "Anza'ya göre Solana'da (SOL) Direct Mapping bugün ana ağda (mainnet) devreye alınacak. Kopyalamayı kaldıran geçiş 1097. epoch için planlandı.\n\nDaha sıkı bellek denetimleri etkin olarak listelendi ve güvensiz program kodu risk altında.",
+   "tarih": "2026-11-25T19:44:19.824Z"
+  },
+  {
+   "id": 2393,
+   "metin": "ABD Bitcoin (BTC) rezervi tasarısı Temsilciler Meclisi'nin Union Calendar listesine girdi. Tasarının 5. maddesi, federal hükümetin edindiği rezerv bitcoin'in yasalaşmasından itibaren 20 yıl boyunca elde tutulmasını öngörüyor.\n\nTasarının Temsilciler Meclisi'nden geçmesi henüz beklemede.",
+   "tarih": "2026-11-25T19:26:25.447Z"
+  },
+  {
+   "id": 2392,
+   "metin": "ABD Adalet Bakanlığı, kripto dolandırıcılığından elde edilen milyarlarca dolarlık gelirleri hedef alan yeni adımı \"şimdiye kadarki en büyük operasyon\" diye niteledi.\n\nAçıklama, Başkan Donald Trump'ın dolandırıcılıkla mücadele talimatının ardından geldi.",
+   "tarih": "2026-11-25T18:31:24.145Z"
+  },
+  {
+   "id": 2391,
+   "metin": "Yapay zeka kaynaklı satış dalgası ve Trump’ın yeni gümrük tarifeleri Wall Street’i ürkütürken Nasdaq yaklaşık %4 düştü.",
+   "tarih": "2026-11-25T17:25:07.944Z"
+  },
+  {
+   "id": 2390,
+   "metin": "Franklin Templeton, EZPZ kodlu kripto endeks ETF'sine 1 Aralık'ta Hyperliquid'in HYPE tokenini ekleyecek. Fonun kripto varlık sayısı yediden sekize çıkacak.\n\nHamle, CF Benchmarks'ın 16 Kasım'da HYPE'ı kendi endeksine alma kararının ardından geliyor. SEC'e verilen belgede HYPE'ın ilk ağırlığı yer almıyor.\n\nGrayscale, Bitwise ve 21Shares'in tek varlıklı HYPE ETF'lerinden kasımda şimdiye kadar 37 milyon dolar çıkış oldu. Çeşitlendirilmiş endeks fonları ise HYPE'ı portföyüne eklemeye devam ediyor.",
+   "tarih": "2026-11-25T17:02:44.517Z"
+  },
+  {
+   "id": 2389,
+   "metin": "ABD'nin üçüncü çeyrek ekonomik büyüme verisi sert biçimde yukarı yönlü revize edildi; enflasyon da daha geniş bir alana yayılıyor.",
+   "tarih": "2026-11-25T16:32:17.045Z"
+  },
+  {
+   "id": 2388,
+   "metin": "Coinbase Wallet, Base ağı üzerinden maaşın USDC olarak yatırılmasına izin vermeye başladı. ABD'de kullanıma açılan sistemde gelen dolarlar bire bir USDC'ye çevriliyor.\n\nKullanıcıların kimlik doğrulamasından geçmesi gerekiyor. Ortaya çıkan kripto bakiyesi sigortalı banka mevduatı sayılmıyor.",
+   "tarih": "2026-11-25T15:44:02.744Z"
+  },
+  {
+   "id": 2387,
+   "metin": "Kişisel tüketim harcamaları (PCE) enflasyonu ekimde yüzde 3,8 oldu; beklentiyle aynı çıktı ama Nisan 2023'ten bu yana ikinci en yüksek okuma oldu. Çekirdek PCE yüzde 3,3 ile beklenen yüzde 3,2'nin biraz üzerinde geldi.\n\nEkim ayı TÜFE ve ÜFE verilerinin ardından gelen üçüncü veri de enflasyonun Fed'in yüzde 2 hedefinin çok üzerinde seyrettiğini gösterdi. Yılın son FOMC toplantısında faiz artırımı ihtimali neredeyse yüzde 100'e yükseldi.",
+   "tarih": "2026-11-25T15:22:57.161Z"
+  },
+  {
+   "id": 2386,
+   "metin": "ABD'nin büyüme verisi yüzde 4,3'e revize edildi. Yatırım ve tüketici harcamalarındaki güçlenme GSYİH'yi yukarı çekti; çekirdek kişisel tüketim harcamaları (PCE) enflasyonu da beklentilerin üzerinde geldi.\n\nVeriler, Fed'in 8-9 Aralık'taki toplantısından önce açıklandı.",
+   "tarih": "2026-11-25T15:06:58.845Z"
+  },
+  {
+   "id": 2385,
+   "metin": "ABD'de ilk kez işsizlik yardımı başvurusu yapanların sayısı 21 Kasım'da biten haftada 13.000 azalarak 189.000'e indi. Düşüş, ekonomistlerin beklediğinden çok daha büyük oldu. ABD Çalışma Bakanlığı rakamları çarşamba günü açıkladı.\n\nEkonomistler başvuruların, ilk açıklanan 203.000 düzeyinden 200.000'e gerilemesini bekliyordu. Önceki haftanın rakamı 202.000'e revize edildi.",
+   "tarih": "2026-11-25T14:08:43.244Z"
+  },
+  {
+   "id": 2384,
+   "metin": "API3, token arzını kalıcı olarak 200.000.000 ile sınırladı ve yeni token basımını (emisyon) sonlandırdı. Geri alımlarla finanse edilen, deflasyonist bir tasarım öngörülüyor.\n\nBirinci taraf veri altyapısı sağlayan API3'ün sıradaki işleri, kendi sermayesiyle desteklenen bir küratörlük işi ve yapay zekâ ajanlarına veri sağlayıcılarının imzaladığı veriyi sunan AirnodeHub.",
+   "tarih": "2026-11-25T13:27:58.415Z"
+  },
+  {
+   "id": 2383,
+   "metin": "Fed'in tercih ettiği enflasyon göstergesi açıklandı. Piyasalar Aralık ayında Fed'in faiz artırımını veri gelmeden önce fiyatlamıştı.",
+   "tarih": "2026-11-25T12:42:41.714Z"
+  },
+  {
+   "id": 2382,
+   "metin": "Kuantum sonrası güvenlik güncellemesi için Ethereum Foundation araştırmacıları tek bir karma (hash) fonksiyonu seçti: Keccak-256.\n\nKeccak-256, uzun süredir kriptografik analizden geçmesi ve Ethereum'da (ETH) zaten birçok yerde kullanılması nedeniyle öne çıktı. BLAKE3'e göre kanıt üretimi daha yavaş olsa da araştırmacılar Keccak-256'yı tercih etti.",
+   "tarih": "2026-11-25T11:43:37.714Z"
+  },
+  {
+   "id": 2381,
+   "metin": "ABD'de ekim ayı PCE (kişisel tüketim harcamaları) enflasyonu ile üçüncü çeyrek GSYİH'nın ikinci tahmini bugün açıklanıyor. Cleveland Federal Reserve Bankası, yıllık çekirdek PCE'nin yüzde 3,1'den 3,2 ya da 3,3'e çıkmasını bekliyor.\n\nManşet PCE'nin yıllık yüzde 3,8'e çıkması (eylülde yüzde 3,6) ve GSYİH'nın yıllık bazda yüzde 3,4-3,5 büyümesi bekleniyor.\n\nBu veriler, Fed'in 9 Aralık kararından önceki son tam enflasyon ve büyüme okuması. CME FedWatch, 25 baz puanlık faiz artırımına yüzde 97,5 ihtimal veriyor.",
+   "tarih": "2026-11-25T11:29:21.338Z"
+  },
+  {
+   "id": 2380,
+   "metin": "Bitcoin ETF'lerinden kasımda 4,94 milyar dolar çıkış oldu. ABD'deki spot Bitcoin (BTC) fonlarında Ocak 2024'teki kuruluşlarından bu yana görülen en yüksek aylık çıkış bu.\n\nSoSoValue verilerine göre 24 Kasım'da fonlardan 231,56 milyon dolar çıktı ve çıkış serisi altı güne ulaştı. Ethereum (ETH) ETF'lerinden 64,02 milyon dolar çıkarken seri sekiz işlem gününe uzadı. Solana (SOL) ETF'lerine ise net giriş oldu.",
+   "tarih": "2026-11-25T10:26:12.418Z"
+  },
   {
    "id": 2379,
    "metin": "CryptoQuant verilerine göre son 30 günde borsalara yaklaşık 4,61 milyar XRP girdi; en büyük pay 1,22 milyarla Binance'te. Girişler, toplamın 6 milyara yaklaştığı Ekim ayının altında kaldı.\n\nOKX'e 866,51 milyon, Bybit'e 662,57 milyon XRP girdi.\n\nBorsaya giren XRP azaldıkça spot işlemde satılabilecek miktar daralabilir. Yine de bu düşüş beklentisinin arttığı anlamına gelmez; likidite yönetimi ya da cüzdanlarla borsalar arasındaki aktarım da olabilir.",
@@ -26,81 +101,6 @@
    "id": 2375,
    "metin": "Bloomberg Intelligence'a göre 2.223 kurum, 30 Eylül itibarıyla spot Bitcoin ETF'lerinde 29,8 milyar dolarlık pozisyon bildirdi. Bildirenlerin yaklaşık yüzde 84'ünü yatırım danışmanları oluşturdu; bunların pozisyonu 13,4 milyar dolar.\n\nGalaxy Research'ün tahminine göre yöneticiler çeyrekte 49.229 BTC eşdeğeri ekledi. Bu, 2025'in ikinci çeyreğinden beri en büyük çeyreklik artış.\n\nVeriler 30 Eylül tarihli. ETF'ler Kasım'ın 23'üne kadar 4,71 milyar dolarlık net çıkış gördü; bu çıkışlar tabloya yansımıyor.",
    "tarih": "2026-11-25T06:14:02.915Z"
-  },
-  {
-   "id": 2374,
-   "metin": "Sei ana ağının zorunlu güncellemesi v6.8, CosmWasm akıllı kontratları için iki yeni kapatma kontrolü ekledi, ancak ikisi de şimdilik devre dışı.\n\nGüncelleme Giga öncesinde geliyor ve eski Cosmos (ATOM) modüllerini de kaldırıyor.",
-   "tarih": "2026-11-24T20:44:26.917Z"
-  },
-  {
-   "id": 2373,
-   "metin": "Ethereum (ETH) Foundation, kuantum bilgisayarların tehdit olmasını beklemeden ağı hash tabanlı imzalara geçirmeyi öne aldı. Yapay zekânın yazılım açıklarını bulma hızı vakfın risk değerlendirmesini değiştirdi.\n\nGeçiş doğrulayıcıları, cüzdanları ve blob verisini kapsayacak.\n\nDaha büyük imzalar evde node çalıştıranların donanım ihtiyacını artırabilir. Uluslararası Menkul Kıymet Komisyonları Örgütü (IOSCO), kuantuma dayanıklı bir imzanın yaklaşık 2.420 bayt, bugünkü imzanın 64 bayt olduğunu bildirdi.",
-   "tarih": "2026-11-24T19:47:30.017Z"
-  },
-  {
-   "id": 2372,
-   "metin": "Fidelity Crypto, işlem listesine AAVE, LINK ve UNI token'larını ekledi. Uygun müşteriler bu üç token'ı bireysel, ortak ve kripto IRA hesaplarında alıp satabiliyor.\n\nOregon kapsam dışında kalıyor. Alım ve satımların her birinde yüzde 1 komisyon alınıyor.",
-   "tarih": "2026-11-24T18:23:31.414Z"
-  },
-  {
-   "id": 2371,
-   "metin": "İtalya'nın ikinci büyük bankası UniCredit, perakende müşterilerine sermaye korumalı bir sertifika aracılığıyla Bitcoin (BTC) yatırım imkânı açtı. Banka, ürünü ülkedeki türünün ilk örneği olarak tanımlıyor.\n\nLansman, Avrupa'da kripto alanına giren bankaların sayısının arttığı bir döneme denk geliyor. Ürünün birtakım sınırlamaları da bulunuyor.",
-   "tarih": "2026-11-24T17:49:52.483Z"
-  },
-  {
-   "id": 2370,
-   "metin": "Wall Street Journal'a göre Trump yönetimi Çin, Avrupa Birliği ve başka ülkelere yeni gümrük vergileri getirmeyi planlıyor. ABD Ticaret Temsilcisi Jamieson Greer'in yabancı sanayi sübvansiyonlarına yönelik soruşturmanın sonuçlarını açıklaması bekleniyor.\n\nRapora göre AB, Japonya ve Güney Kore'ye yüzde 15 veya daha düşük oranlı vergiler gelebilir. Çin, Hindistan ve Vietnam daha yüksek oranlarla karşılaşabilir. Soruşturma sonuçları vergi duyurularından önce gelebilir.",
-   "tarih": "2026-11-24T17:07:41.913Z"
-  },
-  {
-   "id": 2369,
-   "metin": "Emtia Vadeli İşlem Komisyonu (CFTC), 23 Kasım'daki tavsiye notuyla BTC, ETH ve ödeme stablecoin'lerinin, düzenlenen türev işlem ve takas platformlarının 12 aylık işletme gideri şartında sayılmasına izin verdi.\n\nPlatformlar bu varlıkların değerinden uygun oranda kesinti yapacak. CLARITY Act bu yıl Senato'dan geçemedi.\n\nBTC ya da ETH platformun mali gücünü kanıtlamaya yarıyor, ama anlık ödemeler için gereken nakdin yerini tutmuyor. Muhasebe kurallarında kripto nakit sayılmadığı için likidite şartında geçmiyor.",
-   "tarih": "2026-11-24T16:26:43.214Z"
-  },
-  {
-   "id": 2368,
-   "metin": "UniCredit, İtalya'daki uygun perakende müşterilerine vade korumalı bir Bitcoin (BTC) notu sunuyor.\n\nMüşteriler bankanın danışmanlık hizmeti üzerinden 1.000 euro'dan başlayarak abone olabiliyor. Standart vade koşullarında kazanç altı yılda yüzde 65 ile sınırlı; geri ödeme UniCredit'in ödeme gücüne bağlı.",
-   "tarih": "2026-11-24T14:46:46.043Z"
-  },
-  {
-   "id": 2367,
-   "metin": "Polygon (POL) PoS ağı, işlemlerin daha hızlı bloğa girmesi için \"mini bloklar\" planlıyor. Blok üreticileri yaklaşık her 100-200 milisaniyede bir yeni işlem olup olmadığına bakacak.\n\nSonradan gelip daha yüksek bahşiş ödeyen işlemler, önceki gruplarda yer alan işlemlerin önüne geçmeyecek.",
-   "tarih": "2026-11-24T14:38:07.643Z"
-  },
-  {
-   "id": 2366,
-   "metin": "Huang'ın geri dönüşü odakta; New York Fed Başkanı Williams'ın faiz açıklamaları piyasalarda hareketliliğe neden olan gelişmeler arasında bulunuyor.",
-   "tarih": "2026-11-24T11:10:42.922Z"
-  },
-  {
-   "id": 2365,
-   "metin": "Michael Saylor'ın şirketi Strategy, 16-22 Kasım'da hisse satarak elde ettiği 176,7 milyon doların yalnızca 29,6 milyon dolarını Bitcoin'e ayırdı.\n\nŞirket bu tutarla 457 BTC aldı. Geri kalanın büyük bölümü olan 147 milyon doları STRC tercihli hisselerini geri almak için harcadı. Yönetim kurulu tercihli hisse geri alım yetkisini 3 milyar dolardan 4 milyar dolara çıkardı.",
-   "tarih": "2026-11-24T09:48:46.819Z"
-  },
-  {
-   "id": 2364,
-   "metin": "📌 DB, Fed'in tonunun giderek daha şahin (sıkılaştırmacı) hale geldiğini bildirdi; Fed yetkilileri yeni faiz artırımlarına işaret ediyor.",
-   "tarih": "2026-11-24T09:25:04.521Z"
-  },
-  {
-   "id": 2363,
-   "metin": "🗣️ Merkez bankasının eski bir politika yapıcısı, BOJ'un faiz artırımlarını sürdüreceğini ancak zayıf harcamaların bu yolu belirsizleştirdiğini söyledi.",
-   "tarih": "2026-11-24T08:25:04.320Z"
-  },
-  {
-   "id": 2362,
-   "metin": "Reuters'a göre ADGM'nin bir emri, Circle ve World Liberty'nin de yer aldığı 18 şirketin Binance hack'iyle bağlantılı tokenları dondurulmuş halde tutmasını zorunlu kılıyor.\n\nKısıtlamaların sürüp sürmeyeceğini 1 Aralık'taki duruşma değerlendirecek.",
-   "tarih": "2026-11-24T07:50:20.180Z"
-  },
-  {
-   "id": 2361,
-   "metin": "Bitmart, 319,5 milyon dolarlık açık bildirdi. Müşterilere ödeme yapmak için elindeki likit varlık yalnızca 1,9 milyon dolar.\n\nNikkei Asia'ya göre aralarında Çinli yatırımcıların da bulunduğu bazı müşteriler, yıllık yüzde 18,8'e varan getiri ilan eden 14 günlük ürünlere para yatırdı.",
-   "tarih": "2026-11-24T07:07:44.081Z"
-  },
-  {
-   "id": 2360,
-   "metin": "Aave (AAVE) Horizon'daki USCC bakiyesi yüzde 74 geriledi.\n\nDüşüşün büyük bölümü kasım başına kadar yaşandı. Toplam kilitli değer (TVL) 23 Kasım'da toparlanırken açık borç, ekim sonundaki seviyenin yaklaşık yüzde 24 altında kaldı.",
-   "tarih": "2026-11-24T05:04:31.112Z"
   }
  ]
 }
