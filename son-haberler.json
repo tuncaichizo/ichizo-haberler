@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-25T01:31:49.456Z",
+ "guncelleme": "2026-11-25T10:22:04.946Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2379,
+   "metin": "CryptoQuant verilerine göre son 30 günde borsalara yaklaşık 4,61 milyar XRP girdi; en büyük pay 1,22 milyarla Binance'te. Girişler, toplamın 6 milyara yaklaştığı Ekim ayının altında kaldı.\n\nOKX'e 866,51 milyon, Bybit'e 662,57 milyon XRP girdi.\n\nBorsaya giren XRP azaldıkça spot işlemde satılabilecek miktar daralabilir. Yine de bu düşüş beklentisinin arttığı anlamına gelmez; likidite yönetimi ya da cüzdanlarla borsalar arasındaki aktarım da olabilir.",
+   "tarih": "2026-11-25T09:44:08.961Z"
+  },
+  {
+   "id": 2378,
+   "metin": "Yapı Kredi, kripto alım satım platformu Yapı Kredi Kripto'daki müşteri varlıklarını Ripple'ın (XRP) saklama teknolojisiyle koruyacak. Ripple anlaşmayı 25 Kasım'da duyurdu; teknoloji bankanın kendi sistemlerinde çalışacak.\n\nGaranti BBVA Kripto da Ripple Custody'yi daha önce kullanmaya başlamıştı. Ripple, CMB kripto saklama lisansına sahip Türkiye'nin büyük bankalarına hizmet veren tek saklama teknolojisi sağlayıcısı olduğunu söylüyor. Anlaşmanın mali koşullarını ve platformun hangi kripto paraları destekleyeceğini açıklamadı.",
+   "tarih": "2026-11-25T08:43:56.915Z"
+  },
+  {
+   "id": 2377,
+   "metin": "Solana (SOL) geliştiricileri, ağı çalıştıran bilgisayarların (doğrulayıcıların) ağın çoktan elediği bloklar üzerindeki işi sürdürmesini durduracak bir düzeltme için harekete geçti.\n\nDüzeltme uygulanırsa bu bilgisayarlar ağın zaten reddettiği işlemlere boşuna güç harcamayacak. Böylece ağın yakın zamandaki hız güncellemesinin dokunmadığı işlem gücü serbest kalacak.",
+   "tarih": "2026-11-25T07:44:01.514Z"
+  },
+  {
+   "id": 2376,
+   "metin": "Aave Labs, Dublin'deki operasyonlarını büyütüyor; düzenlemeye tabi nakit-kripto geçiş iştiraki Push üzerinden üç yılda 20 yeni istihdam yaratmayı planlıyor. IDA Ireland 20 Kasım'da duyurdu.\n\nPush, İrlanda Merkez Bankası'ndan kripto varlık hizmet sağlayıcısı yetkisi taşıyor. Dublin, şirketin Avrupa'daki düzenlemeye tabi işlerinin üssü olacak.\n\nYetki yalnızca Push'un düzenlenen hizmetleri için geçerli; Aave'nin (AAVE) merkeziyetsiz borç verme protokolünün MiCA lisansı olduğu anlamına gelmiyor.",
+   "tarih": "2026-11-25T06:44:57.514Z"
+  },
+  {
+   "id": 2375,
+   "metin": "Bloomberg Intelligence'a göre 2.223 kurum, 30 Eylül itibarıyla spot Bitcoin ETF'lerinde 29,8 milyar dolarlık pozisyon bildirdi. Bildirenlerin yaklaşık yüzde 84'ünü yatırım danışmanları oluşturdu; bunların pozisyonu 13,4 milyar dolar.\n\nGalaxy Research'ün tahminine göre yöneticiler çeyrekte 49.229 BTC eşdeğeri ekledi. Bu, 2025'in ikinci çeyreğinden beri en büyük çeyreklik artış.\n\nVeriler 30 Eylül tarihli. ETF'ler Kasım'ın 23'üne kadar 4,71 milyar dolarlık net çıkış gördü; bu çıkışlar tabloya yansımıyor.",
+   "tarih": "2026-11-25T06:14:02.915Z"
+  },
   {
    "id": 2374,
    "metin": "Sei ana ağının zorunlu güncellemesi v6.8, CosmWasm akıllı kontratları için iki yeni kapatma kontrolü ekledi, ancak ikisi de şimdilik devre dışı.\n\nGüncelleme Giga öncesinde geliyor ve eski Cosmos (ATOM) modüllerini de kaldırıyor.",
@@ -76,31 +101,6 @@
    "id": 2360,
    "metin": "Aave (AAVE) Horizon'daki USCC bakiyesi yüzde 74 geriledi.\n\nDüşüşün büyük bölümü kasım başına kadar yaşandı. Toplam kilitli değer (TVL) 23 Kasım'da toparlanırken açık borç, ekim sonundaki seviyenin yaklaşık yüzde 24 altında kaldı.",
    "tarih": "2026-11-24T05:04:31.112Z"
-  },
-  {
-   "id": 2359,
-   "metin": "ABD mahkemesi, Binance'teki hesap dondurma kararını 17 Aralık'a kadar uzattı.\n\nBinance, etkilenen fonları tek başına serbest bırakamayacağını söyledi. Davacıların bildiriminde avukatla iletişime geçmek için istenen tarih hâlâ 24 Kasım olarak yer alıyor.",
-   "tarih": "2026-11-23T20:10:38.715Z"
-  },
-  {
-   "id": 2358,
-   "metin": "AB, Rusya'ya yönelik 22. yaptırım paketinde yeni kripto kısıtlamaları öneriyor.\n\nÖnerilen paket, işlem yasaklarını yaklaşık 60 Rus bankasına da yaymayı öngörüyor. AB bu ayın başında kripto yaptırımları için bir görev gücü açıklamıştı.",
-   "tarih": "2026-11-23T18:50:57.407Z"
-  },
-  {
-   "id": 2357,
-   "metin": "Nvidia hissesi, yönetim kurulunun Jensen Huang'ı yeniden başkan ve CEO yapmasının ardından pazartesi sabahı yaklaşık yüzde 35 yükseldi.\n\nKripto bağlantılı hisselerde Strategy yaklaşık yüzde 13, Coinbase yüzde 9, madenci IREN ise yüzde 31 arttı.",
-   "tarih": "2026-11-23T16:45:58.656Z"
-  },
-  {
-   "id": 2356,
-   "metin": "DeFi Development üst üste 11. haftada da Solana alarak yaklaşık 5.180 SOL ekledi ve hazinesindeki toplam SOL miktarını 2,62 milyona çıkardı.\n\nŞirketin haftalık alım serisi 14 Eylül'den bu yana sürüyor.",
-   "tarih": "2026-11-23T16:26:47.227Z"
-  },
-  {
-   "id": 2355,
-   "metin": "📊 Truflation'a göre Fed'in tercih ettiği enflasyon göstergesi, fiyat artışlarının Fed'in hedefinin çok üzerinde seyrettiğini gösterecek.",
-   "tarih": "2026-11-23T16:06:24.314Z"
   }
  ]
 }
