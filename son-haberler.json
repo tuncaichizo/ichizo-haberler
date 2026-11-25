@@ -1,7 +1,27 @@
 {
- "guncelleme": "2026-11-24T17:27:57.223Z",
+ "guncelleme": "2026-11-25T01:31:49.456Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2374,
+   "metin": "Sei ana ağının zorunlu güncellemesi v6.8, CosmWasm akıllı kontratları için iki yeni kapatma kontrolü ekledi, ancak ikisi de şimdilik devre dışı.\n\nGüncelleme Giga öncesinde geliyor ve eski Cosmos (ATOM) modüllerini de kaldırıyor.",
+   "tarih": "2026-11-24T20:44:26.917Z"
+  },
+  {
+   "id": 2373,
+   "metin": "Ethereum (ETH) Foundation, kuantum bilgisayarların tehdit olmasını beklemeden ağı hash tabanlı imzalara geçirmeyi öne aldı. Yapay zekânın yazılım açıklarını bulma hızı vakfın risk değerlendirmesini değiştirdi.\n\nGeçiş doğrulayıcıları, cüzdanları ve blob verisini kapsayacak.\n\nDaha büyük imzalar evde node çalıştıranların donanım ihtiyacını artırabilir. Uluslararası Menkul Kıymet Komisyonları Örgütü (IOSCO), kuantuma dayanıklı bir imzanın yaklaşık 2.420 bayt, bugünkü imzanın 64 bayt olduğunu bildirdi.",
+   "tarih": "2026-11-24T19:47:30.017Z"
+  },
+  {
+   "id": 2372,
+   "metin": "Fidelity Crypto, işlem listesine AAVE, LINK ve UNI token'larını ekledi. Uygun müşteriler bu üç token'ı bireysel, ortak ve kripto IRA hesaplarında alıp satabiliyor.\n\nOregon kapsam dışında kalıyor. Alım ve satımların her birinde yüzde 1 komisyon alınıyor.",
+   "tarih": "2026-11-24T18:23:31.414Z"
+  },
+  {
+   "id": 2371,
+   "metin": "İtalya'nın ikinci büyük bankası UniCredit, perakende müşterilerine sermaye korumalı bir sertifika aracılığıyla Bitcoin (BTC) yatırım imkânı açtı. Banka, ürünü ülkedeki türünün ilk örneği olarak tanımlıyor.\n\nLansman, Avrupa'da kripto alanına giren bankaların sayısının arttığı bir döneme denk geliyor. Ürünün birtakım sınırlamaları da bulunuyor.",
+   "tarih": "2026-11-24T17:49:52.483Z"
+  },
   {
    "id": 2370,
    "metin": "Wall Street Journal'a göre Trump yönetimi Çin, Avrupa Birliği ve başka ülkelere yeni gümrük vergileri getirmeyi planlıyor. ABD Ticaret Temsilcisi Jamieson Greer'in yabancı sanayi sübvansiyonlarına yönelik soruşturmanın sonuçlarını açıklaması bekleniyor.\n\nRapora göre AB, Japonya ve Güney Kore'ye yüzde 15 veya daha düşük oranlı vergiler gelebilir. Çin, Hindistan ve Vietnam daha yüksek oranlarla karşılaşabilir. Soruşturma sonuçları vergi duyurularından önce gelebilir.",
@@ -81,26 +101,6 @@
    "id": 2355,
    "metin": "📊 Truflation'a göre Fed'in tercih ettiği enflasyon göstergesi, fiyat artışlarının Fed'in hedefinin çok üzerinde seyrettiğini gösterecek.",
    "tarih": "2026-11-23T16:06:24.314Z"
-  },
-  {
-   "id": 2354,
-   "metin": "Bitmine geçen hafta 7.819 ETH daha satın alarak elindeki Ethereum'u toplam arzın yüzde 4,98'ine çıkardı.\n\nEthereum varlık şirketi Bitmine'ın kasasında şimdi 6.085.564 ETH var. Bunun 5.227.037 ETH'si stake edilmiş durumda (coin kilitleyip getiri alma).",
-   "tarih": "2026-11-23T14:44:01.613Z"
-  },
-  {
-   "id": 2353,
-   "metin": "Eric Trump'ın kurucu ortağı olduğu madenci American Bitcoin, elindeki Bitcoin'in bir kısmını teminat göstererek FalconX'ten 150 milyon dolarlık kredi limiti aldı.\n\nŞirket, bu kaynağı Bitcoin satmadan kullanabileceğini bildirdi; üçüncü çeyrekte giderler için 465 BTC satmıştı.",
-   "tarih": "2026-11-23T14:33:54.813Z"
-  },
-  {
-   "id": 2352,
-   "metin": "Chainflip 10 hafta içinde ikinci kez hacklendi; 21 Kasım'da kasalardan 12 milyon dolar çalındı.\n\nChainflip, saldırgana 110,575 BTC ve 2.618,1 ETH'i geri vermesi halinde yüzde 10 ödül önerdi. Kurucu Simon Harman, ağın toparlanabileceğinden nispeten emin.",
-   "tarih": "2026-11-23T14:06:02.614Z"
-  },
-  {
-   "id": 2351,
-   "metin": "Sky'ın stUSDS oranları yüzde 50'ye yaklaşırken çekim sıkışıklığı sürüyor. Borç verme havuzu hâlâ tam doluluk gösteriyor ve çekilebilir likidite yok.\n\nBir stUSDS sahibi yönetişimden çekim planı ve geri ödemelere adil erişim istedi.",
-   "tarih": "2026-11-23T11:26:29.913Z"
   }
  ]
 }
