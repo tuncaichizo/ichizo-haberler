@@ -1,7 +1,27 @@
 {
- "guncelleme": "2026-11-26T02:45:05.007Z",
+ "guncelleme": "2026-11-26T12:12:33.596Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2400,
+   "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden kasımda 5,39 milyar dolar net çıkış oldu; Morgan Stanley Bitcoin Trust ise 114,1 milyon dolar net girişle akıntıya karşı durdu.\n\nFarside Investors verisi çarşambaya kadarki dönemi kapsıyor. Kasımda net girişte yalnızca bu fon ile WisdomTree Bitcoin Fund var; ikincisinin girişi 300 bin dolarda kaldı.\n\nKasım çıkışı, haziranda kaydedilen 4,51 milyar dolarlık aylık rekoru şimdiden aştı. Perşembe borsalar kapalı, cuma günü erken kapanıyor; ayın tek tam işlem günü pazartesi kaldı.",
+   "tarih": "2026-11-26T10:05:54.345Z"
+  },
+  {
+   "id": 2399,
+   "metin": "Financial Times'a göre İngiltere'nin finans düzenleyicisi Financial Conduct Authority (FCA), 6,3 milyar dolarlık Binance saldırısını gerekçe göstererek DeFi platformları için önerdiği yetki şartlarıyla ilerlemeyi planlıyor.\n\nFCA'nın ödemeler ve dijital varlıklar başkanı Jane Moore, çalınan fonların DeFi'de hızla ve büyük ölçekte hareket etmesinin dondurma çabalarını zayıflatabileceğini söyledi.\n\nNihai rehberin Ocak 2027'de gelmesi, yeni rejimin ise 25 Ekim 2027'de başlaması bekleniyor.",
+   "tarih": "2026-11-26T07:25:19.144Z"
+  },
+  {
+   "id": 2398,
+   "metin": "BIT Asset Management'ın BBIT fonu İsviçre'deki SIX Swiss Exchange'te işlem görmeye başladı. BIT, fonun Avrupa'daki tek spot Bitcoin ETF'si olduğunu söylüyor.\n\nFon 350 BTC varlıkla açıldı. Yıllık gider oranı yüzde 0,19.",
+   "tarih": "2026-11-26T06:43:37.046Z"
+  },
+  {
+   "id": 2397,
+   "metin": "LayerZero, yakında çıkacak Zero blokzincirine doğrulayıcı olarak Samsung Card, Kakao Pay ve ZAN'ı ekledi.\n\nZero, işlemlerin yürütülmesini doğrulamadan ayırmak için ZK (sıfır bilgi) kanıtları kullanıyor. Doğrulayıcılar yalnızca bu kanıtları doğruluyor, böylece aynı işin tekrarlandığı bir katman ortadan kalkıyor.",
+   "tarih": "2026-11-26T05:01:44.044Z"
+  },
   {
    "id": 2396,
    "metin": "Fidelity, Nasdaq'ta işlem görecek spot bir Chainlink (LINK) fonu için başvuru yaptı. Önerilen ürün LINK token'larını stake etmeden (kilitleyip getiri almadan) doğrudan elinde tutacak.\n\nBu piyasaya Grayscale ve Bitwise zaten hizmet veriyor. Başvuru fonun başlatıldığı anlamına gelmiyor.",
@@ -81,26 +101,6 @@
    "id": 2381,
    "metin": "ABD'de ekim ayı PCE (kişisel tüketim harcamaları) enflasyonu ile üçüncü çeyrek GSYİH'nın ikinci tahmini bugün açıklanıyor. Cleveland Federal Reserve Bankası, yıllık çekirdek PCE'nin yüzde 3,1'den 3,2 ya da 3,3'e çıkmasını bekliyor.\n\nManşet PCE'nin yıllık yüzde 3,8'e çıkması (eylülde yüzde 3,6) ve GSYİH'nın yıllık bazda yüzde 3,4-3,5 büyümesi bekleniyor.\n\nBu veriler, Fed'in 9 Aralık kararından önceki son tam enflasyon ve büyüme okuması. CME FedWatch, 25 baz puanlık faiz artırımına yüzde 97,5 ihtimal veriyor.",
    "tarih": "2026-11-25T11:29:21.338Z"
-  },
-  {
-   "id": 2380,
-   "metin": "Bitcoin ETF'lerinden kasımda 4,94 milyar dolar çıkış oldu. ABD'deki spot Bitcoin (BTC) fonlarında Ocak 2024'teki kuruluşlarından bu yana görülen en yüksek aylık çıkış bu.\n\nSoSoValue verilerine göre 24 Kasım'da fonlardan 231,56 milyon dolar çıktı ve çıkış serisi altı güne ulaştı. Ethereum (ETH) ETF'lerinden 64,02 milyon dolar çıkarken seri sekiz işlem gününe uzadı. Solana (SOL) ETF'lerine ise net giriş oldu.",
-   "tarih": "2026-11-25T10:26:12.418Z"
-  },
-  {
-   "id": 2379,
-   "metin": "CryptoQuant verilerine göre son 30 günde borsalara yaklaşık 4,61 milyar XRP girdi; en büyük pay 1,22 milyarla Binance'te. Girişler, toplamın 6 milyara yaklaştığı Ekim ayının altında kaldı.\n\nOKX'e 866,51 milyon, Bybit'e 662,57 milyon XRP girdi.\n\nBorsaya giren XRP azaldıkça spot işlemde satılabilecek miktar daralabilir. Yine de bu düşüş beklentisinin arttığı anlamına gelmez; likidite yönetimi ya da cüzdanlarla borsalar arasındaki aktarım da olabilir.",
-   "tarih": "2026-11-25T09:44:08.961Z"
-  },
-  {
-   "id": 2378,
-   "metin": "Yapı Kredi, kripto alım satım platformu Yapı Kredi Kripto'daki müşteri varlıklarını Ripple'ın (XRP) saklama teknolojisiyle koruyacak. Ripple anlaşmayı 25 Kasım'da duyurdu; teknoloji bankanın kendi sistemlerinde çalışacak.\n\nGaranti BBVA Kripto da Ripple Custody'yi daha önce kullanmaya başlamıştı. Ripple, CMB kripto saklama lisansına sahip Türkiye'nin büyük bankalarına hizmet veren tek saklama teknolojisi sağlayıcısı olduğunu söylüyor. Anlaşmanın mali koşullarını ve platformun hangi kripto paraları destekleyeceğini açıklamadı.",
-   "tarih": "2026-11-25T08:43:56.915Z"
-  },
-  {
-   "id": 2377,
-   "metin": "Solana (SOL) geliştiricileri, ağı çalıştıran bilgisayarların (doğrulayıcıların) ağın çoktan elediği bloklar üzerindeki işi sürdürmesini durduracak bir düzeltme için harekete geçti.\n\nDüzeltme uygulanırsa bu bilgisayarlar ağın zaten reddettiği işlemlere boşuna güç harcamayacak. Böylece ağın yakın zamandaki hız güncellemesinin dokunmadığı işlem gücü serbest kalacak.",
-   "tarih": "2026-11-25T07:44:01.514Z"
   }
  ]
 }
