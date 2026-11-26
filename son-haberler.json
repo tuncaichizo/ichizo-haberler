@@ -1,7 +1,42 @@
 {
- "guncelleme": "2026-11-26T12:12:33.596Z",
+ "guncelleme": "2026-11-26T21:51:19.346Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2407,
+   "metin": "⚠️ Reuters'a göre Binance hack'iyle bağlantılı fonlardan THORChain (RUNE) üzerinden geçen tutar 600 milyon doları aştı. Tahmin aynı fonları birden fazla kez sayıyor olabilir.\n\nFBI, THORChain düğüm işletmecilerinden hırsızlıkla bağlantılı işlemleri engellemelerini istemişti.",
+   "tarih": "2026-11-26T21:43:59.846Z"
+  },
+  {
+   "id": 2406,
+   "metin": "Yetkililere göre Kuveyt'e düzenlenen İran insansız hava aracı saldırısında iki İtalyan öldü.\n\nÖlümler, son haftalarda ABD askeri tesislerine ev sahipliği yapan Körfez Arap ülkelerine yönelik bir dizi saldırının ardından geldi. Savaşı bitirmeyi hedefleyen görüşmeler ilerlemiyor.",
+   "tarih": "2026-11-26T20:23:21.644Z"
+  },
+  {
+   "id": 2405,
+   "metin": "KuCoin, Monero'yu (XMR) listeden çıkarıyor ve 30 Kasım'da spot alım satımı sonlandıracak. XMR yatırma işlemleri şimdiden kapatıldı.\n\nÇekimlerin 31 Aralık'ta sona ermesi planlanıyor. KuCoin, Monero'yu teminat olarak yatıran borçluları başka teminat eklemeye çağırdı.",
+   "tarih": "2026-11-26T16:24:25.756Z"
+  },
+  {
+   "id": 2404,
+   "metin": "BNB Chain, hızlı alım satım, ödeme, gizli finans ve yapay zekâ ajanları için tasarladığı yeni Layer-1 ağının litepaper'ını (kısa teknik belge) yayımladı. Ağ BNB'yi yerel token olarak kullanacak.\n\nEkip herkese açık test ağını 2026 sonu, ana ağı 2027 başı için hedefliyor. Hedefler 200 milisaniyelik bloklar, saniyenin altında kesinleşme ve saniyede 100.000'den fazla işlem.\n\nUygulamalar işlem ücretini üstlenebilecek; yeni kullanıcı önce BNB almadan ağı kullanabilecek.",
+   "tarih": "2026-11-26T15:23:05.444Z"
+  },
+  {
+   "id": 2403,
+   "metin": "Polygon (POL) Labs, sınır ötesi ödeme altyapısı Open Money Stack'i Coinbase'in katman-2 ağı Base'de devreye aldı. Şirketler tek entegrasyonla alıcılara USDC ya da yerel para birimiyle ödeme yapabilecek.\n\nBase, Polygon Chain, Ethereum (ETH), Solana (SOL) ve Tron'un (TRX) yanına eklendi. DefiLlama'ya göre ağda yaklaşık 5 milyar dolarlık stablecoin var.\n\nŞirketler Base'de USDC tutan satıcılara ödeme için şimdiye kadar genelde ayrı sağlayıcıları bir araya getiriyordu. Yeni yapıda para doğrudan alıcının cüzdanına iniyor.",
+   "tarih": "2026-11-26T14:04:17.747Z"
+  },
+  {
+   "id": 2402,
+   "metin": "Ethena (ENA), sUSDe sahipleri için bir günlük çıkış bekleme süresini sıfıra indirdi; sUSDe artık gecikmeden USDe'ye çevrilebiliyor. Karar, protokolün Risk Komitesi'nin incelemesinin ardından geldi.\n\nKomite 23 Kasım verilerine baktı. Yaklaşık 1,25 milyar dolarlık birinci kademe likidite, yaklaşık 1,14 milyar dolarlık sUSDe arzının 1,1 katını karşılıyor.\n\nRezervler zayıflarsa Ethena bekleme süresini geri getirebilir; bu yüzden sıfır gün kalıcı olmayabilir.",
+   "tarih": "2026-11-26T12:49:36.543Z"
+  },
+  {
+   "id": 2401,
+   "metin": "HSBC'nin Hong Kong doları stablecoin'i RedCoin, 23 Ekim'deki lansmanından bu yana ilk ayda 100 binden fazla kullanıcıya ulaştı. HSBC'nin Hong Kong CEO'su Maggie Ng duyurdu. RedCoin, Hong Kong Para Otoritesi'nin (HKMA) onayladığı iki Hong Kong doları stablecoin'inden biri.\n\nKullanıcı sayısı ilk haftadaki 50 bini aşarak ayın sonunda 100 bini geçti. HSBC Grup CEO'su Georges Elhedery milyonlarca kullanıcıyı hedeflediğini söyledi, ancak bunu teknoloji \"sağlam ve güvenli\" çıktıktan sonra yapacak.",
+   "tarih": "2026-11-26T12:27:00.044Z"
+  },
   {
    "id": 2400,
    "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden kasımda 5,39 milyar dolar net çıkış oldu; Morgan Stanley Bitcoin Trust ise 114,1 milyon dolar net girişle akıntıya karşı durdu.\n\nFarside Investors verisi çarşambaya kadarki dönemi kapsıyor. Kasımda net girişte yalnızca bu fon ile WisdomTree Bitcoin Fund var; ikincisinin girişi 300 bin dolarda kaldı.\n\nKasım çıkışı, haziranda kaydedilen 4,51 milyar dolarlık aylık rekoru şimdiden aştı. Perşembe borsalar kapalı, cuma günü erken kapanıyor; ayın tek tam işlem günü pazartesi kaldı.",
@@ -66,41 +101,6 @@
    "id": 2388,
    "metin": "Coinbase Wallet, Base ağı üzerinden maaşın USDC olarak yatırılmasına izin vermeye başladı. ABD'de kullanıma açılan sistemde gelen dolarlar bire bir USDC'ye çevriliyor.\n\nKullanıcıların kimlik doğrulamasından geçmesi gerekiyor. Ortaya çıkan kripto bakiyesi sigortalı banka mevduatı sayılmıyor.",
    "tarih": "2026-11-25T15:44:02.744Z"
-  },
-  {
-   "id": 2387,
-   "metin": "Kişisel tüketim harcamaları (PCE) enflasyonu ekimde yüzde 3,8 oldu; beklentiyle aynı çıktı ama Nisan 2023'ten bu yana ikinci en yüksek okuma oldu. Çekirdek PCE yüzde 3,3 ile beklenen yüzde 3,2'nin biraz üzerinde geldi.\n\nEkim ayı TÜFE ve ÜFE verilerinin ardından gelen üçüncü veri de enflasyonun Fed'in yüzde 2 hedefinin çok üzerinde seyrettiğini gösterdi. Yılın son FOMC toplantısında faiz artırımı ihtimali neredeyse yüzde 100'e yükseldi.",
-   "tarih": "2026-11-25T15:22:57.161Z"
-  },
-  {
-   "id": 2386,
-   "metin": "ABD'nin büyüme verisi yüzde 4,3'e revize edildi. Yatırım ve tüketici harcamalarındaki güçlenme GSYİH'yi yukarı çekti; çekirdek kişisel tüketim harcamaları (PCE) enflasyonu da beklentilerin üzerinde geldi.\n\nVeriler, Fed'in 8-9 Aralık'taki toplantısından önce açıklandı.",
-   "tarih": "2026-11-25T15:06:58.845Z"
-  },
-  {
-   "id": 2385,
-   "metin": "ABD'de ilk kez işsizlik yardımı başvurusu yapanların sayısı 21 Kasım'da biten haftada 13.000 azalarak 189.000'e indi. Düşüş, ekonomistlerin beklediğinden çok daha büyük oldu. ABD Çalışma Bakanlığı rakamları çarşamba günü açıkladı.\n\nEkonomistler başvuruların, ilk açıklanan 203.000 düzeyinden 200.000'e gerilemesini bekliyordu. Önceki haftanın rakamı 202.000'e revize edildi.",
-   "tarih": "2026-11-25T14:08:43.244Z"
-  },
-  {
-   "id": 2384,
-   "metin": "API3, token arzını kalıcı olarak 200.000.000 ile sınırladı ve yeni token basımını (emisyon) sonlandırdı. Geri alımlarla finanse edilen, deflasyonist bir tasarım öngörülüyor.\n\nBirinci taraf veri altyapısı sağlayan API3'ün sıradaki işleri, kendi sermayesiyle desteklenen bir küratörlük işi ve yapay zekâ ajanlarına veri sağlayıcılarının imzaladığı veriyi sunan AirnodeHub.",
-   "tarih": "2026-11-25T13:27:58.415Z"
-  },
-  {
-   "id": 2383,
-   "metin": "Fed'in tercih ettiği enflasyon göstergesi açıklandı. Piyasalar Aralık ayında Fed'in faiz artırımını veri gelmeden önce fiyatlamıştı.",
-   "tarih": "2026-11-25T12:42:41.714Z"
-  },
-  {
-   "id": 2382,
-   "metin": "Kuantum sonrası güvenlik güncellemesi için Ethereum Foundation araştırmacıları tek bir karma (hash) fonksiyonu seçti: Keccak-256.\n\nKeccak-256, uzun süredir kriptografik analizden geçmesi ve Ethereum'da (ETH) zaten birçok yerde kullanılması nedeniyle öne çıktı. BLAKE3'e göre kanıt üretimi daha yavaş olsa da araştırmacılar Keccak-256'yı tercih etti.",
-   "tarih": "2026-11-25T11:43:37.714Z"
-  },
-  {
-   "id": 2381,
-   "metin": "ABD'de ekim ayı PCE (kişisel tüketim harcamaları) enflasyonu ile üçüncü çeyrek GSYİH'nın ikinci tahmini bugün açıklanıyor. Cleveland Federal Reserve Bankası, yıllık çekirdek PCE'nin yüzde 3,1'den 3,2 ya da 3,3'e çıkmasını bekliyor.\n\nManşet PCE'nin yıllık yüzde 3,8'e çıkması (eylülde yüzde 3,6) ve GSYİH'nın yıllık bazda yüzde 3,4-3,5 büyümesi bekleniyor.\n\nBu veriler, Fed'in 9 Aralık kararından önceki son tam enflasyon ve büyüme okuması. CME FedWatch, 25 baz puanlık faiz artırımına yüzde 97,5 ihtimal veriyor.",
-   "tarih": "2026-11-25T11:29:21.338Z"
   }
  ]
 }
