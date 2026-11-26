@@ -1,7 +1,17 @@
 {
- "guncelleme": "2026-11-25T20:05:56.956Z",
+ "guncelleme": "2026-11-26T02:45:05.007Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2396,
+   "metin": "Fidelity, Nasdaq'ta işlem görecek spot bir Chainlink (LINK) fonu için başvuru yaptı. Önerilen ürün LINK token'larını stake etmeden (kilitleyip getiri almadan) doğrudan elinde tutacak.\n\nBu piyasaya Grayscale ve Bitwise zaten hizmet veriyor. Başvuru fonun başlatıldığı anlamına gelmiyor.",
+   "tarih": "2026-11-25T20:45:58.045Z"
+  },
+  {
+   "id": 2395,
+   "metin": "Fed anketi, son haftalarda ekonomik büyümenin sürdüğünü ve enflasyonun inatçı kaldığını gösterdi.",
+   "tarih": "2026-11-25T20:06:42.144Z"
+  },
   {
    "id": 2394,
    "metin": "Anza'ya göre Solana'da (SOL) Direct Mapping bugün ana ağda (mainnet) devreye alınacak. Kopyalamayı kaldıran geçiş 1097. epoch için planlandı.\n\nDaha sıkı bellek denetimleri etkin olarak listelendi ve güvensiz program kodu risk altında.",
@@ -91,16 +101,6 @@
    "id": 2377,
    "metin": "Solana (SOL) geliştiricileri, ağı çalıştıran bilgisayarların (doğrulayıcıların) ağın çoktan elediği bloklar üzerindeki işi sürdürmesini durduracak bir düzeltme için harekete geçti.\n\nDüzeltme uygulanırsa bu bilgisayarlar ağın zaten reddettiği işlemlere boşuna güç harcamayacak. Böylece ağın yakın zamandaki hız güncellemesinin dokunmadığı işlem gücü serbest kalacak.",
    "tarih": "2026-11-25T07:44:01.514Z"
-  },
-  {
-   "id": 2376,
-   "metin": "Aave Labs, Dublin'deki operasyonlarını büyütüyor; düzenlemeye tabi nakit-kripto geçiş iştiraki Push üzerinden üç yılda 20 yeni istihdam yaratmayı planlıyor. IDA Ireland 20 Kasım'da duyurdu.\n\nPush, İrlanda Merkez Bankası'ndan kripto varlık hizmet sağlayıcısı yetkisi taşıyor. Dublin, şirketin Avrupa'daki düzenlemeye tabi işlerinin üssü olacak.\n\nYetki yalnızca Push'un düzenlenen hizmetleri için geçerli; Aave'nin (AAVE) merkeziyetsiz borç verme protokolünün MiCA lisansı olduğu anlamına gelmiyor.",
-   "tarih": "2026-11-25T06:44:57.514Z"
-  },
-  {
-   "id": 2375,
-   "metin": "Bloomberg Intelligence'a göre 2.223 kurum, 30 Eylül itibarıyla spot Bitcoin ETF'lerinde 29,8 milyar dolarlık pozisyon bildirdi. Bildirenlerin yaklaşık yüzde 84'ünü yatırım danışmanları oluşturdu; bunların pozisyonu 13,4 milyar dolar.\n\nGalaxy Research'ün tahminine göre yöneticiler çeyrekte 49.229 BTC eşdeğeri ekledi. Bu, 2025'in ikinci çeyreğinden beri en büyük çeyreklik artış.\n\nVeriler 30 Eylül tarihli. ETF'ler Kasım'ın 23'üne kadar 4,71 milyar dolarlık net çıkış gördü; bu çıkışlar tabloya yansımıyor.",
-   "tarih": "2026-11-25T06:14:02.915Z"
   }
  ]
 }
