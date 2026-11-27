@@ -1,7 +1,32 @@
 {
- "guncelleme": "2026-11-27T13:42:48.506Z",
+ "guncelleme": "2026-11-27T22:36:51.000Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2414,
+   "metin": "Bitcoin (BTC) 62.000 doların üzerine çıkma denemesinde sert biçimde reddedilip dakikalar içinde 3.000 dolar düşerek 59.000 dolara indi. Son bir saatte 190 milyon dolarlık kaldıraçlı pozisyon tasfiye edildi.\n\nBitcoin cumartesi sabahı 55.000 dolarla iki yılı aşkın sürenin en düşük seviyesini görmüştü.\n\nTasfiyenin 182 milyon doları yükseliş yönlü (long) pozisyonlardan geldi. CoinGlass'a göre 24 saatte 90.000'den fazla yatırımcı tasfiye oldu; Ethereum (ETH) bir saatte yüzde 4 düşüp 1.660 dolara indi.",
+   "tarih": "2026-11-27T18:04:40.443Z"
+  },
+  {
+   "id": 2413,
+   "metin": "Monero (XMR), Kraken'de 24 saatte yüzde 10'dan fazla değer kaybetti; Bitcoin (BTC) ve Ether neredeyse hiç kıpırdamadı. KuCoin da Pazartesi günü Monero'nun dört spot piyasasını kapatacak.\n\nRakip gizlilik coini Zcash (ZEC) aynı sürede yükselişteydi.",
+   "tarih": "2026-11-27T17:05:14.947Z"
+  },
+  {
+   "id": 2412,
+   "metin": "LayerZero, Zero'nun açılışı için 40'tan fazla doğrulayıcı belirledi. Listede Kakao Pay, Broadridge ve ZAN yer alıyor.\n\nLayerZero'nun resmî stake sitesi başlangıçta her ZRO yatırımını açılıştaki doğrulayıcılar arasında eşit paylara bölüyor.",
+   "tarih": "2026-11-27T16:23:20.443Z"
+  },
+  {
+   "id": 2411,
+   "metin": "Bitcoin (BTC) ağında 26 Kasım'da yeni blok 98 dakika 19 saniye boyunca üretilmedi; hedef süre 10 dakika. Galaxy Digital araştırma başkanı Alex Thorn'a göre bu aralık Temmuz'dan beri en uzunu.\n\nGlassnode verisine göre ağın madencilik gücü 24 Kasım'da bir yıl öncesinin yüzde 8 altındaydı. Çin'in 2021'deki madencilik yasağından beri ilk yıllık düşüş bu.\n\nGalaxy'nin hesabına göre bu uzunlukta bir ara yaklaşık dört ayda bir yaşanır. Madencilik gücündeki düşüş sürerse ve bloklar uzun gecikmeye devam ederse madencilerin zorlandığına işaret edebilir.",
+   "tarih": "2026-11-27T15:45:33.543Z"
+  },
+  {
+   "id": 2410,
+   "metin": "Halogen'in şeriata uygun spot Bitcoin (BTC) ETF'i 2 Aralık'ta Bursa'da işlem görmeye başlayacak.\n\nFon listelenince bireysel yatırımcılar bir aracı kurum üzerinden fonu ringgit ya da ABD doları ile alıp satabilecek.",
+   "tarih": "2026-11-27T14:46:22.344Z"
+  },
   {
    "id": 2409,
    "metin": "Çin'de çip endeksi günü yüzde 17,6 yükselişle kapattı. Devlet Konseyi, hisse senetlerini istikrara kavuşturmada devlet destekli fonların daha büyük rol almasını istedi. Daha geniş kapsamlı CSI 300 endeksi yüzde 4,2 arttı.",
@@ -76,31 +101,6 @@
    "id": 2395,
    "metin": "Fed anketi, son haftalarda ekonomik büyümenin sürdüğünü ve enflasyonun inatçı kaldığını gösterdi.",
    "tarih": "2026-11-25T20:06:42.144Z"
-  },
-  {
-   "id": 2394,
-   "metin": "Anza'ya göre Solana'da (SOL) Direct Mapping bugün ana ağda (mainnet) devreye alınacak. Kopyalamayı kaldıran geçiş 1097. epoch için planlandı.\n\nDaha sıkı bellek denetimleri etkin olarak listelendi ve güvensiz program kodu risk altında.",
-   "tarih": "2026-11-25T19:44:19.824Z"
-  },
-  {
-   "id": 2393,
-   "metin": "ABD Bitcoin (BTC) rezervi tasarısı Temsilciler Meclisi'nin Union Calendar listesine girdi. Tasarının 5. maddesi, federal hükümetin edindiği rezerv bitcoin'in yasalaşmasından itibaren 20 yıl boyunca elde tutulmasını öngörüyor.\n\nTasarının Temsilciler Meclisi'nden geçmesi henüz beklemede.",
-   "tarih": "2026-11-25T19:26:25.447Z"
-  },
-  {
-   "id": 2392,
-   "metin": "ABD Adalet Bakanlığı, kripto dolandırıcılığından elde edilen milyarlarca dolarlık gelirleri hedef alan yeni adımı \"şimdiye kadarki en büyük operasyon\" diye niteledi.\n\nAçıklama, Başkan Donald Trump'ın dolandırıcılıkla mücadele talimatının ardından geldi.",
-   "tarih": "2026-11-25T18:31:24.145Z"
-  },
-  {
-   "id": 2391,
-   "metin": "Yapay zeka kaynaklı satış dalgası ve Trump’ın yeni gümrük tarifeleri Wall Street’i ürkütürken Nasdaq yaklaşık %4 düştü.",
-   "tarih": "2026-11-25T17:25:07.944Z"
-  },
-  {
-   "id": 2390,
-   "metin": "Franklin Templeton, EZPZ kodlu kripto endeks ETF'sine 1 Aralık'ta Hyperliquid'in HYPE tokenini ekleyecek. Fonun kripto varlık sayısı yediden sekize çıkacak.\n\nHamle, CF Benchmarks'ın 16 Kasım'da HYPE'ı kendi endeksine alma kararının ardından geliyor. SEC'e verilen belgede HYPE'ın ilk ağırlığı yer almıyor.\n\nGrayscale, Bitwise ve 21Shares'in tek varlıklı HYPE ETF'lerinden kasımda şimdiye kadar 37 milyon dolar çıkış oldu. Çeşitlendirilmiş endeks fonları ise HYPE'ı portföyüne eklemeye devam ediyor.",
-   "tarih": "2026-11-25T17:02:44.517Z"
   }
  ]
 }
