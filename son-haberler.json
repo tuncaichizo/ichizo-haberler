@@ -1,7 +1,27 @@
 {
- "guncelleme": "2026-11-28T04:12:15.797Z",
+ "guncelleme": "2026-11-28T13:29:49.527Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2419,
+   "metin": "ABD'de hanehalkı tasarruf oranı ekimde yüzde 4,1'e çıkarak haziran düzeyine yaklaştı; eylülde oran yüzde 3,6'ydı. Enflasyondan arındırılmış harcanabilir gelir yüzde 0,5 artarken harcamalar neredeyse hiç değişmedi.\n\nGelir artışının bir kısmı, 20,8 milyon hak sahibine yapılan tek seferlik Medicare prim iadesinden geldi. Maaş ve temettü gelirleri de arttı.\n\nHaziran'dan bu yana harcamalar yüzde 0,88, satın alma gücüyle gelir yüzde 0,68 büyüdü; aradaki fark yaklaşık yüzde 0,2'ye indi. İadenin tasarrufa katkısı ölçülmedi.",
+   "tarih": "2026-11-28T13:05:04.644Z"
+  },
+  {
+   "id": 2418,
+   "metin": "⚠️ ABD'li düzenleyiciler 5,9 milyar dolarlık varlığı olan United Fidelity Bank'ı kapattı. Banka, 2024'teki Republic First Bank'tan bu yana ülkenin en büyük banka çöküşü oldu.\n\nFirst Citizens, varlıkların ve mevduatların hemen tamamını ihaleyle devraldı. FDIC'in sigorta fonuna maliyetin 1,83 milyar dolar olması bekleniyor.\n\nFonun kaybı bankanın varlıklarının yaklaşık üçte birine denk geliyor. Mevduat sahipleri otomatik olarak First Citizens müşterisi oldu, mevduat sigortası kapsamı sürüyor.",
+   "tarih": "2026-11-28T09:07:15.443Z"
+  },
+  {
+   "id": 2417,
+   "metin": "Tron (TRX) kurucusu Justin Sun, Trump destekli World Liberty Financial ekibini dolandırıcılıkla suçlayıp borsaları WLFI ve USD1'i listeden çıkarmaya çağırdı. USD1 stablecoin'i bu sırada dolar bağının altına indi.\n\nWLFI 24 saatte yaklaşık yüzde 60 düştü. Zincir verisine göre World Liberty bağlantılı bir cüzdan yaklaşık 20 milyon dolarlık ETH ve stake edilmiş ETH sattı.\n\nZincir verisine göre Jump Crypto, borsalardan indirimli aldığı USD1'i BitGo üzerinden tam değerinden bozduruyor. Son bir saatte borsalardan 43,26 milyon USD1 çekti.",
+   "tarih": "2026-11-28T08:27:56.545Z"
+  },
+  {
+   "id": 2416,
+   "metin": "Galaxy Research verilerine göre Bitcoin'in (BTC) altınla 90 işlem günlük korelasyonu 0,56 ile 2011'den bu yana en yüksek seviyeye çıktı, sonra 0,54'e indi. Önceki zirve 2020'deki 0,50'ydi.\n\nGalaxy Digital'in firma geneli araştırma başkanı Alex Thorn veriyi 27 Kasım'da paylaştı. 23 Kasım'da 30 günlük korelasyon 0,59, 60 günlük korelasyon 0,52'ydi.\n\nArk Invest CEO'su Cathie Wood'un andığı 2019'dan beri 0,10'luk rakam yıllarca süren zayıf ilişkiyi de içerir; 90 günlük rakam yalnız yakın dönemi ölçer.",
+   "tarih": "2026-11-28T05:43:24.044Z"
+  },
   {
    "id": 2415,
    "metin": "Anza, Solana (SOL) ana ağında Agave'nin hemen güncellenmesini istedi. Anza, Solana kümelerinin şu an normal çalıştığını söyledi.\n\nJito-Solana ve Harmonic, Agave'nin güncel sürümüne dayanan yeni sürümlerini yayımladı.",
@@ -81,26 +101,6 @@
    "id": 2400,
    "metin": "ABD'deki spot Bitcoin (BTC) ETF'lerinden kasımda 5,39 milyar dolar net çıkış oldu; Morgan Stanley Bitcoin Trust ise 114,1 milyon dolar net girişle akıntıya karşı durdu.\n\nFarside Investors verisi çarşambaya kadarki dönemi kapsıyor. Kasımda net girişte yalnızca bu fon ile WisdomTree Bitcoin Fund var; ikincisinin girişi 300 bin dolarda kaldı.\n\nKasım çıkışı, haziranda kaydedilen 4,51 milyar dolarlık aylık rekoru şimdiden aştı. Perşembe borsalar kapalı, cuma günü erken kapanıyor; ayın tek tam işlem günü pazartesi kaldı.",
    "tarih": "2026-11-26T10:05:54.345Z"
-  },
-  {
-   "id": 2399,
-   "metin": "Financial Times'a göre İngiltere'nin finans düzenleyicisi Financial Conduct Authority (FCA), 6,3 milyar dolarlık Binance saldırısını gerekçe göstererek DeFi platformları için önerdiği yetki şartlarıyla ilerlemeyi planlıyor.\n\nFCA'nın ödemeler ve dijital varlıklar başkanı Jane Moore, çalınan fonların DeFi'de hızla ve büyük ölçekte hareket etmesinin dondurma çabalarını zayıflatabileceğini söyledi.\n\nNihai rehberin Ocak 2027'de gelmesi, yeni rejimin ise 25 Ekim 2027'de başlaması bekleniyor.",
-   "tarih": "2026-11-26T07:25:19.144Z"
-  },
-  {
-   "id": 2398,
-   "metin": "BIT Asset Management'ın BBIT fonu İsviçre'deki SIX Swiss Exchange'te işlem görmeye başladı. BIT, fonun Avrupa'daki tek spot Bitcoin ETF'si olduğunu söylüyor.\n\nFon 350 BTC varlıkla açıldı. Yıllık gider oranı yüzde 0,19.",
-   "tarih": "2026-11-26T06:43:37.046Z"
-  },
-  {
-   "id": 2397,
-   "metin": "LayerZero, yakında çıkacak Zero blokzincirine doğrulayıcı olarak Samsung Card, Kakao Pay ve ZAN'ı ekledi.\n\nZero, işlemlerin yürütülmesini doğrulamadan ayırmak için ZK (sıfır bilgi) kanıtları kullanıyor. Doğrulayıcılar yalnızca bu kanıtları doğruluyor, böylece aynı işin tekrarlandığı bir katman ortadan kalkıyor.",
-   "tarih": "2026-11-26T05:01:44.044Z"
-  },
-  {
-   "id": 2396,
-   "metin": "Fidelity, Nasdaq'ta işlem görecek spot bir Chainlink (LINK) fonu için başvuru yaptı. Önerilen ürün LINK token'larını stake etmeden (kilitleyip getiri almadan) doğrudan elinde tutacak.\n\nBu piyasaya Grayscale ve Bitwise zaten hizmet veriyor. Başvuru fonun başlatıldığı anlamına gelmiyor.",
-   "tarih": "2026-11-25T20:45:58.045Z"
   }
  ]
 }
