@@ -1,7 +1,12 @@
 {
- "guncelleme": "2026-11-27T22:36:51.000Z",
+ "guncelleme": "2026-11-28T04:12:15.797Z",
  "kaynak": "https://ichizoterminal.com/tweets",
  "haberler": [
+  {
+   "id": 2415,
+   "metin": "Anza, Solana (SOL) ana ağında Agave'nin hemen güncellenmesini istedi. Anza, Solana kümelerinin şu an normal çalıştığını söyledi.\n\nJito-Solana ve Harmonic, Agave'nin güncel sürümüne dayanan yeni sürümlerini yayımladı.",
+   "tarih": "2026-11-27T23:43:48.444Z"
+  },
   {
    "id": 2414,
    "metin": "Bitcoin (BTC) 62.000 doların üzerine çıkma denemesinde sert biçimde reddedilip dakikalar içinde 3.000 dolar düşerek 59.000 dolara indi. Son bir saatte 190 milyon dolarlık kaldıraçlı pozisyon tasfiye edildi.\n\nBitcoin cumartesi sabahı 55.000 dolarla iki yılı aşkın sürenin en düşük seviyesini görmüştü.\n\nTasfiyenin 182 milyon doları yükseliş yönlü (long) pozisyonlardan geldi. CoinGlass'a göre 24 saatte 90.000'den fazla yatırımcı tasfiye oldu; Ethereum (ETH) bir saatte yüzde 4 düşüp 1.660 dolara indi.",
@@ -96,11 +101,6 @@
    "id": 2396,
    "metin": "Fidelity, Nasdaq'ta işlem görecek spot bir Chainlink (LINK) fonu için başvuru yaptı. Önerilen ürün LINK token'larını stake etmeden (kilitleyip getiri almadan) doğrudan elinde tutacak.\n\nBu piyasaya Grayscale ve Bitwise zaten hizmet veriyor. Başvuru fonun başlatıldığı anlamına gelmiyor.",
    "tarih": "2026-11-25T20:45:58.045Z"
-  },
-  {
-   "id": 2395,
-   "metin": "Fed anketi, son haftalarda ekonomik büyümenin sürdüğünü ve enflasyonun inatçı kaldığını gösterdi.",
-   "tarih": "2026-11-25T20:06:42.144Z"
   }
  ]
 }
